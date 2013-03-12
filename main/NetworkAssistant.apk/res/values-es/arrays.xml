@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="traffic_sort_type">
+        <item>Ordenar por nombre</item>
+        <item>Ordenar por consumo 2G/3G</item>
+        <item>Ordenar por consumo total</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>Consumo de ayer</item>
+        <item>Consumo de hoy</item>
+        <item>Consumo del mes</item>
+    </string-array>
+    <string-array name="date_of_app">
+        <item>Ayer</item>
+        <item>Hoy</item>
+        <item>Este mes</item>
+    </string-array>
+    <string-array name="network_speed_update_internals">
+        <item>3 segundos</item>
+        <item>4 segundos</item>
+        <item>5 segundos</item>
+        <item>6 segundos</item>
+        <item>7 segundos</item>
+        <item>8 segundos</item>
+        <item>9 segundos</item>
+    </string-array>
+    <string-array name="network_speed_update_internal_values">
+        <item>3000</item>
+        <item>4000</item>
+        <item>5000</item>
+        <item>6000</item>
+        <item>7000</item>
+        <item>8000</item>
+        <item>9000</item>
+    </string-array>
+    <string-array name="carriers">
+        <item>China Mobile</item>
+        <item>China Unicom</item>
+        <item>China Telecom</item>
+    </string-array>
+    <string-array name="brands_cmcc">
+        <item>GSM</item>
+        <item>M-Zone</item>
+        <item>Easyown</item>
+    </string-array>
+    <string-array name="brands_unicom">
+        <item>Unicom 2G</item>
+        <item>Unicom 3G</item>
+    </string-array>
+</resources>

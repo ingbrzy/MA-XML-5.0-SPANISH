@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="move_messages">
+        <item quantity="other">Mover mensajes</item>
+        <item quantity="one">Mover mensaje</item>
+    </plurals>
+    <plurals name="notification_new_one_account_fmt">
+        <item quantity="other">%1$d no leídos (%2$s)</item>
+        <item quantity="one">%1$d no leídos (%2$s)</item>
+        <item quantity="few">%1$d no leídos (%2$s)</item>
+    </plurals>
+    <plurals name="notification_new_multi_account_fmt">
+        <item quantity="other">en %d cuentas</item>
+        <item quantity="few">en %d cuentas</item>
+    </plurals>
+    <plurals name="number_of_accounts">
+        <item quantity="other">%1$d cuentas</item>
+        <item quantity="one">%1$d cuenta</item>
+    </plurals>
+    <plurals name="picker_combined_view_account_count">
+        <item quantity="other">%d cuentas</item>
+        <item quantity="one">%d cuenta</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">%d seleccionados</item>
+        <item quantity="one">%d seleccionados</item>
+    </plurals>
+    <plurals name="message_view_show_attachments_action">
+        <item quantity="other">%1$d adjuntos</item>
+        <item quantity="one">%1$d adjunto</item>
+    </plurals>
+    <plurals name="message_delete_confirm">
+        <item quantity="other">¿Eliminar estos mensajes?</item>
+        <item quantity="one">¿Eliminar este mensaje?</item>
+    </plurals>
+    <plurals name="message_deleted_toast">
+        <item quantity="other">Mensajes eliminados</item>
+        <item quantity="one">Mensaje eliminado</item>
+    </plurals>
+    <plurals name="message_moved_toast">
+        <item quantity="other">Se han movido %1$d mensajes a %2$s.</item>
+        <item quantity="one">Se ha movido %1$d mensaje a %2$s.</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%d B</item>
+        <item quantity="one">%d B</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%d KB</item>
+        <item quantity="one">%d KB</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%d MB</item>
+        <item quantity="one">%d MB</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%d GB</item>
+        <item quantity="one">%d GB</item>
+    </plurals>
+    <plurals name="gal_completed_fmt">
+        <item quantity="other">%1$d resultados de %2$s</item>
+        <item quantity="one">%1$d resultado de %2$s</item>
+    </plurals>
+</resources>

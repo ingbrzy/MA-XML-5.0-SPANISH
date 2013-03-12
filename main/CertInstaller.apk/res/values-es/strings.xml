@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Instalador de certificados</string>
+    <string name="pick_file_title">Selecciona un certificado.</string>
+    <string name="pkcs12_password_dialog_title">Extraer certificado</string>
+    <string name="extracting_pkcs12">Extrayendo...</string>
+    <string name="pkcs12_file_password_dialog_title">Extraer de %s</string>
+    <string name="name_credential_dialog_title">Nombre del certificado</string>
+    <string name="credential_name">Nombre del certificado:</string>
+    <string name="credential_password">Introduce la contraseña para extraer los certificados.</string>
+    <string name="credential_info">El paquete contiene:</string>
+    <string name="p12_description">Certificados del almacén de claves PKCS12</string>
+    <string name="one_userkey">una clave de usuario</string>
+    <string name="one_usercrt">un certificado de usuario</string>
+    <string name="one_cacrt">un certificado CA</string>
+    <string name="n_cacrts">%d certificados de CA</string>
+    <string name="password_error">Introduce la contraseña correcta.</string>
+    <string name="password_empty_error">Introduce la contraseña.</string>
+    <string name="name_empty_error">Introduce un nombre.</string>
+    <string name="name_char_error">Introduce un nombre que contenga solo letras y números.</string>
+    <string name="storage_error">No se puede guardar el certificado. Haz clic en \"Aceptar\" para intentarlo de nuevo.</string>
+    <string name="unable_to_save_cert">No se ha podido guardar el certificado. El almacenamiento de credenciales no está permitido o no se ha inicializado correctamente.</string>
+    <string name="cert_not_saved">No se ha instalado el certificado.</string>
+    <string name="no_cert_to_saved">No hay ningún certificado que instalar.</string>
+    <string name="invalid_cert">El certificado no es válido.</string>
+    <string name="cert_is_added">%s se ha instalado.</string>
+    <string name="cert_too_large_error">Se ha producido un error en la instalación. El tamaño del certificado es demasiado grande.</string>
+    <string name="cert_missing_error">Se ha producido un error en la instalación. No se puede ubicar el archivo del certificado.</string>
+    <string name="cert_read_error">Se ha producido un error en la instalación. No se puede leer el archivo del certificado.</string>
+    <string name="no_cert_file_found">No se ha encontrado el archivo del certificado en el almacenamiento USB.</string>
+    <string name="sdcard_not_present">USB no disponible</string>
+</resources>

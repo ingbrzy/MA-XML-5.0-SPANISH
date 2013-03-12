@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="app_name">MusicFX</string>
+  <string name="bass_boost_strength">Graves</string>
+  <string name="ci_extreme">FX Booster</string>
+  <string name="eq_dialog_title">Ecualizador</string>
+  <string name="headset_plug">Por favor introduzca los auriculares para estos efectos</string>
+  <string name="main_toggle_effects_title">Efectos de audio</string>
+  <string name="no_effects">Efectos no disponibles</string>
+  <string name="picker_title">Panel de control de MusicFX</string>
+  <string name="pr_dialog_title">Presetablecidos</string>
+  <string name="pr_summary">Efectos de reverberación adicionales</string>
+  <string name="pr_title">Reverberación:</string>
+  <string name="setup">Configurar</string>
+  <string name="user">Usuario</string>
+  <string name="virtualizer_strength">Efecto 3D</string>
+</resources>

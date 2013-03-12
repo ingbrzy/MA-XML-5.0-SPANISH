@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="error">Error</string>
+    <string name="digit0">0</string>
+    <string name="digit1">1</string>
+    <string name="digit2">2</string>
+    <string name="digit3">3</string>
+    <string name="digit4">4</string>
+    <string name="digit5">5</string>
+    <string name="digit6">6</string>
+    <string name="digit7">7</string>
+    <string name="digit8">8</string>
+    <string name="digit9">9</string>
+    <string name="del">ELIMINAR</string>
+    <string name="clear">CE</string>
+    <string name="div">÷</string>
+    <string name="mul">×</string>
+    <string name="plus">+</string>
+    <string name="minus">−</string>
+    <string name="dot">.</string>
+    <string name="equal">=</string>
+    <string name="enter">↓</string>
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+    <string name="pi">π</string>
+    <string name="e">e</string>
+    <string name="ln">ln</string>
+    <string name="lg">log</string>
+    <string name="leftParen">(</string>
+    <string name="rightParen">)</string>
+    <string name="sqrt">√</string>
+    <string name="power">^</string>
+    <string name="factorial">!</string>
+    <string name="basic">Panel de funciones básicas</string>
+    <string name="advanced">Panel de funciones avanzadas</string>
+    <string name="clear_history">Borrar historial</string>
+    <string name="text_copied_toast">Texto copiado.</string>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Grabadora de sonido</string>
+    <string name="recording">Grabando</string>
+    <string name="recording_stopped">Grabación detenida</string>
+    <string name="storage_is_full">El espacio de almacenamiento esta lleno</string>
+    <string name="max_length_reached">Longitud máxima alcanzada</string>
+    <string name="insert_sd_card">Por favor, introduzca la tarjeta SD</string>
+    <string name="button_ok">Aceptar</string>
+    <string name="timer_format" formatted="false">%02d:%02d</string>
+    <string name="audio_db_title_format">dd/MM/yyyy HH:mm:ss</string>
+    <string name="audio_db_artist_name">Tus grabaciones</string>
+    <string name="audio_db_album_name">Grabaciones de audio</string>
+    <string name="audio_db_playlist_name">Grabaciones favoritas</string>
+    <string name="error_sdcard_access">No es posible acceder a la tarjeta SD</string>
+    <string name="error_app_internal">Error interno</string>
+    <string name="error_mediadb_new_record">No es posible guardar las grabaciones</string>
+    <string name="default_record_name">Grabación sin nombre</string>
+    <string name="menu_view_record_list">Ver lista de grabaciones</string>
+    <string name="menu_setting">Ajustes</string>
+    <string name="delete_dialog_message">Desea borrar la grabación actual?</string>
+    <string name="overwrite_dialog_message">\"%s\" ya existe. ¿Desea sobreescribirlo?</string>
+    <string name="preferences_title">Ajustes de la grabadora</string>
+    <string name="pref_title_record_type">Tipo de archivo</string>
+    <string name="prefDialogTitle_recordType">Por favor, seleccione el tipo de archivo</string>
+    <string name="prefDefault_recordType">audio/3gpp</string>
+    <string name="pref_title_enable_high_quality">Habilitar alta calidad</string>
+    <string name="pref_summary_enable_high_quality">Los archivos de audio en alta calidad serán de mayor tamaño</string>
+    <string name="pref_title_enable_sound_effect">Habilitar efectos de sonido</string>
+    <string name="pref_summary_enable_sound_effect">Se reproducira con efectos de sonido cuando el estado cambie</string>
+    <string name="notification_recording">Grabando…\u0085</string>
+    <string name="notification_stopped">Grabación pausada</string>
+    <string name="notification_warning">Le queda poco espacio en la tarjeta SD. Menos de %d minutos…\u0085</string>
+    <string name="record_list">Lista de grabaciones</string>
+    <string name="sd_card_not_available">La tarjeta SD no está disponible</string>
+    <string name="call_record">Grabar llamada</string>
+    <string name="open_file_explorer">Abrir explorador de archivos</string>
+    <string name="no_file">No hay grabaciones</string>
+    <string name="mark_now">(Ahora)</string>
+    <string name="second">%d segund(s)</string>
+    <string name="minute">%d minuto(s)</string>
+    <string name="hour">%d hora(s)</string>
+    <string name="call_record_or">o</string>
+    <string name="dialog_play">Reproducir</string>
+    <string name="dialog_send">Enviar</string>
+    <string name="dialog_delete">Eliminar</string>
+    <string name="dialog_warning">Atención</string>
+    <string name="alert_message_delete_record">¿Quieres eliminar la grabación seleccionada?</string>
+    <string name="delete_dialog_title">¿Quieres borrar la grabación actual?</string>
+    <string name="overwrite_dialog_title">%s ya existe. ¿Deseas sobreescribirlo?</string>
+</resources>

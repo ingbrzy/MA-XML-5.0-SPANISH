@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Servicio NFC</string>
+    <string name="nfcUserLabel">Nfc</string>
+    <string name="inbound_me_profile_title">Contacto recibido a traves de NFC</string>
+    <string name="inbound_me_profile_text">Pulsa para añadir a esta persona como contacto</string>
+    <string name="outbound_me_profile_title">NFC interaction complete</string>
+    <string name="outbound_me_profile_text">Pulsa para permitir a esta persona ver tu informacion de contactos</string>
+    <string name="accessibility_nfc_enabled">NFC activado.</string>
+    <string name="touch">Pulsa para compartir</string>
+</resources>

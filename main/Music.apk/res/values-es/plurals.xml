@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ntracks_format">
+        <item quantity="other">%1$d canciones</item>
+        <item quantity="one">%1$d canción</item>
+    </plurals>
+    <plurals name="Nalbums_format">
+        <item quantity="other">%1$d álbumes</item>
+        <item quantity="one">%1$d álbum</item>
+    </plurals>
+    <plurals name="Ntracks">
+        <item quantity="other">canciones</item>
+        <item quantity="one">canción</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">álbumes</item>
+        <item quantity="one">álbum</item>
+    </plurals>
+    <plurals name="Nartists">
+        <item quantity="other">artistas</item>
+        <item quantity="one">artista</item>
+    </plurals>
+    <plurals name="Nplaylists">
+        <item quantity="other">listas de reproducción</item>
+        <item quantity="one">lista de reproducción</item>
+    </plurals>
+    <plurals name="Nfolders">
+        <item quantity="other">" carpetas"</item>
+        <item quantity="one">" carpeta"</item>
+    </plurals>
+    <plurals name="Ntracks_batch_selection">
+        <item quantity="other">%1$d canciones seleccionadas</item>
+        <item quantity="one">%1$d canción seleccionada</item>
+    </plurals>
+    <plurals name="Nalbums_batch_selection">
+        <item quantity="other">%1$d álbumes seleccionados</item>
+        <item quantity="one">%1$d álbum seleccionado</item>
+    </plurals>
+    <plurals name="Nartists_batch_selection">
+        <item quantity="other">%1$d artistas seleccionados</item>
+        <item quantity="one">%1$d artista seleccionado</item>
+    </plurals>
+    <plurals name="Nfolders_batch_selection">
+        <item quantity="other">%1$d carpetas seleccionadas</item>
+        <item quantity="one">%1$d carpeta seleccionada</item>
+    </plurals>
+    <plurals name="Nplaylists_batch_selection">
+        <item quantity="other">%1$d listas de reproducción seleccionadas</item>
+        <item quantity="one">%1$d lista de reproducción seleccionada</item>
+    </plurals>
+    <plurals name="Ntrack_in_sdcard_format">
+        <item quantity="other">Hay %1$d canciones en la tarjeta SD</item>
+        <item quantity="one">hay %1$d canción en la tarjeta SD</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">%1$d canciones añadidas a la lista de reproducción.</item>
+        <item quantity="one">1 canción añadida a la lista de reproducción.</item>
+    </plurals>
+    <plurals name="NNNtrackstofavoriteplaylist">
+        <item quantity="other">%1$d canciones añadidas a la lista de reproducción.</item>
+        <item quantity="one">1 canción añadida a la lista de reproducción.</item>
+    </plurals>
+    <plurals name="Nonlinecategory">
+        <item quantity="other">" categorias"</item>
+        <item quantity="one">" categoria"</item>
+    </plurals>
+    <plurals name="album_details_format">
+        <item quantity="other">%1$s, %2$d canciones</item>
+        <item quantity="one">%1$s, %2$d canción</item>
+    </plurals>
+    <plurals name="NNNtracksdeleted">
+        <item quantity="other">%1$d canciones borradas.</item>
+        <item quantity="one">1 canción borrada.</item>
+    </plurals>
+    <plurals name="Nnowplaying">
+        <item quantity="other">canciones se están reproduciendo ahora</item>
+        <item quantity="one">canción se está reproduciendo ahora</item>
+    </plurals>
+</resources>

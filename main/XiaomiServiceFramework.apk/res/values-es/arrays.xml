@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="new_account_types">
+        <item>Registrarse vía número de teléfono (Recomendado)</item>
+        <item>Registrarse vía Email</item>
+    </string-array>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="VideoView_error_button">OK</string>
+  <string name="VideoView_error_text_invalid_progressive_playback">Lo sentimos, este video no puede ser reproducido en su dispositivo.</string>
+  <string name="VideoView_error_text_unknown">Lo sentimos, este video no puede ser reproducido.</string>
+  <string name="VideoView_error_title">No se ha podido reproducir este video.</string>
+  <string name="about_app_name">MiPlayer</string>
+  <string name="about_title">Acerca de</string>
+  <string name="about_version">V4.0</string>
+  <string name="adjust_position_next_media_notice">Siguiente</string>
+  <string name="adjust_position_prev_media_notice">Anterior</string>
+  <string name="airkan_control_device_des">Puedes controlar la reproducción del video con el botón inferior.</string>
+  <string name="airkan_device_xiaomi_phone">Xiaomi</string>
+  <string name="app_name">MiVideo</string>
+  <string name="buffering">Almacenando en buffer...</string>
+  <string name="hello">VideoPlayerActivity</string>
+  <string name="loading_video_netplay_label">Cargando, por favor espere...</string>
+  <string name="menu_item_about_label">Acerca de</string>
+  <string name="menu_item_hide_media_info_label">Ocultar MediaInfo</string>
+  <string name="menu_item_media_info_label">Mostrar MediaInfo</string>
+  <string name="menu_item_switch_width_height_label">Cambiar tamaño</string>
+  <string name="menu_wh_item_adapt_height_label">Ajustar Vertical</string>
+  <string name="menu_wh_item_adapt_width_label">Ajustar Horizontal</string>
+  <string name="menu_wh_item_auto_select_label">Auto seleccionar</string>
+  <string name="menu_wh_item_using_16_9_label">Proporción 16:9</string>
+  <string name="menu_wh_item_using_4_3_label">Proporción 4:3</string>
+  <string name="toast_back_key_pressed_notice">Pulse nuevamente ATRAS para salir.</string>
+  <string name="video_info_audio_bitrate_label">Bitrate de audio:</string>
+  <string name="video_info_audio_coding_label">Encoder de audio:</string>
+  <string name="video_info_audio_null">Ninguno</string>
+  <string name="video_info_frame_rate_label">Cuadros por segundo:</string>
+  <string name="video_info_length_label">Duración:</string>
+  <string name="video_info_resolution_label">Resolución de video:</string>
+  <string name="video_info_video_coding_label">Encoder de video:</string>
+</resources>

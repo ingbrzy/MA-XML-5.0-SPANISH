@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Proveedor aplicaciones búsqueda</string>
+    <string name="search_label">Aplicaciones</string>
+    <string name="application_desc">Aplicación</string>
+    <string name="settings_description">Nombre de aplicaciones instaladas</string>
+</resources>

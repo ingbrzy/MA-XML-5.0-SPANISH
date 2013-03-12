@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="app_name">Búsqueda de Google</string>
+  <string name="apps_search_activity"  />
+  <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
+  <string name="clear_shortcuts">Borrar accesos directos</string>
+  <string name="clear_shortcuts_agree">Borrar accesos directos</string>
+  <string name="clear_shortcuts_disagree">No borrar accesos directos</string>
+  <string name="clear_shortcuts_prompt">"Se borrarán todos los accesos directos a las sugerencias de búsqueda seleccionadas recientemente.(Para borrar el historial de tu navegador, utiliza las opciones de configuración del navegador)."</string>
+  <string name="clear_shortcuts_summary">Borrar los accesos directos a las sugerencias de búsqueda seleccionadas recientemente</string>
+  <string name="corpus_description_apps">Nombres de aplicaciones instaladas</string>
+  <string name="corpus_description_web">Búsqueda web, marcadores e historial del navegador</string>
+  <string name="corpus_hint_apps">Buscar aplicaciones</string>
+  <string name="corpus_label_apps">Aplicaciones</string>
+  <string name="corpus_label_global">Todo</string>
+  <string name="corpus_label_web">Web</string>
+  <string name="corpus_selection_heading">Búsqueda</string>
+  <string name="default_search_domain">.google.com</string>
+  <string name="device_settings_category_title">Borrar accesos directos</string>
+  <string name="google_app_label">Búsqueda de Google</string>
+  <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
+  <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
+  <string name="google_search_description">Sugerencias de búsqueda de Google</string>
+  <string name="google_search_hint">Búsqueda de Google</string>
+  <string name="google_search_label">Google</string>
+  <string name="google_settings_category_title">Búsqueda de Google</string>
+  <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
+  <string name="installed_apps_component">com.android.providers.applications/.ApplicationLauncher</string>
+  <string name="menu_help">Ayuda</string>
+  <string name="menu_settings">Ajustes de búsqueda</string>
+  <string name="remove_from_history">Eliminar del historial de búsqueda</string>
+  <string name="remove_from_history_failed">No se ha podido eliminar el elemento del historial.</string>
+  <string name="search_settings">Ajustes de búsqueda</string>
+  <string name="search_sources">Elementos de búsqueda</string>
+  <string name="search_sources_summary">Elegir lo que se quiere buscar en el teléfono</string>
+  <string name="search_widget">Búsqueda</string>
+  <string name="system_search_category_title">Teléfono</string>
+  <string name="voice_search_hint_quotation_end">”</string>
+  <string name="voice_search_hint_quotation_start">“</string>
+  <string name="voice_search_hint_title">Prueba a decir:</string>
+</resources>

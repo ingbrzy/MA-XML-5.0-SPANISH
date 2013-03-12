@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup_confirm_title">Copia de seguridad completa</string>
+    <string name="restore_confirm_title">Restauracion completa</string>
+    <string name="backup_confirm_text">"Se ha solicitado una copia de seguridad completa de todos los datos a un ordenador de sobremesa conectado. ¿Permitir? 
+	
+Si usted no ha solicitado copia de seguridad, no debe permitir esta acción</string>
+    <string name="allow_backup_button_label">Copia de seguridad de mis datos</string>
+    <string name="deny_backup_button_label">No realizar copias de seguridad</string>
+    <string name="restore_confirm_text">";Se ha solicitado una copia de seguridad completa de todos los datos a un ordenador de sobremesa conectado. ¿Permitir?
+	
+Si usted no ha solicitado copia de seguridad, no debe permitir esta acción"</string>
+    <string name="allow_restore_button_label">Restaurar mis datos</string>
+    <string name="deny_restore_button_label">No restaurar</string>
+    <string name="current_password_text">Ingrese su contraseña para la copia de seguridad:</string>
+    <string name="device_encryption_restore_text">Ingrese el cifrado de la contraseña de su dispositivo.</string>
+    <string name="device_encryption_backup_text">Introduzca el cifrado de la contraseña de su dispositivo a continuación. Esto también se utiliza para cifrar el archivo de copia de seguridad.</string>
+    <string name="backup_enc_password_text">Escriba una contraseña que se utilizaRA para cifrar todos los datos de seguridad. Si este campo está en blanco, utilice la contraseña actual para la copia de seguridad:</string>
+    <string name="backup_enc_password_optional">Si desea cifrar la seguridad de los datos, debe introducir su contraseña abajo:</string>
+    <string name="restore_enc_password_text">Si la recuperación de datos está encriptada, introduzca la contraseña abajo:</string>
+    <string name="toast_backup_started">Iniciando copia de seguridad...</string>
+    <string name="toast_backup_ended">Copia de seguridad completa</string>
+    <string name="toast_restore_started">Iniciando restauracion...</string>
+    <string name="toast_restore_ended">Restauracion completa</string>
+    <string name="toast_timeout">Excedido el tiempo de espera</string>
+</resources>
