@@ -29,7 +29,7 @@
   <string name="cit_blue_tooth_scan_check_summary">Este test mostrará una lista de dispositivos Bluetooth disponibles</string>
   <string name="cit_blue_tooth_scan_check_title">Probar escaner Bluetooth</string>
   <string name="cit_bluetooth_address_open_error">No ha sido posible obtener la información de la dirección Bluetooth</string>
-  <string name="cit_bluetooth_not_support">El teléfono no soporta el dispositivo Bluetooth
+  <string name="cit_bluetooth_not_support">El teléfono no soporta el dispositivo Bluetooth</string>
   <string name="cit_bluetooth_scan_retry">Reescanear</string>
   <string name="cit_bluetooth_scanning">Buscando dispositivos Bluetooth...</string>
   <string name="cit_bluetooth_scanning_bluetooth_done">Escaner completado</string>
