@@ -1,14 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
+Ôªø<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="cit_OTG_plugin_check_summary">Este test detectar· dispositivos OTG.</string>
+  <string name="cit_OTG_plugin_check_summary">Este test detectar√° dispositivos OTG.</string>
   <string name="cit_OTG_plugin_check_title"> Comenzar test OTG</string>
-  <string name="cit_OTG_plugout_check_summary"> Este test detectar· cualquier disposivo OTG conectado.</string>
+  <string name="cit_OTG_plugout_check_summary"> Este test detectar√° cualquier disposivo OTG conectado.</string>
   <string name="cit_OTG_plugout_check_title">OTG desconectado</string>
   <string name="cit_OTG_waiting_in">Por favor inserte un disporitivo USB_OTG.</string>
   <string name="cit_OTG_waiting_out">Por favor desconecte el dispositivo USB_OTG.</string>
   <string name="cit_ac_charger_in">Cargador AC conectado</string>
   <string name="cit_ac_charger_out">Cargador AC desconectado</string>
-  <string name="cit_accelermeter_sensor_check_summary">Esta pantalla mostrara los 3 ejes de aceleraciÛn X, Y, Z (Nota: Mientras el telefono estÈ dado la vuelta los valores cambiaran dependiendo de la orientaciÛn de la pantalla)</string>
+  <string name="cit_accelermeter_sensor_check_summary">Esta pantalla mostrara los 3 ejes de aceleraci√≥n X, Y, Z (Nota: Mientras el telefono est√© dado la vuelta los valores cambiaran dependiendo de la orientaci√≥n de la pantalla)</string>
   <string name="cit_accelermeter_sensor_check_title">Probar acelerometro</string>
   <string name="cit_audio_loopback_check_one_title">Probar receptor del microfono</string>
   <string name="cit_audio_loopback_check_summary_first">Probar loopback del microfono principal</string>
@@ -17,19 +17,19 @@
   <string name="cit_audio_loopback_dualmic_earpiece_title">Probar llamada de audio</string>
   <string name="cit_audio_loopback_next">Siguiente</string>
   <string name="cit_audio_loopback_previous">Anterior</string>
-  <string name="cit_audio_loopback_summary_dualmic_earpiece">"Llamada de prueba, la entrada de voz ser· dirigida vÌa el microfono principal y se escuchar· directamente  en el auricular."</string>
+  <string name="cit_audio_loopback_summary_dualmic_earpiece">"Llamada de prueba, la entrada de voz ser√° dirigida v√≠a el microfono principal y se escuchar√° directamente  en el auricular."</string>
   <string name="cit_battery_temp_fail">Test de bateria fallido con (value=%d)</string>
   <string name="cit_battery_temp_pass">Test de bateria superado</string>
   <string name="cit_batterylight_blue">Azul</string>
   <string name="cit_batterylight_green">Verde</string>
   <string name="cit_batterylight_red">Rojo</string>
   <string name="cit_batterylight_rgb">RGB</string>
-  <string name="cit_blue_tooth_address_check_summary">Este test mostrar· las direcciones MAC de los dispositivos Bluetooth actuales</string>
-  <string name="cit_blue_tooth_address_check_title">Probar direcciÛn Bluetooth</string>
-  <string name="cit_blue_tooth_scan_check_summary">Este test mostrar· una lista de dispositivos Bluetooth disponibles</string>
+  <string name="cit_blue_tooth_address_check_summary">Este test mostrar√° las direcciones MAC de los dispositivos Bluetooth actuales</string>
+  <string name="cit_blue_tooth_address_check_title">Probar direcci√≥n Bluetooth</string>
+  <string name="cit_blue_tooth_scan_check_summary">Este test mostrar√° una lista de dispositivos Bluetooth disponibles</string>
   <string name="cit_blue_tooth_scan_check_title">Probar escaner Bluetooth</string>
-  <string name="cit_bluetooth_address_open_error">No ha sido posible obtener la informaciÛn de la direcciÛn Bluetooth</string>
-  <string name="cit_bluetooth_not_support">El telÈfono no soporta el dispositivo Bluetooth
+  <string name="cit_bluetooth_address_open_error">No ha sido posible obtener la informaci√≥n de la direcci√≥n Bluetooth</string>
+  <string name="cit_bluetooth_not_support">El tel√©fono no soporta el dispositivo Bluetooth
   <string name="cit_bluetooth_scan_retry">Reescanear</string>
   <string name="cit_bluetooth_scanning">Buscando dispositivos Bluetooth...</string>
   <string name="cit_bluetooth_scanning_bluetooth_done">Escaner completado</string>
@@ -37,25 +37,25 @@
   <string name="cit_bluetooth_scanning_opening_bluetooth">Abriendo dispositivos Bluetooth...</string>
   <string name="cit_button_light_off">Apagar luz de los botones</string>
   <string name="cit_button_light_on">Encender luz de los botones</string>
-  <string name="cit_calibration_fail">CalibraciÛn fallida</string>
-  <string name="cit_calibration_pass">CalibraciÛn superada</string>
+  <string name="cit_calibration_fail">Calibraci√≥n fallida</string>
+  <string name="cit_calibration_pass">Calibraci√≥n superada</string>
   <string name="cit_camera_sdcard_error">Tarjeta SD llena. No es posible guardar las imagenes</string>
   <string name="cit_charger_plugin_check_summary">Compruebe el estado del cargador</string>
-  <string name="cit_charger_plugin_check_title">Probar la conexiÛn con el cargador</string>
-  <string name="cit_charger_plugout_check_summary">Desconectar y reconectar el cargador iniciar· el test</string>
-  <string name="cit_charger_plugout_check_title">Probar desconexiÛn del cargador</string>
+  <string name="cit_charger_plugin_check_title">Probar la conexi√≥n con el cargador</string>
+  <string name="cit_charger_plugout_check_summary">Desconectar y reconectar el cargador iniciar√° el test</string>
+  <string name="cit_charger_plugout_check_title">Probar desconexi√≥n del cargador</string>
   <string name="cit_charger_waiting_in">Esperando al cargador</string>
   <string name="cit_charger_waiting_out">Desconectar cargador</string>
-  <string name="cit_display_check_summary">El test mostrar· una imagen, por favor aÒada un archivo .bmp a la raÌz de la tarjeta SD</string>
+  <string name="cit_display_check_summary">El test mostrar√° una imagen, por favor a√±ada un archivo .bmp a la ra√≠z de la tarjeta SD</string>
   <string name="cit_display_check_title">Probar pantalla</string>
   <string name="cit_display_continue">Toque la pantalla para comenzar la prueba</string>
-  <string name="cit_exit_test_summary">Salir del test activo supone perder toda la informaciÛn, øestas seguro que quieres continuar?</string>
+  <string name="cit_exit_test_summary">Salir del test activo supone perder toda la informaci√≥n, ¬øestas seguro que quieres continuar?</string>
   <string name="cit_exit_test_title">Parar test</string>
   <string name="cit_fail">Fallido</string>
-  <string name="cit_fm_audio_path">Configurar ubicaciÛn para audio</string>
+  <string name="cit_fm_audio_path">Configurar ubicaci√≥n para audio</string>
   <string name="cit_fm_audio_path_headset">Cascos</string>
   <string name="cit_fm_audio_path_speaker">Altavoces</string>
-  <string name="cit_fm_check_summary">Este test probar· la Radio FM</string>
+  <string name="cit_fm_check_summary">Este test probar√° la Radio FM</string>
   <string name="cit_fm_check_title">Probar Radio FM</string>
   <string name="cit_fm_close">Apagar Radio</string>
   <string name="cit_fm_not_supported">Tu dispositivo no soporta Radio FM</string>
@@ -64,22 +64,22 @@
   <string name="cit_fm_open_bluetooth">Habilitando Bluetooth...</string>
   <string name="cit_fm_start_service">Habilitar radio Radio</string>
   <string name="cit_front_camera_check_summary">"Pasos:
-1. Pulsa el botÛn de la c·mara para abrir la c·mara del sistema
-2. Pulsa la c·mara
-3. Pulsa el botÛn OK de la c·mara, el sistema guardar· la im·gen autom·ticamente
-4. Previsualiza la im·gen, cuando acabes puedes eliminarla."</string>
-  <string name="cit_front_camera_check_title"> Probar c·mara delantera</string>
-  <string name="cit_gps_check_summary">Este test mostrar· informaciÛn del GPS</string>
+1. Pulsa el bot√≥n de la c√°mara para abrir la c√°mara del sistema
+2. Pulsa la c√°mara
+3. Pulsa el bot√≥n OK de la c√°mara, el sistema guardar√° la im√°gen autom√°ticamente
+4. Previsualiza la im√°gen, cuando acabes puedes eliminarla."</string>
+  <string name="cit_front_camera_check_title"> Probar c√°mara delantera</string>
+  <string name="cit_gps_check_summary">Este test mostrar√° informaci√≥n del GPS</string>
   <string name="cit_gps_check_title">Probar GPS</string>
-  <string name="cit_gps_disabled">"GPS deshabilitado, activa el GPS desde el men˙"</string>
+  <string name="cit_gps_disabled">"GPS deshabilitado, activa el GPS desde el men√∫"</string>
   <string name="cit_gps_satellite_count">Satelites GPS: %d</string>
   <string name="cit_gps_satellite_prn">PRN: %s</string>
   <string name="cit_gps_satellite_snr">SNR: %s</string>
   <string name="cit_gyroscope_sensor_check_summary">Valores del giroscopio para coordenadas X, Y, Z</string>
   <string name="cit_gyroscope_sensor_check_title">Probar giroscopio</string>
-  <string name="cit_headset_button_check_summary">El test mostrar· tecla seleccionada entre las siguientes cuando la pulses</string>
+  <string name="cit_headset_button_check_summary">El test mostrar√° tecla seleccionada entre las siguientes cuando la pulses</string>
   <string name="cit_headset_button_check_title">Probar cascos</string>
-  <string name="cit_headset_button_click">Seleccionar botÛn cascos</string>
+  <string name="cit_headset_button_click">Seleccionar bot√≥n cascos</string>
   <string name="cit_headset_button_current">Tecla cascos: %s</string>
   <string name="cit_headset_button_fast_forward">Adelante</string>
   <string name="cit_headset_button_next">Siguiente</string>
@@ -89,22 +89,22 @@
   <string name="cit_headset_button_rewind">Rebobinar</string>
   <string name="cit_headset_button_stop">Detener</string>
   <string name="cit_headset_button_unknown">Estado de los cascos desconocido</string>
-  <string name="cit_headset_loopback_check_summary">Se probar·n los cascos y el loopback del microfono</string>
+  <string name="cit_headset_loopback_check_summary">Se probar√°n los cascos y el loopback del microfono</string>
   <string name="cit_headset_loopback_check_title">Probar loopback de los cascos</string>
   <string name="cit_headset_plug_detect_summary">Se prueba el socket de los cascos, estos deben estar conectados antes de comenzar la prueba</string>
-  <string name="cit_headset_plug_detect_title">Probar detecciÛn de cascos</string>
+  <string name="cit_headset_plug_detect_title">Probar detecci√≥n de cascos</string>
   <string name="cit_headset_plug_finish">Cascos conectados</string>
   <string name="cit_headset_plug_hint">Conecte sus cascos</string>
-  <string name="cit_headset_pull_detect_summary">El test comprobar· que el estado cuando se desconectan los cascos</string>
-  <string name="cit_headset_pull_detect_title">Probar desconexiÛn de cascos</string>
+  <string name="cit_headset_pull_detect_summary">El test comprobar√° que el estado cuando se desconectan los cascos</string>
+  <string name="cit_headset_pull_detect_title">Probar desconexi√≥n de cascos</string>
   <string name="cit_headset_pull_finish">Cascos descoenctados</string>
   <string name="cit_headset_pull_hint">Desconecta tus cascos</string>
-  <string name="cit_hide_menu">Cerrar Men¥˙</string>
-  <string name="cit_kayboard_volume_down">Probar botÛn: VOLUME_DOWN</string>
-  <string name="cit_kayboard_volume_up">Probar botÛn: VOLUME_UP</string>
-  <string name="cit_keyboard_back">Probar botÛn: BACK</string>
+  <string name="cit_hide_menu">Cerrar Men¬¥√∫</string>
+  <string name="cit_kayboard_volume_down">Probar bot√≥n: VOLUME_DOWN</string>
+  <string name="cit_kayboard_volume_up">Probar bot√≥n: VOLUME_UP</string>
+  <string name="cit_keyboard_back">Probar bot√≥n: BACK</string>
   <string name="cit_keyboard_current">Teclado: %s</string>
-  <string name="cit_keyboard_menu">Probar botÛn: MENU</string>
+  <string name="cit_keyboard_menu">Probar bot√≥n: MENU</string>
   <string name="cit_keyboard_test_summary">Shows the currently selected hardware key, this test does not check the home button</string>
   <string name="cit_keyboard_test_title">Test Keyboard</string>
   <string name="cit_label">Hardware detection</string>
