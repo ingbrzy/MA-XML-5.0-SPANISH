@@ -12,7 +12,7 @@
   <string name="accessibility_shutter_button">Botón disparador</string>
   <string name="accessibility_switch">%1$s cambiar</string>
   <string name="accessibility_switch_to_camera">Cambiar a cámara</string>
-  <string name="accessibility_switch_to_panorámica">Cambiar a panorámica</string>
+  <string name="accessibility_switch_to_panorama">Cambiar a panorámica</string>
   <string name="accessibility_switch_to_video">Cambiar a vídeo</string>
   <string name="accessibility_zoom_control">Control de zoom</string>
   <string name="albums">Álbumes</string>
@@ -116,7 +116,7 @@
   <string name="open">Abrir</string>
   <string name="orientation">Orientación</string>
   <string name="pano_capture_indication">Capturando panorámica</string>
-  <string name="pano_dialog_panorámica_failed">"No se ha podido salvar la panorámica."</string>
+  <string name="pano_dialog_panorama_failed">"No se ha podido salvar la panorámica."</string>
   <string name="pano_dialog_prepare_preview">Preparando panorámica</string>
   <string name="pano_dialog_title">Panorámica</string>
   <string name="pano_dialog_waiting_previous">Esperando a que la panorámica anterior finalice</string>
@@ -243,7 +243,7 @@
   <string name="pref_camera_movie_solid_entry_off">Off</string>
   <string name="pref_camera_movie_solid_entry_on">On</string>
   <string name="pref_camera_movie_solid_title">Movie Solid</string>
-  <string name="pref_camera_panorámicamode_title">Panorámica</string>
+  <string name="pref_camera_panoramamode_title">Panorámica</string>
   <string name="pref_camera_picture_format_entry_jpeg">Jpeg</string>
   <string name="pref_camera_picture_format_entry_raw">Raw</string>
   <string name="pref_camera_picture_format_title">Seleccionar formato de imágen</string>
@@ -451,7 +451,7 @@
   <string name="simple_mode_button_text_audio_capture">Cerrar captura de audio</string>
   <string name="simple_mode_button_text_color_effect">Cerrar filtros</string>
   <string name="simple_mode_button_text_hdr">Cerrar modo HDR</string>
-  <string name="simple_mode_button_text_panorámica">Cerrar panorámica</string>
+  <string name="simple_mode_button_text_panorama">Cerrar panorámica</string>
   <string name="simple_mode_button_text_slow_video">Cerrar cámara lenta</string>
   <string name="skip">Saltar</string>
   <string name="slideshow">Presentación</string>
@@ -461,7 +461,7 @@
   <string name="spaceIsLow_content">Tu tarjeta SD se está quedando sin espacio. Cambia las opciones de calidad o elimina algunas imagenes u otros archivos.</string>
   <string name="switch_camera_id">Cambiar Cámara</string>
   <string name="switch_to_camera_label">Cambiar a cámara</string>
-  <string name="switch_to_panorámica_label">Cambiar a panorámica</string>
+  <string name="switch_to_panorama_label">Cambiar a panorámica</string>
   <string name="switch_to_video_label">Cambiar a vídeo</string>
   <string name="tags">Etiquetas</string>
   <string name="tap_to_focus">Tocar para enfocar.</string>
