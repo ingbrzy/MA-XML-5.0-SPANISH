@@ -19,7 +19,7 @@
   <string name="aperture">Apertura</string>
   <string name="auto">Auto</string>
   <string name="bg_replacement_message">"Deja el dispositivo, sal fuera del encuadre por un momento"</string>
-  <string name="camera_disabled">La cámara ha sido deshabilitada por póliticas de seguridad..</string>
+  <string name="camera_disabled">La cámara ha sido deshabilitada por póliticas de seguridad.</string>
   <string name="camera_error_title">Error de la cámara</string>
   <string name="camera_gallery_photos_text">Galería</string>
   <string name="camera_label">Cámara</string>
