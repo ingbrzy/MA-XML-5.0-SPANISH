@@ -289,7 +289,7 @@
   <string name="pref_camera_redeyereduction_entry_auto">Auto</string>
   <string name="pref_camera_redeyereduction_entry_disable">Deshabilitar</string>
   <string name="pref_camera_redeyereduction_entry_enable">Habilitar</string>
-  <string name="pref_camera_redeyereduction_title">Reducciñón de ojos rojos</string>
+  <string name="pref_camera_redeyereduction_title">Reducción de ojos rojos</string>
   <string name="pref_camera_referenceline">Grid de composición</string>
   <string name="pref_camera_referenceline_entry_off">Off</string>
   <string name="pref_camera_referenceline_entry_on">On</string>
