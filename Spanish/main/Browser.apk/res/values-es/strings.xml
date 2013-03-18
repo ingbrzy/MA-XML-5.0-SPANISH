@@ -260,13 +260,9 @@
   <string name="pref_content_search_engine">Establecer motor de búsqueda</string>
   <string name="pref_content_search_engine_summary">Elige un motor de búsqueda.</string>
   <string name="pref_content_title">Contenido de la página</string>
-  <string name="pref_data_preload_default_value">@string/pref_data_preload_value_wifi_only</string>
   <string name="pref_data_preload_dialogtitle">Precargar búsquedas</string>
   <string name="pref_data_preload_summary">Permitir que el navegador precargue resultados de búsqueda en segundo plano</string>
   <string name="pref_data_preload_title">Precargar búsquedas</string>
-  <string name="pref_data_preload_value_always">SIEMPRE</string>
-  <string name="pref_data_preload_value_never">NUNCA/string>
-  <string name="pref_data_preload_value_wifi_only">SOLO_WIFI</string>
   <string name="pref_data_title">Ancho de banda</string>
   <string name="pref_default_text_encoding">Codificación de texto</string>
   <string name="pref_default_text_encoding_default">Latin-1</string>
@@ -318,15 +314,10 @@
   <string name="pref_lab_quick_controls">Controles rápidos</string>
   <string name="pref_lab_quick_controls_summary">Deslizar el dedo a la izquierda o la derecha de la pantalla para abrir controles rápidos y ocultar barras de aplicaciones y URL</string>
   <string name="pref_lab_title">Otras opciones</string>
-  <string name="pref_link_prefetch_default_value">@string/pref_link_prefetch_value_wifi_only</string>
   <string name="pref_link_prefetch_dialogtitle">precargar página web</string>
   <string name="pref_link_prefetch_summary">Permirit al navegador precargar páginas enlazadas en segundo plano</string>
   <string name="pref_link_prefetch_title">Precargar página web</string>
-  <string name="pref_link_prefetch_value_always">SIEMPRE</string>
-  <string name="pref_link_prefetch_value_never">NUNCA</string>
-  <string name="pref_link_prefetch_value_wifi_only">SOLO_WIFI</string>
   <string name="pref_min_font_size">Tamaño mínimo de fuente</string>
-  <string formatted="false" name="pref_min_font_size_value">%d</string>
   <string name="pref_privacy_clear_cache">Borrar caché</string>
   <string name="pref_privacy_clear_cache_dlg">¿Eliminar bases de datos y contenido local de la memoria caché?</string>
   <string name="pref_privacy_clear_cache_summary">Borrar bases de datos y contenido de la memoria caché local</string>
