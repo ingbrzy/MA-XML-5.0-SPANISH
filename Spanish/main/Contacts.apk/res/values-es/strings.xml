@@ -237,7 +237,7 @@
   <string name="export_sim_contact_finish">La exportación a la tarjeta SIM se ha completado</string>
   <string name="export_sim_contacts_dialog_message">Tu tarjeta SIM puede almacenar %d contactos, ¿Estas seguro de continuar?</string>
   <string name="export_to_sdcard">Exportar a tarjeta SD</string>
-  <string name="export_to_sim">Export to SIM card</string>
+  <string name="export_to_sim">Exportar a tarjeta SIM</string>
   <string name="export_vcard_description">Exportar VCard a la tarjeta SD</string>
   <string formatted="false" name="exporting_contact_failed_message">Se ha producido un error al exportar los datos del contacto. Motivo del error: \"%s\"</string>
   <string name="exporting_contact_failed_title">Error al exportar los datos del contacto</string>
