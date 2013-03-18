@@ -16,7 +16,7 @@
   <string name="add_new_entry_for_section">Añadir nuevo</string>
   <string name="add_organization">Añadir organización</string>
   <string name="add_to_my_contacts">Añadir a mis contactos</string>
-  <string name="aggregation_suggestion_edit_dialog_message">Cambiar a editar el contacto seleccionado? Information you entered so far will be copied.</string>
+  <string name="aggregation_suggestion_edit_dialog_message">¿Editar el contacto seleccionado? La información introducida hasta ahora será copiada.</string>
   <string name="aggregation_suggestion_edit_dialog_title">Editar contactos seleccionados</string>
   <string name="aggregation_suggestion_join_dialog_message">Añadir contacto actual con el seleccionado?</string>
   <string name="aggregation_suggestion_join_dialog_title">Añadir contactos</string>
@@ -143,7 +143,7 @@
   <string name="contactsJoinedMessage">Contactos agrupados</string>
   <string name="contactsList">Contactos</string>
   <string name="contacts_unavailable_add_account">Acceder a una cuenta</string>
-  <string name="contacts_unavailable_add_xiaomi_account">Sync Xiaomi contacts</string>
+  <string name="contacts_unavailable_add_xiaomi_account">Sincronizar contactos Xiaomi</string>
   <string name="contacts_unavailable_create_contact">Crear contacto nuevo</string>
   <string name="contacts_unavailable_import_contacts">Importar contactos de un archivo</string>
   <string name="copy_text">Copiar en el portapapeles</string>
@@ -301,19 +301,19 @@
   <string name="invalidContactMessage">Ese contacto no existe.</string>
   <string name="keep_local">Guardar localmente</string>
   <string formatted="false" name="label_duplicate_count">(%1$d)</string>
-  <string name="label_no_duplicate_contacts">Perfecto! Sin contactos duplicados por ahora!</string>
+  <string name="label_no_duplicate_contacts">¡Perfecto! ¡Sin contactos duplicados por ahora!</string>
   <string name="label_notes">Notas</string>
   <string name="label_sip_address">Llamada de internet</string>
   <string name="launcherDialer">Teléfono</string>
-  <string name="listAllContactsInAccount">Contacts in %s</string>
-  <string name="listCustomView">Contacts in custom view</string>
+  <string name="listAllContactsInAccount">Contactos en %s</string>
+  <string name="listCustomView">Contactos en Vista Personalizada</string>
   <string name="listFoundAllContactsZero">No se han encontrado contactos</string>
-  <string name="listSingleContact">Single contact</string>
-  <string name="listTotalAllContactsZero">No contacts.</string>
-  <string name="listTotalAllContactsZeroCustom">No visible contacts.</string>
-  <string name="listTotalAllContactsZeroGroup">No contacts in %s</string>
+  <string name="listSingleContact">Contacto único</string>
+  <string name="listTotalAllContactsZero">Sin contactos.</string>
+  <string name="listTotalAllContactsZeroCustom">No hay contactos visibles.</string>
+  <string name="listTotalAllContactsZeroGroup">No hay contactos en %s</string>
   <string name="listTotalAllContactsZeroStarred">Sin favoritos</string>
-  <string name="listTotalPhoneContactsZero">No contacts with phone numbers</string>
+  <string name="listTotalPhoneContactsZero">No hay contactos con número de teléfono</string>
   <string name="list_filter_all_accounts">Todos los contactos</string>
   <string name="list_filter_all_starred">Favoritos</string>
   <string name="list_filter_custom">Personalizado</string>
@@ -458,8 +458,8 @@ PAra añadir contactos a la lista de favoritos:
   <string name="postal_postcode">Código postal</string>
   <string name="postal_region">Provincia/Estado</string>
   <string name="postal_street">Calle</string>
-  <string name="pref_key_rebuild_t9_index_message">Fix contact search indexing failure</string>
-  <string name="pref_key_rebuild_t9_index_title">Rebuild T9 index data</string>
+  <string name="pref_key_rebuild_t9_index_message">Corregir fallo al indexar la búsqueda de contactos</string>
+  <string name="pref_key_rebuild_t9_index_title">Reindexar información T9</string>
   <string name="pref_summary_import_from_account">Importar contactos de Google y las cuentas Exchange a la cuenta Xiaomi</string>
   <string name="pref_title_account_import">Importar desde la cuenta</string>
   <string name="pref_title_import_from_account">Importar a la cuenta Xiaomi</string>
@@ -470,7 +470,7 @@ PAra añadir contactos a la lista de favoritos:
   <string name="preference_import_export_title">Importar/Exportar contactos</string>
   <string name="preference_others">Otros</string>
   <string name="preference_remove_duplicate">Combinar contactos duplicados</string>
-  <string name="preference_select_account_display">Filter by account</string>
+  <string name="preference_select_account_display">Filtrar por cuenta</string>
   <string name="preview_contact_card_title">Importar información de contacto</string>
   <string name="primary_indicator">(por defecto)</string>
   <string name="private_num">Número privado</string>
@@ -513,7 +513,7 @@ PAra añadir contactos a la lista de favoritos:
   <string name="select_new_photo_from_photo_package">Elegir nueva foto del paquete</string>
   <string name="select_none">Nada seleccionado, operación no válida</string>
   <string name="select_photo_from_photo_package">Elegir foto del paquete</string>
-  <string name="select_show_contacts">Display the contact</string>
+  <string name="select_show_contacts">Mostrar el contacto</string>
   <string name="select_vcard_title">Seleccionar archivo vCard</string>
   <string name="send_contact_shortcut_todesktop_success">Acceso directo al contacto enviado al escritorio correctamente</string>
   <string name="separatorJoinAggregateAll">Todos los contactos</string>
@@ -533,9 +533,9 @@ PAra añadir contactos a la lista de favoritos:
   <string name="sim_card_no_free_space_message">La tarjeta SIM está llena, no se pueden importar nuevos contactos.</string>
   <string name="sim_card_no_free_space_title">Tarjeta SIM llena</string>
   <string name="sim_contact_search_error">Error al buscar contactos en la tarjeta SIM</string>
-  <string name="sim_contacts">SIM Contacts</string>
-  <string name="sim_export_loading">SIM card information is being read. This operation may take a minute, please be patient.</string>
-  <string name="sim_indexed_contact_not_exist">Posición %1$d en la tarjeta SIM no es váido, should between %2$d and %3$d</string>
+  <string name="sim_contacts">Contactos SIM</string>
+  <string name="sim_export_loading">Leyendo información de la tarjeta SIM. Esta operación puede llevar un minuto, por favor sea paciente.</string>
+  <string name="sim_indexed_contact_not_exist">Posición %1$d en la tarjeta SIM no es váido, debería estar entre %2$d y %3$d</string>
   <string name="sim_no_contact">No hay contactos en la tarjeta SIM</string>
   <string name="sms">Mensaje de texto</string>
   <string formatted="false" name="sms_assistant">Enviar un mensaje de texto a %s</string>
