@@ -103,7 +103,7 @@
   <string name="prompt_reading">Leyendo…</string>
   <string name="prompt_sending">Enviando…</string>
   <string name="prompt_writing">Guardando…</string>
-  <string name="read_encrypt_fail">Encryption read failed</string>
+  <string name="read_encrypt_fail">Fallo leyendo la encriptación</string>
   <string name="refresh">Actualizar</string>
   <string name="restore">Restaurar</string>
   <string name="restore_contact">Recuperación de contactos</string>
