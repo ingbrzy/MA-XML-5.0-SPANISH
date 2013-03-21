@@ -51,10 +51,10 @@
   <string name="menu_add">Añadir</string>
   <string name="menu_back_desktop">Volver al escritorio</string>
   <string name="menu_edit">Modificar escritorio</string>
-  <string name="menu_exit_scene">Exit Free Desktop</string>
+  <string name="menu_exit_scene">Salir de Free Desktop</string>
   <string name="menu_item_add_item">Añadir al escritorio</string>
   <string name="menu_launcher_setting">Ajustes del Launcher</string>
-  <string name="menu_reset_scene">Reset to default scene</string>
+  <string name="menu_reset_scene">Volvera escena predeterminada</string>
   <string name="menu_search">Buscar</string>
   <string name="menu_settings">Ajustes</string>
   <string name="menu_sort">Ordenar los iconos de escritorio</string>
@@ -86,7 +86,7 @@
   <string name="preferences_general_title">Ajustes generales</string>
   <string name="preferences_title">Ajustes MiuiHome</string>
   <string name="process"  />
-  <string name="reset_scene_prompt">The scene will be reset to default layout</string>
+  <string name="reset_scene_prompt">La escena será reiniciada a la disposición predeterminada</string>
   <string name="select_frame">Marco</string>
   <string name="select_photo">Fotografía</string>
   <string name="sharedUserId"  />
