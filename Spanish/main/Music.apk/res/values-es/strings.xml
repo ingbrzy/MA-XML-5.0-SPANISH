@@ -4,7 +4,7 @@
   <string name="add_to_playlist">Añadir a la lista de reproducción</string>
   <string name="add_tracks">Añadir canciones</string>
   <string name="album_display_settings">Ver carátulas en pantalla</string>
-  <string name="album_display_summary">Display album cover in the player interface</string>
+  <string name="album_display_summary">Mostrar carátula en el reproductor</string>
   <string name="album_download">Descargar carátula</string>
   <string name="album_edit">Álbum</string>
   <string name="album_picker_not_found">Galería no encontrada en el dispositivo</string>
