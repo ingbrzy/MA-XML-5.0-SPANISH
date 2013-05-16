@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-  <string name="absent_num">Número asente</string>
+  <string name="absent_num">Número ausente</string>
   <string name="accessibility_call_muted">Receptor silenciado</string>
   <string name="accessibility_speakerphone_enabled">El altavoz está activado</string>
   <string name="add_button_miui">Añadir</string>
