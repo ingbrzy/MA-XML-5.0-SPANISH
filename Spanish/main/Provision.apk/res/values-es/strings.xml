@@ -4,7 +4,7 @@
   <string name="data_usage_summary">Si no tienes un plan de datos contratado, es recomendable que apagues los datos móviles. De otro modo, tu operador podría imponerte tarificaciones adicionales.</string>
   <string name="input_method">Método de entrada</string>
   <string name="input_method_category">Seleccionar Método de entrada predeterminado</string>
-  <string name="next">Siguientes</string>
+  <string name="next">Siguiente</string>
   <string name="other_service_label">Otros servicios</string>
   <string name="other_service_location">Servicios de locaclización</string>
   <string name="other_service_location_summary">Los servicios de locaclización permiten que los mapas y otras aplicaciones obtengan tu tu posición usando el GPS</string>
