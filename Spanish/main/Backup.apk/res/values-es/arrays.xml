@@ -5,13 +5,14 @@
         <item>Aplicaciones</item>
     </string-array>
     <string-array name="system_package_label">
-        <item>Navegador</item>
-        <item>Explorador</item>
-        <item>Galería</item>
-        <item>Gestor de permisos</item>
-        <item>Tiempo</item>
-        <item>Cámara</item>
-		<item>Monitor de Red</item>
+        <item>Browser</item>
+        <item>File explorer</item>
+        <item>Gallery</item>
+        <item>Permission manager</item>
+        <item>Camera</item>
+        <item>Network assistant</item>
+        <item>Weather Storage</item>
+        <item>Weather</item>
     </string-array>
     <string-array name="system_data_label">
         <item>Contactos</item>
