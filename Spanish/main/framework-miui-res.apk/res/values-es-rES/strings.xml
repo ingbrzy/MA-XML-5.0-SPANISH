@@ -54,6 +54,7 @@
    <string name="miui_copyright_title">Copyright</string>
   <string name="miui_privacy_policy_title">Política de privacidad</string>
   <string name="miui_user_agreement_title">Acuerdo de usuario</string>
+  <string name="miui_user_manual_title">Manual de Usuario</string>
   <string name="month_of_april">Abr</string>
   <string name="month_of_august">Ago</string>
   <string name="month_of_december">Dic</string>

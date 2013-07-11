@@ -312,6 +312,7 @@
   <string name="dial_button_label">Marcar</string>
   <string name="dial_emergency_empty_error">Llamada no enviada. Marque un número de emergencia</string>
   <string name="dial_emergency_error">No se ha realizado la llamada, %s no es un número de emergencia</string>
+  <string name="dial_related_setting_catory_miui">Marcar</string>
   <string name="dialerKeyboardHintText">Utilice el teclado para marcar</string>
   <string name="dialer_emptyListWorking">Cargando...</string>
   <string name="disable">Desactivar</string>
@@ -902,6 +903,8 @@
   <string name="sum_select_automatically_option_miui">Seleccionar la red automáticamente, %s</string>
   <string name="sum_show_caller_id">Se mostrará mi número en las llamadas salientes</string>
   <string name="sum_voicemail_choose_provider">Seleccionar servicio de buzón de voz</string>
+  <string name="t9_indexing_method_title_miui">Opciones de búsqueda T9</string>
+  <string name="t9_indexing_rebuilding_message">Reconstruyendo índices T9…</string>
   <string name="technology_news_disable">Noticias de tecnología desactivadas</string>
   <string name="technology_news_enable">Noticias de tecnología activadas</string>
   <string name="telocation_setting_miui">Ubicación</string>
@@ -985,4 +988,6 @@
   <string name="voicemail_settings_number_title_miui">Número buzón de voz</string>
   <string name="wait_prompt_str">¿Enviar los siguientes tonos?</string>
   <string name="wild_prompt_str">Reemplazar carácter comodín por</string>
+  <string name="t9_indexing_method_title_miui">Opciones de bústqueda T9</string>
+  <string name="t9_indexing_rebuilding_message">Reconstruyendo lo índices T9…</string>
 </resources>

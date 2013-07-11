@@ -89,6 +89,10 @@ para gestionar tus datos"</string>
     <string name="sync_item_contact_summary">Activar esta opción sincronizará tus contactos en tu cuenta Xiaomi</string>
     <string name="sub_sync_big_photo_item_title_wifi_only">Sólo Wi-Fi para visualizar las fotos</string>
     <string name="sub_sync_big_photo_item_summary">Recomendado, de lo contrario tu consumo de datos puede aumentar</string>
-    <string name="sync_on">On</string>
-    <string name="sync_off">Off</string>
+    <string name="sync_on">Si</string>
+    <string name="sync_off">No</string>
+	<string name="account_dspt">"La cuenta de Xiaomi puede sincronizar y respaldar sus SMS,
+contactos, fotos, etc"</string>
+	<string name="micloud_welcome_skip_login"><u>Ignorar este paso</u></string>
+	<string name="skip_setup_account_msg">Al usar su cuenta de Xiaomi, usted puede sincronizar y respaldar sus SMS, contactos, fotos, notas, etc. Desea continuar y configurar luego?</string>
 </resources>

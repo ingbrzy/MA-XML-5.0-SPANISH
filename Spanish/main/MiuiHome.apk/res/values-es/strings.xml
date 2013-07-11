@@ -118,4 +118,5 @@
   <string name="widget_favorite_contacts_style">Tamaño</string>
   <string name="widget_gadget_player">Música</string>
   <string name="widget_global_search">Búsqueda Global</string>
-</resources>
+  <string name="loading_desktop">Cargando lanzador...</string>
+  </resources>

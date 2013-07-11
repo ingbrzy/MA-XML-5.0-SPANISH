@@ -235,6 +235,8 @@
   <string name="mx_count_dspt">Desde la activación, MIUI ha enviado %d mensaje(s) en la nube para ti</string>
   <string name="mx_dspt">Envia mensajes vía Internet entre dispositivos MIUI, marca esta opción si por tu operador fallase</string>
   <string name="mx_enable">Habilitar mensajería en la nube</string>
+  <string name="mx_enable_popup_msg">Cloud Message permite enviar mensajes entre usuarios MIUI. Para su activación, es necesario enviar un SMS. Es posible que su operador aplique cargos adicionales por este envío; desea activarlo ahora? Sí no, usted puede habilitarlo luego ne la Opciones del teléfono</string>
+  <string name="mx_enable_int_popup_msg">Cloud Message permite enviar mensajes entre usuarios MIUI. Para su activación, es necesario enviar un SMS internacional. Es posible que su operador aplique cargos adicionales por este envío; desea activarlo ahora? Sí no, usted puede habilitarlo luego ne la Opciones del teléfono</string>
   <string name="mx_reactivate">Re-activando mensajería en la nube</string>
   <string name="mx_warning_notice">Se enviará un SMS para habilitar la mensajería en la nube a través de la conexión de datos</string>
   <string name="need_download">Esperando sincronización...</string>
