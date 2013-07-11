@@ -20,6 +20,7 @@
   <string name="aggregation_suggestion_edit_dialog_title">Editar contactos seleccionados</string>
   <string name="aggregation_suggestion_join_dialog_message">Añadir contacto actual con el seleccionado?</string>
   <string name="aggregation_suggestion_join_dialog_title">Añadir contactos</string>
+  <string name="all_list_empty">Sin contactos</string>
   <string name="attach_photo_dialog_title">Foto de contacto</string>
   <string name="audio_chat">Chat de audio</string>
   <string name="batch_delete_msg">¿Eliminar los siguientes contactos %d ? Los contactos seguirán sincronizados en la nube después de eliminarlos</string>
@@ -196,6 +197,7 @@
   <string name="description_view_contact_detail">Ver contacto</string>
   <string name="deselect_all">Deseleccionar todo</string>
   <string name="dialerDialpadHintText">Añadir llamada</string>
+  <string name="dialerIconLabel">Recientes</string>
   <string name="dialer_empty_text_loading">Cargando...</string>
   <string name="dialer_empty_text_no_call_log">No hay llamadas</string>
   <string name="dialer_empty_text_no_search_result">No se encontraron contactos</string>
@@ -278,6 +280,7 @@
   <string name="group_name_hint">Nombre del grupo</string>
   <string name="group_read_only">No es posible editar</string>
   <string name="groupsLabel">Grupos</string>
+  <string name="groups_list_empty">Sin grupos</string>
   <string name="hint_findContacts">Buscar contactos</string>
   <string formatted="false" name="hint_search_contacts">%d contactos</string>
   <string name="imLabelsGroup">Mensajería internet</string>
@@ -289,6 +292,7 @@
   <string name="import_from_sim">Importar desde tarjeta SIM</string>
   <string name="import_multiple_vcard_string">Importar varios archivos vCard</string>
   <string name="import_one_vcard_string">Importar un archivo vCard</string>
+  <string name="import_from_other_phone">Importar desde otro teléfono</string>
   <string name="import_to_xiaomi_account_confirm">Importar</string>
   <string name="import_to_xiaomi_account_progress_finish">Importación completada</string>
   <string name="import_to_xiaomi_account_progress_message">Importando...</string>
@@ -349,6 +353,7 @@
   <string name="menu_deleteContact">Eliminar contacto</string>
   <string name="menu_deleteGroup">Borrar</string>
   <string name="menu_dialpad">Llamar</string>
+  <string name="menu_dialpad_text">Teclado</string>
   <string name="menu_discard">Descartar</string>
   <string name="menu_doNotSave">Volver</string>
   <string name="menu_done">Listo</string>
@@ -451,6 +456,8 @@ PAra añadir contactos a la lista de favoritos:
   <string name="pick_photo">Elegir foto de la galeria</string>
   <string formatted="false" name="pick_recent_list_title">Total %1$d números de contactos recientes</string>
   <string name="pickerNewContactHeader">Crear nuevo contacto</string>
+  <string name="picker_all_list_empty">Sin contactos</string>
+  <string name="picker_groups_list_empty">Sin grupos</string>
   <string name="pkgLabel">Contactos y teléfono</string>
   <string name="postalLabelsGroup">Dirección</string>
   <string name="postal_address">Dirección</string>
@@ -459,8 +466,6 @@ PAra añadir contactos a la lista de favoritos:
   <string name="postal_postcode">Código postal</string>
   <string name="postal_region">Provincia/Estado</string>
   <string name="postal_street">Calle</string>
-  <string name="pref_key_photo_word_title">Foto automática</string>
-  <string name="pref_key_photo_word_summary">Seleccionar automáticamente una imagen para aquellos contactos sin foto.</string>
   <string name="pref_key_rebuild_t9_index_message">Corregir fallo al indexar la búsqueda de contactos</string>
   <string name="pref_key_rebuild_t9_index_title">Reindexar información T9</string>
   <string name="pref_summary_import_from_account">Importar contactos de Google y las cuentas Exchange a la cuenta Xiaomi</string>
@@ -470,7 +475,9 @@ PAra añadir contactos a la lista de favoritos:
   <string name="preference_auto_ip_summary_disable">Inhabilitado</string>
   <string name="preference_auto_ip_summary_on">Prefijo IP del proveedor: %s</string>
   <string name="preference_contacts">Contactos</string>
+  <string name="preference_contacts_display">Visualización de los contactos</string>
   <string name="preference_contacts_filter">Contactos a mostrar</string>
+  <string name="preference_contacts_more">Organización de contactos</string>
   <string name="preference_dial_pad_touch_tone_title">Tonos de marcado</string>
   <string name="preference_dial_pad_touch_tone_switch">Tonos de marcado</string>
   <string name="preference_dial_pad_touch_tone_default">Predeterminado</string>
@@ -499,6 +506,9 @@ PAra añadir contactos a la lista de favoritos:
   <string name="preference_telocation_summary_countrycode_on">Agregar código de país automáticamente</string>
   <string name="preference_telocation_summary_countrycode_off">No agregar código de país automáticamente</string>
   <string name="preference_tone_title">Tono</string>
+  <string name="preference_phone">Teléfono</string>
+  <string name="pref_key_photo_word_title">Auto-selección de foto</string>
+  <string name="pref_key_photo_word_summary">Seleccionar automática una imagen para aquellos contactos sin foto.</string>
   <string name="preview_contact_card_title">Importar información de contacto</string>
   <string name="primary_indicator">(por defecto)</string>
   <string name="private_num">Número privado</string>
@@ -660,21 +670,4 @@ PAra añadir contactos a la lista de favoritos:
   <string name="websiteLabelsGroup">Web</string>
   <string formatted="false" name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Limpiar datos</string>
-  <string name="preference_display">Presentación</string>
-  <string name="preference_simple_mode_title">Modo simple</string>
-  <string name="preference_simple_mode_description">La lista no mostrará foto, propiedades ni empresa</string>
-  <string name="preference_telocation_title">Ubicación</string>
-  <string name="preference_telocation_summary_teloc_on">Mostrar ubicación</string>
-  <string name="preference_telocation_summary_teloc_off">Ocultar ubicación</string>
-  <string name="preference_telocation_summary_countrycode_on">Agregar automáticamente el código de país</string>
-  <string name="preference_telocation_summary_countrycode_off">No agregar automáticamente el código de país</string>
-  <string name="preference_phone">Teléfono</string>
-  <string name="preference_dial_pad_touch_tone_title">Tonos de marcado</string>
-  <string name="preference_auto_ip_title">IP Automática</string>
-  <string name="preference_auto_ip_summary_disable">Deshabilitado</string>
-  <string name="pref_key_photo_word_title">Auto-selección de foto</string>
-  <string name="pref_key_photo_word_summary">Selección automática de una imagen para contactos sin foto.</string>
-  <string name="preference_tone_title">Tono</string>
-  <string name="preference_dial_pad_touch_tone_default">Predeterminado</string>
-  <string name="preference_phone_more_title">Opciones adicionales</string>
 </resources>

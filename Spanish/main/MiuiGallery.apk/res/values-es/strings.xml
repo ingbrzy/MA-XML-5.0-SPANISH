@@ -128,6 +128,7 @@
   <string name="loading_files">Cargando...</string>
   <string name="loading_image">Cargando imagen…</string>
   <string name="loading_video">Cargando vídeo…</string>
+  <string name="local_albums">Imágenes locales</string>
   <string name="location">Ubicación</string>
   <string name="locations">Ubicaciones</string>
   <string name="lomoish">Lomografía</string>

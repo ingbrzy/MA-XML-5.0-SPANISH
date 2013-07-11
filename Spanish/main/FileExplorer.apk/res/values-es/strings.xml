@@ -50,12 +50,14 @@
   <string name="download_items_detail_message">Copiando %1$d archivos en la tarjeta SD ...%2$d%%</string>
   <string name="enable_sd_card">Tarjeta SD no disponible, inserte una por favor</string>
   <string name="error_info_cant_send_folder">No se ha podido enviar la carpeta</string>
+  <string name="error_open_file_failed_no_app_found">Acción no encontrada para abrir el archivo</string>
   <string name="fail_to_create_folder">Error, la carpeta ya existe</string>
   <string name="fail_to_rename">Error, ya existe una carpeta o archivo con ese nombre</string>
   <string name="favorite_photo">Fotos</string>
   <string name="favorite_ringtone">Tonos</string>
   <string name="favorite_screen_cap">Capturas de pantalla</string>
   <string name="favorite_sdcard">Tarjeta SD</string>
+  <string name="file_cleanup">Limpieza</string>
   <string name="file_info_canread">Lectura:</string>  
   <string name="file_info_canwrite">Escritura:</string>
   <string name="file_info_ishidden">Oculto:</string>
@@ -83,6 +85,7 @@
   <string name="kuaipan_tech_support">Soporte técnico otorgado por Kingsoft Kuaipan</string>
   <string name="local_cache">Caché local</string>
   <string name="local_cache_size">Tamaño caché local: %s</string>
+  <string name="login_reg_content0">KuaiPan es su Disco en Red</string>
   <string name="login_reg_content">MiDrive te ayuda a almacenar archivos y sincronizarlos entre múltiples dispositivos.</string>
   <string name="login_reg_login_xiaomi">Iniciar sesión en tu cuenta Xiaomi</string>
   <string name="menu_item_ftp">FTP</string>
@@ -152,6 +155,7 @@
   <string name="storage_warning">Almacenamiento externo no disponible o no se puede acceder</string>
   <string name="tab_category">Explorar</string>
   <string name="tab_networkdisk">MiDrive</string>
+  <string name="tab_phone">Teléfono</string>
   <string name="tab_sd">Tarjeta SD</string>
   <string name="trash_box_capacity">Espacio en papelera: %1$s</string>
   <string name="trash_box_link">Visita pan.xiaomi.com para vaciar la papelera</string>

@@ -988,6 +988,4 @@
   <string name="voicemail_settings_number_title_miui">Número buzón de voz</string>
   <string name="wait_prompt_str">¿Enviar los siguientes tonos?</string>
   <string name="wild_prompt_str">Reemplazar carácter comodín por</string>
-  <string name="t9_indexing_method_title_miui">Opciones de bústqueda T9</string>
-  <string name="t9_indexing_rebuilding_message">Reconstruyendo lo índices T9…</string>
 </resources>

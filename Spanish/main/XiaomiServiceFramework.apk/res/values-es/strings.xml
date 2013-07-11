@@ -83,6 +83,8 @@ para gestionar tus datos"</string>
     <string name="sub_sync_item_title_wifi_only">Sólo Wi-Fi</string>
     <string name="sync_item_sms_title">Sincronizar mensajes</string>
     <string name="sync_item_sms_summary">Activar esta opción sincronizará tus mensajes</string>
+	<string name="skip_setup_account_title">Omitir configuración de cuenta</string>
+	<string name="skip_setup_account_msg">Al usar su cuenta de Xiaomi, usted puede sincronizar y respaldar sus SMS, contactos, fotos, notas, etc. Desea continuar y configurar luego?</string>	
     <string name="sub_sync_item_sms_summary">Recomendado, de lo contrario tu consumo de datos puede aumentar</string>
     <string name="sub_sync_item_sms_title_wifi_only">Sólo usar Wi-Fi para los MMS</string>
     <string name="sync_item_contact_title">Sincronizar contactos</string>
@@ -94,5 +96,4 @@ para gestionar tus datos"</string>
 	<string name="account_dspt">"La cuenta de Xiaomi puede sincronizar y respaldar sus SMS,
 contactos, fotos, etc"</string>
 	<string name="micloud_welcome_skip_login"><u>Ignorar este paso</u></string>
-	<string name="skip_setup_account_msg">Al usar su cuenta de Xiaomi, usted puede sincronizar y respaldar sus SMS, contactos, fotos, notas, etc. Desea continuar y configurar luego?</string>
 </resources>

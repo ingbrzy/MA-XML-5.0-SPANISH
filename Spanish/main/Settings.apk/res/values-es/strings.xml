@@ -619,6 +619,7 @@
   <string name="device_internal_memory">Memoria interna:</string>
   <string name="device_internal_partition">Data/SD card:</string>
   <string name="device_memory">RAM:</string>
+  <string name="device_name">Nombre del dispositivo</string>
   <string name="device_picker">Elige un dispositivo Bluetooth</string>
   <string name="device_sd_memory">Tarjeta SD:</string>
   <string name="device_status">Estado</string>
@@ -1922,4 +1923,6 @@
   <string name="zone_auto_summaryOn">Usar zona horaria proporcionada por la red</string>
   <string name="zone_list_menu_sort_alphabetically">Ordenar alfabéticamente</string>
   <string name="zone_list_menu_sort_by_timezone">Ordenar por zona horaria</string>
+  <string name="skip_step">Ignorar este paso</string>
+  <string name="wifi_enable">Habilitar Wi-Fi</string>
 </resources>
