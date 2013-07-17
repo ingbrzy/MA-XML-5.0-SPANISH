@@ -77,8 +77,8 @@
   <string name="auto_ip_summary_not_enabled">No activado</string>
   <string name="auto_record_call_summary_miui">Se iniciará la grabación al conectar la llamada y el archivo se guardará en la tarjeta SD</string>
   <string name="auto_record_call_title_miui">Grabación de llamada automática</string>
-  <string name="auto_redial_pref_summary_miui">Se realizará la rellamada automáticamente si la línea está ocupada</string>
-  <string name="auto_redial_pref_title_miui">Rellamada automática</string>
+  <string name="auto_redial_pref_summary_miui">Se hará un remarcado automáticamente si la línea está ocupada</string>
+  <string name="auto_redial_pref_title_miui">Remarcado automático</string>
   <string name="auto_reg">Registro automático</string>
   <string name="auto_registration">Auto registro</string>
   <string name="auto_registration_summary">Registrar perfil automáticamente</string>
@@ -574,7 +574,7 @@
   <string name="notification_incoming_call">Llamada entrante</string>
   <string name="notification_missedCallTicker">Llamada perdida de %s</string>
   <string name="notification_missedCallTitle">Llamada perdida</string>
-  <string name="notification_missedCall_call_back">Rellamada</string>
+  <string name="notification_missedCall_call_back">Remarcado</string>
   <string name="notification_missedCall_message">Message</string>
   <string name="notification_missedCallsMsg">%s llamadas perdidas</string>
   <string name="notification_missedCallsTitle">Llamadas perdidas</string>

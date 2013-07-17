@@ -211,6 +211,7 @@
   <string name="status_bar_time_format_12">h:mma</string>
   <string name="status_bar_time_format_24">HH:mm</string>
   <string name="status_bar_toggle_ac">Control acceso</string>
+  <string name="status_bar_toggle_auto_brightness">Auto-Brillo</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_brightness">Brillo</string>
   <string name="status_bar_toggle_data">Datos</string>
@@ -222,6 +223,7 @@
   <string name="status_bar_toggle_network_type">Red</string>
   <string name="status_bar_toggle_privacy_mode">Modo invitado</string>
   <string name="status_bar_toggle_reboot">Reiniciar</string>
+  <string name="status_bar_toggle_ring">Timbre</string>
   <string name="status_bar_toggle_rotate">Rotación</string>
   <string name="status_bar_toggle_screen_button">Botones ICS</string>
   <string name="status_bar_toggle_screenshot">Capturar</string>

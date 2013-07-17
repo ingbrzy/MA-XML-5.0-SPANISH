@@ -441,6 +441,7 @@ PAra añadir contactos a la lista de favoritos:
   <string name="not_applied">No soportado</string>
   <string formatted="false" name="notification_new_voicemail_ticker">Nuevo mensaje de voz de %1$s</string>
   <string formatted="false" name="notification_voicemail_callers_list">%1$s, %2$s</string>
+  <string name="online_no_network">No es posible conectarse a la red</string>
   <string name="openDialKeyboard">Teclado</string>
   <string name="open_contact">Ver contacto</string>
   <string name="organizationLabelsGroup">Organización</string>

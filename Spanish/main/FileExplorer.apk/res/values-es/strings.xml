@@ -88,6 +88,7 @@
   <string name="login_reg_content0">KuaiPan es su Disco en Red</string>
   <string name="login_reg_content">MiDrive te ayuda a almacenar archivos y sincronizarlos entre múltiples dispositivos.</string>
   <string name="login_reg_login_xiaomi">Iniciar sesión en tu cuenta Xiaomi</string>
+  <string name="menu_item_cleanup">Limpiar</string>
   <string name="menu_item_ftp">FTP</string>
   <string name="menu_item_search">Buscar</string>
   <string name="menu_item_sort">Ordenar por</string>

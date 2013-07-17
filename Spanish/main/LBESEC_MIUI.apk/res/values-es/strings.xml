@@ -22,6 +22,9 @@
   <string name="Dashboard_Perm_SU">Gestionar permisos ROOT</string>
   <string name="Dashboard_Perm_SU_Desc">Monitorizando %1$d aplicaciones</string>
   <string name="Dashboard_Perm_SU_Disabled">ROOT deshabilitado</string>
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Habilitar permisos de ROOT a aplicaciones de terceros puede causar inestabilidad en el sistema, pérdida de datos del usuario o del sistema, o fallas de hardware.
+
+Para habilitar los permisos de ROOT, por favor cambie a la versión de desarrollo de MIUI."</string>
   <string name="Dashboard_Perm_SU_Switch">ROOT</string>
   <string name="Dashboard_Su_Enable_Content">"Si activa esta opción permitirá a las aplicaciones solicitar permisos ROOT. Nota: Las aplicaciones con permisos ROOT podrían causar inestabilidad de sistema, perdida de datos e incluso daños en el hardware, por favor tome precauciones. Seguro que desea habilitarlo?"</string>
   <string name="Dashboard_Su_Enable_Title">ROOT</string>

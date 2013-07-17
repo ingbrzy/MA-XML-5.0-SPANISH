@@ -306,6 +306,7 @@
   <string name="bluetooth_device_context_unpair">Desincronizar</string>
   <string name="bluetooth_device_details">Device settings</string>
   <string name="bluetooth_device_name">Nombre del dispositivo</string>
+  <string name="bluetooth_device_searchable">Permitir detección</string>
   <string name="bluetooth_devices">Dispositivos Bluetooth</string>
   <string name="bluetooth_disable_profile_message">Se inhabilitará:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;From:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
   <string name="bluetooth_disable_profile_title">¿Inhabilitar perfil?</string>
@@ -325,6 +326,7 @@
   <string name="bluetooth_dock_settings_remember">Ajustes de recordatorio</string>
   <string name="bluetooth_dock_settings_title">Uso del conector para audio</string>
   <string name="bluetooth_empty_list_bluetooth_off">Para ver dispositivos, activa el Bluetooth.</string>
+  <string name="bluetooth_enable">Habilitar bluetooth</string>
   <string name="bluetooth_enable_alphanumeric_pin">El PIN contiene letras o símbolos.</string>
   <string name="bluetooth_enter_passkey_msg">Para sincronizar con:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Escribe la clave de acceso solicitada por el dispositivo:</string>
   <string name="bluetooth_enter_passkey_other_device">Es posible que tengas que introducir esta clave en el otro dispositivo.</string>
@@ -1017,6 +1019,21 @@
   <string name="packages_subtitle">Paquetes incluidos</string>
   <string name="password_guard">Seguridad</string>
   <string name="percentage">%d%%</string>
+  <string name="perm_enable">Habilitar el adminsitrador de permisos</string>
+  <string name="perm_header_disabled">Monitor de permisos deshabilitado</string>
+  <string name="perm_hips">Gestioner Permisos de Aplicaciones</string>
+  <string name="perm_hips_desc">Monitoreando %1$d aplicaciones por seguridad y privacidad</string>
+  <string name="perm_hips_desc1">Monitoreando aplicaciones por seguridad y privacidad</string>
+  <string name="perm_hips_desc2">Monitoreando %1$d aplicaciones por seguridad y privacidad</string>
+  <string name="perm_su">Gestionar permisos ROOT</string>
+  <string name="perm_su_desc1">Gestionar permisos ROOT</string>
+  <string name="perm_su_disabled_in_stable_desc">"Habilitar los permisos de ROOT a aplicaciones de terceros puede generar una inestabilidad en el sistema, así como pérdida de datos personals, y daños de hardware o de sistema.
+
+Para activar los permisos de ROOT, por favor cambie a la versión de desarrollo de MIUI."</string>
+  <string name="perm_su_disabled_desc">"Habilitar los permisos de ROOT a aplicaciones de terceros puede generar una inestabilidad en el sistema, así como pérdida de datos personals, y daños de hardware o de sistema. Por favor tenga claro lo que significa tener activa esta opción."</string>
+  <string name="perm_su_enable_title">Permisos ROOT</string>
+  <string name="perm_su_enable_content">"Al habilitarlo, permitirá que las aplicaciones puedan solicitar permisos ROOT.
+Nota: aplicaciones con dichos permisos podrán generar inestabilidad en el sistema, pérdida de datos personales, y daños en el sistema o en el hardware. Desea continuar con la activación de esta característica?"</string>
   <string name="permissions_label">Permisos</string>
   <string name="personal_data_section_title">Datos personales</string>
   <string name="phone_info_label">Información sobre el teléfono</string>

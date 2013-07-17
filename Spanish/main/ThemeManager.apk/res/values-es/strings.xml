@@ -18,6 +18,7 @@
     <string name="component_category_style_title">Estilos</string>
     <string name="component_category_wallpaper_title">Fondos de pantalla</string>
     <string name="component_category_ringtone_title">Sonidos</string>
+	<string name="online_no_network">No es posible conectarse a la red</string>
     <string name="theme_component_title_framework">Sistema</string>
     <string name="theme_component_title_mms">Mensajeria</string>
     <string name="theme_component_title_wallpaper">Fondos de escritorio</string>
@@ -56,6 +57,16 @@
     <string name="component_include_title">Componentes: %1$s</string>
     <string name="component_screen_title">Fondo de pantalla</string>
     <string name="resource_fail_to_show">El paquete de temas no contiene los recursos apropiados</string>
+	<string name="resource_local">Locales %1$s</string>
+    <string name="resource_title">Detalles</string>
+    <string name="resource_download">Descargar</string>
+    <string name="resource_downloading">Descargando</string>
+    <string name="resource_waiting_download">Esperando</string>
+    <string name="resource_apply">Aplicar</string>
+    <string name="resource_update">Actualizar</string>
+    <string name="resource_select">Seleccionar</string>
+    <string name="resource_buy">Comprar</string>
+    <string name="resource_importing">Importando</string>
     <string name="wrong_title">Error</string>
     <string name="theme_format_wrong_content">Formato no compatible!</string>
     <string name="apply_font_tip">El tema contiene una nueva fuente, es necesario reiniciar.</string>

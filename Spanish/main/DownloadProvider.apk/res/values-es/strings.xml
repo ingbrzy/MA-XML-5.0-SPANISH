@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_label">Administrador de descargas</string>
+	<string name="auto_restart_under_wifi">Este archivo será descargado automáticamente cuando haya conexión Wi-Fi will</string>
     <string name="permlab_downloadManager">Acceso al administrador de descargas</string>
     <string name="permdesc_downloadManager">Permite que la aplicación acceda al administrador de descargas y lo utilice para descargar archivos. Las aplicaciones malintencionadas pueden utilizar este permiso para provocar daños en las descargas y acceder a información privada.</string>
     <string name="permlab_downloadManagerAdvanced">Funciones avanzadas del administrador de descargas</string>
@@ -26,7 +27,7 @@
     <string name="wifi_required_body" formatted="false">"Para completar esta descarga de %s , necesitas una conexión Wi-Fi.
 
 Haz clic en %s  para iniciar la descarga la próxima vez que te conectes a una red Wi-Fi."</string>
-    <string name="wifi_recommended_title">Atención al tamaño del archivo a descargar: %s</string>
+    <string name="wifi_recommended_title">"Atención,  el tamaño del archivo a descargar es: %s"</string>
     <string name="wifi_recommended_body">"Realizar esta descarga con datos móviles reducirá la vida de la batería y puede ocasionar gastos con tu operador dependiendo de tu plan de datos.
 
  Toca en \"Poner en cola\" para descargar cuando conectes a una red Wi-Fi.

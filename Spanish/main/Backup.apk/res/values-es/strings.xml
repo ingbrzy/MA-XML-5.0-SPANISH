@@ -110,6 +110,7 @@
   <string name="restore_contact_content">La operación de recuperación de los contactos puede dar lugar a la duplicación de algunos contactos ya existentes en su cuenta Gmail. ¿Esta seguro que desea restaurar sus contactos? Nota: Recuerde que puede combinar sus contactos duplicados</string>
   <string name="restore_contacts_hit">" (Nota: Antes de restaurar los contactos e historial se recomienda configurar la cuanta de gmail)"</string>
   <string name="restore_counts">Recuperación：</string>
+  <string name="restore_data">Restaurar datos</string>
   <string name="restore_finished">Restauración completada!</string>
   <string name="restore_launcher_layout_hit">" (Nota: El proceso restaurará la posición de los iconos pero no los widgets)"</string>
   <string name="restore_progress">Restaurando…</string>
@@ -130,12 +131,15 @@
   <string name="sdcard_no_enough_space_message">Poco espacio en la tarjeta SD, la copia de seguridad puede fallar, ¿estás seguro de que desea continuar?</string>
   <string name="sdcard_unmounted">La tarjeta SD no está insertada, se cierra la aplicación.</string>
   <string name="select_all">Marcar todo</string>
+  <string name="select_backup_item">Marcar elemento</string>
   <string name="service_stoped">Servicio detenido</string>
   <string name="settings_summary">" y configuración de los ajustes del teléfono y mensajes"</string>
+  <string name="software_backup_info">Respaldar programas y datos asociados</string>
   <string name="sms_title">Mensajes</string>
   <string name="start_backup">Iniciar</string>
   <string name="start_restore">Iniciar</string>
   <string name="succeed">correcto</string>
+  <string name="system_backup_info">Opciones del sistema, distribución del escritorio, etc.</string>
   <string name="task_backup_cancel_progress">Cancelando copia de seguridad...</string>
   <string name="task_backup_finished_local">Copia de seguridad correcta</string>
   <string name="task_canceled">Cancelado</string>

@@ -11,6 +11,8 @@
   <string name="childrens_day">Día del niño</string>
   <string name="chinese_youth_day">Día de la juventud</string>
   <string name="christmas_dad">Navidad</string>
+  <string name="clean_title">Eliminar archivos que tiene más de 30 días en la papelera de reciclaje</string>
+  <string name="clean_message">%1$s espacio liberado</string>
   <string name="clear_and_bright">Limpio y claro</string>
   <string name="cold_dews">rocio frio</string>
   <string name="date_day">E</string>
@@ -51,6 +53,9 @@
   <string name="lockscreen_sms_bottom_hint">Deslizar para SMS</string>
   <string name="lockscreen_time_bottom_hint">Deslizar para desbloquear</string>
   <string name="lockscreen_unlock_sim_via_puk">Introduzca su código PUK para desbloquear la tajeta SIM</string>
+  <string name="memory_clear_nothing_result">No hay memoria disponible para liberar</string>
+  <string name="memory_clear_result">"%1$s memoria liberada,
+Memoria disponible %2$s"</string>
    <string name="miui_copyright_title">Copyright</string>
   <string name="miui_privacy_policy_title">Política de privacidad</string>
   <string name="miui_user_agreement_title">Acuerdo de usuario</string>

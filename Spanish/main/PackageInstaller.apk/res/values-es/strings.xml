@@ -37,6 +37,16 @@ Permitir esto ahora y en el futuro?"</string>
     <string name="dlg_ok">Aceptar</string>
     <string name="app_not_found_dlg_title">No se ha encontrado la aplicación.</string>
     <string name="app_not_found_dlg_text">No se ha encontrado la aplicación en la lista de aplicaciones instaladas.</string>
+    <string name="perm_privacy_app_finish">Finalizar</string>
+    <string name="perm_privacy_app_launch">Ejecutar</string>
+    <string name="perm_privacy_app_installed">Instalación exitosa!</string>
+    <string name="perm_sysopt_boost_auto_start">Permisos de inicio automático</string>
+    <string name="perm_sysopt_boost_auto_start_summary">La aplicación se ejecutará automáticamente!</string>
+    <string name="perm_privacy_app_trust">Confio en esta aplicación</string>
+    <string name="perm_privacy_app_trust_summary">MIUI monitoreará esta aplicación</string>
+    <string name="perm_action_accept">Permitir</string>
+    <string name="perm_action_prompt">Preguntar</string>
+    <string name="perm_action_reject">Denegar</string>	
     <string name="uninstall_application_title">Desinstalar aplicación</string>
     <string name="uninstall_update_title">Desinstalar actualización</string>
     <string name="uninstall_activity_text">%1$s es parte de la siguiente aplicación:</string>

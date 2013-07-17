@@ -95,6 +95,8 @@
   <string name="sort_by_not_defined">Ordenar iconos por defecto</string>
   <string name="start_activity_failed">No se ha podido iniciar, inténtelo más tarde</string>
   <string name="starting_preset_app">Iniciando</string>
+  <string name="status_bar_toggle_ring">Timbre</string>
+  <string name="status_bar_toggle_auto_brightness">Auto-Brillo</string>
   <string name="title_select_live_folder">Seleccionar carpeta</string>
   <string name="title_select_shortcut">Seleccionar acceso directo</string>
   <string name="transformation_type_classic">Clásico</string>
@@ -105,6 +107,7 @@
   <string name="transformation_type_leftpage">Páginas</string>
   <string name="transformation_type_rotate">Rotación</string>
   <string name="transformation_type_stack">Cascada</string>
+  <string name="unnamed_folder_name">Carpeta sin nombre</string>
   <string name="uninstall">Desinstalar</string>
   <string name="uninstall_body_format">Desinstalar la aplicación \"%s\"?</string>
   <string name="unknown_artist_name">Artista Desconocido</string>
