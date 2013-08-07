@@ -119,6 +119,7 @@
   <string name="move_data_to_sdcard_message">Para asegurar una experiencia de uso suave y estable, las imágenes y fotos se exportarán a la tarjeta SD para liberar más memoria interna. Es mejor mantener la tarjeta SD en el teléfono para el uso diario.</string>
   <string name="move_data_to_sdcard_title">Exportar datos internos a la tarjeta SD</string>
   <string name="no_vibrate_hint">De acuerdo con tus ajustes, llamadas entrantes y sms no se notificarán con vibración, habilitar la vibración no tendrá ningún efecto</string>
+  <string name="no_notification_tips">Sin notificaciones</string>
   <string name="not_all_vibrate_hint">De acuerdo con tus ajustes, %1$s vibrará, %2$s no vibrará, puede cambiar esta configuración desde Ajustes > Sonido > Vibrar</string>
   <string name="notification_icon_filter">Personalizar notificaciones</string>
   <string name="notification_icon_filter_hide">No mostrar notificaciones en la barra de estado</string>
@@ -176,7 +177,7 @@
   <string name="settings_toggle_position_divider_list">Los controles colocados encima de la barra se activarán</string>
   <string name="settings_toggle_position_divider_page">Se activarán los %1$d controles de arriba</string>
   <string name="settings_toggle_position_reset">Reestablecer controles</string>
-  <string name="share">Share</string>
+  <string name="share">Compartir</string>
   <string name="status_bar_accessibility_dismiss_recents">Ignorar aplicaciones recientes</string>
   <string name="status_bar_clear_all_button">Borrar</string>
   <string name="status_bar_date_format">d.MMMM yyyy</string>

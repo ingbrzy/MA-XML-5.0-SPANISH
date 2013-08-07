@@ -72,6 +72,7 @@ Memoria disponible %2$s"</string>
   <string name="month_of_november">Nov</string>
   <string name="month_of_october">Oct</string>
   <string name="month_of_september">Sep</string>
+  <string name="more_item_label">Más</string>
   <string name="multi_select_title">%1$s elemento(s) seleccionado(s)</string>
   <string name="never">Nunca</string>
   <string name="no_sim">Sin SIM, el servicio no está dispnible</string>
@@ -93,6 +94,8 @@ Memoria disponible %2$s"</string>
   <string name="private_num">Número Privado</string>
   <string name="processing">Procesando...</string>
   <string name="reboot_confirm">El teléfono se reiniciará</string>
+  <string name="reboot_confirm_title">Are you sure you want to restart your phone?</string>
+  <string name="reboot_confirm_title">Seguro quiere reinicar su teléfono?</string>
   <string name="reboot_progress">Reiniciando...</string>
   <string name="resource_alarm_default">Alarma</string>
   <string name="resource_apply">Aplicar</string>
@@ -137,4 +140,6 @@ Memoria disponible %2$s"</string>
   <string name="user_agreement3">" y "</string>
   <string name="user_agreement4">Política de privacidad</string>
   <string name="user_agreement5">，Pulsando OK acuerda y se compromete a cumplir con lo arriba mencionado, para salir pulse Cancelar.</string>
+  <string name="v5_select_all">Sel. Todoit</string>
+  <string name="yesterday">Ayer</string>
 </resources>

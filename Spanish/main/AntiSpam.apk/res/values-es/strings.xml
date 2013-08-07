@@ -30,6 +30,9 @@
   <string name="anti_stranger_title">Modo anti-extraños</string>
   <string name="app_name">Firewall</string>
   <string name="black_white_list_tab_title">Listados</string>
+  <string name="bl_no_block_sms">Todos los mensajes bloqueados se registrarán aquí</string>
+  <string name="bl_no_block_call">todas las llamadas bloqueadas se registrarán aquí</string>
+  <string name="bl_no_blacklist">No se ha definido la lista negra</string
   <string name="call_log_tab_title">Llamadas</string>
   <string name="calllog">Registro de llamadas</string>
   <string name="cancel_button">Cancelar</string>
@@ -43,6 +46,9 @@
   <string name="context_call">Llamar</string>
   <string name="context_ms">Enviar mensaje</string>
   <string name="context_new_contact">Nuevo contacto</string>
+  <string name="dlg_bl_add_manual">Agregar manualmente un número a la lista negra</string>
+  <string name="dlg_add_manual_hint">Íngresar número telefónico</string>
+  <string name="dlg_add_manual_ok">Agregar</string>
   <string name="edit_blacklist">Añadir/cambiar nombre</string>
   <string name="edit_whitelist">Añadir/cambiar nombre</string>
   <string name="emptylist_fwlog_call">Todas las llamadas bloqueadas se guardarán en el registro del firewall.</string>
@@ -104,7 +110,10 @@
   <string name="fw_whitelist_hint">Añade aquí tus números de confianza. Las llamadas y mensajes de la lista blanca no serán bloqueados nunca.</string>
   <string formatted="false" name="member_firewall_log">%d llamadas y %d mensajes</string>
   <string name="menu_edit">Editar</string>
+  <string name="menu_clear_all_call">Eliminar todas las llamadas bloqueadas</string>
   <string name="mms_log_tab_title">Mensajes</string>
+  <string name="menu_bl_add_manual">Agregar</string>
+  <string name="menu_bl_add_contact">Contactos recientes</string>
   <string name="no">Cancelar</string>
   <string name="number_add_hint">Introduce el número a bloquear</string>
   <string name="opt_accept_whitelist">Permitir sólo lista blanca</string>
@@ -116,4 +125,16 @@
   <string name="save_button">Guardar</string>
   <string name="show_firewall_notification">Mostrar icono</string>
   <string name="show_notification">Mostrar aviso</string>
+  <string name="st_common_setting_group">Vista rápida</string>
+  <string name="st_settings_name">Configuración</string
+  <string name="st_bl_setting_group">Configuración de lista negra</string>
+  <string name="st_bl_block_setting_title">Decidir luego</string>
+  <string name="st_block_all">Bloquear llamadas y mensajes</string>
+  <string name="st_block_private_call_button">Bloquear llamadas entrantes de números vacíos</string>
+  <string name="st_filter_sms_button">Mensaje de filtro SPAM</string>
+  <string name="st_filter_keywords_setting_title">Establecer las palabras de filtrado</string>
+  <string name="tab_blacklist">Lista negra</string>
+  <string name="tab_block_log">Registros de bloqueo
+  <string name="tab_sms">Registros de mensajes</string></string>
+  <string name="tab_call">Registros de llamadas</string>
 </resources>

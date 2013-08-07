@@ -2,6 +2,8 @@
 <resources>
     <string name="app_name">Temas</string>
     <string name="theme_activity_lable">Temas</string>
+    <string name="theme_batch_update_dlg_title">Actualizar</string>
+    <string name="theme_batch_update_dlg_content">Desea realizar la actualización ahora?</string>
     <string name="theme_changing_dialog_title">Cargando tema seleccionado...</string>
     <string name="theme_changed_message">Aplicado con éxito.</string>
     <string name="theme_changed_failed_message">Fallo al aplicar tema.</string>
@@ -19,6 +21,9 @@
     <string name="component_category_wallpaper_title">Fondos de pantalla</string>
     <string name="component_category_ringtone_title">Sonidos</string>
 	<string name="online_no_network">No es posible conectarse a la red</string>
+	<string name="theme_batch_update_all">Actualizar todo</string>
+	<string name="theme_batch_has_update_text">Hay %1$d tema(s) con actualizaciones disponibles</string>
+	<string name="theme_component_title_alarmstyle">Estilo de la alarma</string>
     <string name="theme_component_title_framework">Sistema</string>
     <string name="theme_component_title_mms">Mensajeria</string>
     <string name="theme_component_title_wallpaper">Fondos de escritorio</string>
@@ -52,6 +57,8 @@
     <string name="live_wallpaper">Fondo de pantalla animado</string>
     <string name="lockscreen_wallpaper">Fondo de bloqueo</string>
     <string name="change_wallpaper">Fondo de pantalla</string>
+    <string name="component_category_finest_title">Destacados</string>
+    <string name="component_category_more_title">Adicionales</string>
     <string name="component_settings_title">Personalizar</string>
     <string name="component_select_title">Componentes: %1$s</string>
     <string name="component_include_title">Componentes: %1$s</string>
@@ -67,6 +74,7 @@
     <string name="resource_select">Seleccionar</string>
     <string name="resource_buy">Comprar</string>
     <string name="resource_importing">Importando</string>
+    <string name="resource_no_result">Sin resultados</string>
     <string name="wrong_title">Error</string>
     <string name="theme_format_wrong_content">Formato no compatible!</string>
     <string name="apply_font_tip">El tema contiene una nueva fuente, es necesario reiniciar.</string>

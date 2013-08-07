@@ -513,6 +513,7 @@ PAra añadir contactos a la lista de favoritos:
   <string name="preview_contact_card_title">Importar información de contacto</string>
   <string name="primary_indicator">(por defecto)</string>
   <string name="private_num">Número privado</string>
+  <string name="profile_name">Mi perfil</string>
   <string name="profile_display_name">Configurar mi perfil</string>
   <string formatted="false" name="progress_notifier_message">Importando %s/%s: %s</string>
   <string name="quickcontact_missing_app">No se encontro una aplicación para realizar esta acción</string>

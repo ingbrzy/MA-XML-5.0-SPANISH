@@ -819,7 +819,7 @@
   <string name="language_settings">Idioma y entrada de texto</string>
   <string name="language_settings_category">Ajustes de idioma</string>
   <string name="large_font">Grande</string>
-  <string name="last_synced">Last synced %1$s</string>
+  <string name="last_synced">Ultima sincronización %1$s</string>
   <string name="launch_count_label">Número</string>
   <string name="launcher_settings_title">Launcher</string>
   <string name="led_colors_summary">Color del LED en notificacion</string>

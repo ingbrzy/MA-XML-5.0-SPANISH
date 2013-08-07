@@ -149,6 +149,7 @@
   <string name="exported_bookmark_file_name">Mis favoritos</string>
   <string name="file_picker_new_folder">Nueva carpeta</string>
   <string name="file_picker_sdcard_not_found">Tarjeta SD no detectada, por favor comprueba si esta en uso</string>
+  <string name="find_on_page">Buscar en la página</string
   <string name="folder_name">Nombre de la carpeta</string>
   <string name="forward">Siguiente</string>
   <string name="geolocation_permissions_prompt_dont_share">Rechazar</string>
@@ -386,6 +387,7 @@
   <string name="search_baidu">Baidu</string>
   <string name="search_bing">Bing</string>
   <string name="search_button_text">Ir</string>
+  <string name="send_bookmark_to_home_screen">Enviar a pantalla de inicio</string>
   <string name="search_cancel">Cancelar</string>
   <string name="search_google">Google</string>
   <string name="search_hint">Busca o escribe una URL.</string>

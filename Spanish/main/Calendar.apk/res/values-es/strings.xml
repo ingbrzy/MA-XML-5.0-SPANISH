@@ -101,7 +101,10 @@
     <string name="delete_this_event_title">Este evento se suprimirá.</string>
     <string name="change_response_title">Cambiar respuesta</string>
     <string name="menu_general_preferences">Ajustes generales</string>
+    <string name="jump_date_full">Ir a una fecha</string>
     <string name="menu_about_preferences">Acerca del calendario</string>
+    <string name="miui_menu_create_event">Nuevo</string>
+    <string name="preferences_category_account_title">Cuenta</string>
     <string name="preferences_title">Ajustes</string>
     <string name="preferences_general_title">Configuración de la vista de calendario</string>
     <string name="preferences_reminder_title">Configuración de los recordatorios</string>
@@ -130,6 +133,8 @@
     <string name="prefDefault_alerts_vibrate_true">Siempre</string>
     <string name="prefDefault_alerts_vibrate_false">Nunca</string>
     <string name="prefDialogTitle_vibrateWhen">Vibrar</string>
+    <string name="quick_response_settings">Respuestas rápidas</string>
+    <string name="quick_response_settings_summary">Editar las respuestas predeterminadas cuando se realizan las invitaciones por correo</string>
     <string name="gadget_title">Calendario</string>
     <string name="gadget_no_events">No hay eventos programados</string>
     <string name="tomorrow">Mañana</string>

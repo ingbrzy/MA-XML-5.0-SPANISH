@@ -328,4 +328,10 @@
         <item>silent</item>
         <item>never</item>
     </string-array>
+	<string-array name="quick_response_defaults">
+		<item>Voy unos minutos tarde.</item>
+		<item>Llegaré en 10 minutos.</item>
+		<item>Ve iniciando la reunión sin mi.</item>
+		<item>"Lo siento, no pude evitarlo. debemos agendar de nuevo nuestra cita."</item>
+	</string-array>    
 </resources>

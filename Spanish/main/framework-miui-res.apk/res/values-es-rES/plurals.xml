@@ -52,4 +52,8 @@
         <item quantity="other">en %d minutos</item>
         <item quantity="one">en 1 minuto</item>
     </plurals>
+ 	<plurals name="v5_edit_mode_title">
+		<item quantity="other">%1$d Seleccionados</item>
+		<item quantity="one">%1$d Seleccionado</item>
+	</plurals>   
 </resources>

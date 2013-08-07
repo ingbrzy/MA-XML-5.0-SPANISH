@@ -89,7 +89,7 @@
   <string name="database_corruption">Base de datos dañada, creando una nueva base de datos</string>
   <string name="delete">Eliminar</string>
   <string name="delete_bookmark">Eliminar de Favoritos</string>
-  <string name="delete_message">Eliminar mensaje</string>
+  <string name="delete_message">Eliminar</string>
   <string name="delete_phrase">Borrar frase</string>
   <string name="delete_subject">Eliminar asunto</string>
   <string name="delete_thread">Eliminar conversación</string>
@@ -177,7 +177,7 @@
   <string name="menu_edit">Editar</string>
   <string name="menu_forward">Reenviar</string>
   <string name="menu_insert_smiley">Insertar emoticono</string>
-  <string name="menu_lock">Bloquear mensaje</string>
+  <string name="menu_lock">Bloquear</string>
   <string name="menu_preferences">Ajustes</string>
   <string name="menu_search">Buscar</string>
   <string name="menu_send_email">Enviar mensaje a %s</string>
@@ -423,6 +423,7 @@
   <string name="status_received">Recibidos</string>
   <string name="status_rejected">Rechazados</string>
   <string name="status_unread">No leídos</string>
+  <string name="stick_conversation">Anclar la conversación actual</string>
   <string name="storage_limits_activity">Límites de almacenamiento</string>
   <string name="storage_limits_message">¿Quieres limitar el número de mensajes que se guardan por conversación?</string>
   <string name="storage_limits_setting">Establecer límites</string>
