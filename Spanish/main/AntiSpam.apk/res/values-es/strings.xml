@@ -32,7 +32,7 @@
   <string name="black_white_list_tab_title">Listados</string>
   <string name="bl_no_block_sms">Todos los mensajes bloqueados se registrarán aquí</string>
   <string name="bl_no_block_call">todas las llamadas bloqueadas se registrarán aquí</string>
-  <string name="bl_no_blacklist">No se ha definido la lista negra</string
+  <string name="bl_no_blacklist">No se ha definido la lista negra</string>
   <string name="call_log_tab_title">Llamadas</string>
   <string name="calllog">Registro de llamadas</string>
   <string name="cancel_button">Cancelar</string>
@@ -126,7 +126,7 @@
   <string name="show_firewall_notification">Mostrar icono</string>
   <string name="show_notification">Mostrar aviso</string>
   <string name="st_common_setting_group">Vista rápida</string>
-  <string name="st_settings_name">Configuración</string
+  <string name="st_settings_name">Configuración</string>
   <string name="st_bl_setting_group">Configuración de lista negra</string>
   <string name="st_bl_block_setting_title">Decidir luego</string>
   <string name="st_block_all">Bloquear llamadas y mensajes</string>

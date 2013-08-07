@@ -149,7 +149,7 @@
   <string name="exported_bookmark_file_name">Mis favoritos</string>
   <string name="file_picker_new_folder">Nueva carpeta</string>
   <string name="file_picker_sdcard_not_found">Tarjeta SD no detectada, por favor comprueba si esta en uso</string>
-  <string name="find_on_page">Buscar en la página</string
+  <string name="find_on_page">Buscar en la página</string>
   <string name="folder_name">Nombre de la carpeta</string>
   <string name="forward">Siguiente</string>
   <string name="geolocation_permissions_prompt_dont_share">Rechazar</string>
