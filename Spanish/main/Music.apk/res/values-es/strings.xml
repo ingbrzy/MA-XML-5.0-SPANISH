@@ -17,6 +17,8 @@
   <string formatted="false" name="artist_details_format">%1$s, %2$s</string>
   <string name="artist_edit">Artista</string>
   <string name="artists_title">Artistas</string>
+  <string name="auto_correct_id3_settings">Auto corrección de ID3</string>
+  <string name="auto_correct_id3_summary">Corregir el ID3 durante la reproducción de audio usando el algoritmo de huella de audio de Baidu.</string>
   <string name="billboard">Cartelera</string>
   <string name="buffering">Gargando...</string>
   <string name="cancel">Cancelar</string>
@@ -29,6 +31,9 @@
   <string name="click_to_shuffle">Toca aquí para reproducir aleatoriamente todo</string>
   <string name="confirm">Aceptar</string>
   <string name="continue_when_wifi_disconnect">Continuar escuchando música online al cambiar a red móvil</string>
+  <string name="correct_id3_not_support">No soportar la corrección de ID3 en este tipo de archivo.</string>
+  <string name="correct_id3_settings">Corrección de ID3</string>
+  <string name="correct_id3_summary">Puede incrementar la facturación en el uso de datos. Se recomienda mantenerlo apagado.</string>
   <string name="create_confirm">Confirmar</string>
   <string name="create_equalzier_create_text_prompt">Nombre efecto de ecualizador</string>
   <string name="create_playlist_create_text_prompt">Nombre lista de reproducción</string>

@@ -444,6 +444,10 @@ PAra añadir contactos a la lista de favoritos:
   <string name="online_no_network">No es posible conectarse a la red</string>
   <string name="openDialKeyboard">Teclado</string>
   <string name="open_contact">Ver contacto</string>
+  <string name="option_view_contact">Ver</string>
+  <string name="option_edit_contact">Editar</string>
+  <string name="option_delete_contact">Borrar</string>
+  <string name="option_send_to_desktop">Enviar al escritorio</string>
   <string name="organizationLabelsGroup">Organización</string>
   <string formatted="false" name="organization_company_and_title">%2$s, %1$s</string>
   <string name="payphone">Teléfono público</string>
