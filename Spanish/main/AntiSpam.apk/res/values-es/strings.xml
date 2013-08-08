@@ -109,6 +109,7 @@
   <string name="fw_whitelist">Lista blanca</string>
   <string name="fw_whitelist_hint">Añade aquí tus números de confianza. Las llamadas y mensajes de la lista blanca no serán bloqueados nunca.</string>
   <string formatted="false" name="member_firewall_log">%d llamadas y %d mensajes</string>
+  <string name="menu_add_vip_custom">Agregar VIPs</string>
   <string name="menu_edit">Editar</string>
   <string name="menu_clear_all_call">Eliminar todas las llamadas bloqueadas</string>
   <string name="mms_log_tab_title">Mensajes</string>
@@ -121,6 +122,23 @@
   <string name="opt_reject_blacklist">Bloquear lista negra</string>
   <string name="opt_reject_blacklist_stranger">Permitir sólo conocidos</string>
   <string name="opt_reject_blacklist_stranger_summary">Para rechazar la lista negra, active permitir sólo lista blanca</string>
+  <string name="quiet_mode">No molestar</string>
+  <string name="qm_auto_setting_group">Programación</string>
+  <string name="qm_auto_button_title">Por hora</string>
+  <string name="qm_auto_time_setting">Opciones de tiempo</string>
+  <string name="qm_notification">No molestar habilitado</string>
+  <string name="qm_open">No molestar</string>
+  <string name="qm_repeated_call_setting_title">Llamadas recurrentes</string>
+  <string name="qm_repeated_call_summary_none">Silenciar las llamadas recurrentes recibidas desde el mismo número</string>
+  <string name="qm_summary">Cuando la opción no molestar está habilitada, las notificaciones de las llamadas y mensajes que se registren mientras el teléfono esté bloqueado serán silenciadas.</string>
+  <string name="qm_special_call_setting_group">Excepciones</string>
+  <string name="qm_vip_call_setting_title">Configuración de excepciones</string>
+  <string name="qm_vip_list_group">Lista de excepciones</string>
+  <string name="qm_vip_list_contact">Todos los contactos</string>
+  <string name="qm_vip_list_custom">Excepciones</string>
+  <string name="qm_vip_list_custom_group">Excepciones</string>
+  <string name="qm_vip_call_summary_custom">%d excepciones</string>
+  <string name="qm_vip_call_button_title">Permitir llamadas de excepciones</string>
   <string name="remove">Borrar</string>
   <string name="save_button">Guardar</string>
   <string name="show_firewall_notification">Mostrar icono</string>
@@ -134,7 +152,7 @@
   <string name="st_filter_sms_button">Mensaje de filtro SPAM</string>
   <string name="st_filter_keywords_setting_title">Establecer las palabras de filtrado</string>
   <string name="tab_blacklist">Lista negra</string>
-  <string name="tab_block_log">Registros de bloqueo
-  <string name="tab_sms">Registros de mensajes</string></string>
+  <string name="tab_block_log">Registros de bloqueo</string>
+  <string name="tab_sms">Registros de mensajes</string>
   <string name="tab_call">Registros de llamadas</string>
 </resources>

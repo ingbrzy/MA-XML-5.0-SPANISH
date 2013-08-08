@@ -20,6 +20,9 @@
     <string name="component_category_style_title">Estilos</string>
     <string name="component_category_wallpaper_title">Fondos de pantalla</string>
     <string name="component_category_ringtone_title">Sonidos</string>
+    <string name="loading">Cargando...</string>
+    <string name="loading_resource_detail_info">Cargando...</string>
+    <string name="mi_wallpaper_loading">Cargando fondo...</string>
 	<string name="online_no_network">No es posible conectarse a la red</string>
 	<string name="theme_batch_update_all">Actualizar todo</string>
 	<string name="theme_batch_has_update_text">Hay %1$d tema(s) con actualizaciones disponibles</string>

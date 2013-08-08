@@ -99,6 +99,7 @@
   <string name="android_beam_on_summary">Listo para compartir contenido de aplicaciones por NFC</string>
   <string name="android_beam_settings_title">Android Beam</string>
   <string name="animator_duration_scale_title">Duración de la animación de escalado</string>
+  <string name="antispam_quiet_mode_title">No molestar</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">Tipo de autenticación</string>
   <string name="apn_auth_type_chap">CHAP</string>
@@ -1643,6 +1644,8 @@ Nota: aplicaciones con dichos permisos podrán generar inestabilidad en el siste
   <string name="virus_scan_app_stop_scan">Detener Escaner</string>
   <string name="virus_scan_app_uninstall">Desinstalador por lotes (%d)</string>
   <string name="virus_scan_app_waiting">Esperando a</string>
+  <string name="virus_scanner_lib_updating">Actualizando la base de datos de virus...</string>
+  <string name="virus_scanner_provider">Soporte de seguridad suministrado por %s</string>
   <string name="virus_scanner_scan">Escanear ahora</string>
   <string name="virus_scanner_scanning">Comprobar apps contra virus</string>
   <string name="virus_scanner_select_Cancel">Cancelar</string>

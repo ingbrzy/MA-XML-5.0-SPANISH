@@ -672,4 +672,5 @@ PAra añadir contactos a la lista de favoritos:
   <string name="websiteLabelsGroup">Web</string>
   <string formatted="false" name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Limpiar datos</string>
+  <string name="zero_items_selected">No hay items seleccionados</string>
 </resources>

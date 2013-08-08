@@ -190,6 +190,7 @@
   <string name="importing_favorite_files">Importando datos...</string>
   <string name="instant_base">http://www.google.com/webhp?client={CID}&amp;source=android-instant&amp;ion=1</string>
   <string name="instant_search_label">Google con Instant (experimental)</string>
+  <string name="in_incognito">Se ha establecido el modo incognito. no se registrará historial de navegación.</string>
   <string name="is_first_history_item">Es el primer historial</string>
   <string name="is_first_tab">Es la primera pestaña</string>
   <string name="is_last_history_item">Es el último historial</string>
