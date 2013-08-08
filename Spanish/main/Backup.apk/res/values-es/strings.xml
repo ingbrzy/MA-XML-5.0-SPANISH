@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
+  <string name="account_contact_backup_info">Datos (Cuenta Xiaomi, Cuentas de correo y Gmail almacenarán los contactos respectivos.)</string>
   <string name="account_login">Iniciar sesión</string>
   <string name="account_summary">" y respaldar cuentas de Gmail, Email y Xiaomi"</string>
   <string name="already_enable_encrypt">Encryption enabled</string>
@@ -16,6 +17,7 @@
   <string name="backup">Respaldar</string>
   <string name="backup_delete">Eliminado:</string>
   <string name="backup_empty">No hay backups disponibles</string>
+  <string name="backup_empty_info">Respalde sus datos, preferencias y aplicaciones</string>
   <string name="backup_error">Error en la copia de seguridad</string>
   <string name="backup_failed">Copia de seguridad fallida, inténtalo de nuevo</string>
   <string name="backup_file_error">Error, el archivo de copia de seguridad ya existe</string>
@@ -87,6 +89,7 @@
   <string name="local_home_title">Backup</string>
   <string name="local_no_backup">No hay copia(s) de seguridad</string>
   <string name="local_restore_window_title">Restaurar</string>
+  <string name="local_select_account_contact">Cuentas &amp; contactos</string>
   <string name="local_select_sysdata">Datos de sistema</string>
   <string name="local_select_userapp">Datos de usuario</string>
   <string name="menu_patch_delete">Eliminar backups</string>
