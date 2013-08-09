@@ -131,6 +131,7 @@
   <string name="contactSavedErrorToast">Se ha producido un error al guardar los cambios del contacto.</string>
   <string name="contactSavedToast">Contacto guardado</string>
   <string formatted="false" name="contact_directory_description">Directorio %1$s</string>
+  <string name="contact_edit_title_insert">Crear contacto en %s</string>
   <string name="contact_editor_prompt_multiple_accounts">Puedes sincronizar tu nuevo contacto con una de las siguientes cuentas. ¿Cuál quieres usar?</string>
   <string formatted="false" name="contact_editor_prompt_one_account">Tu nuevo contacto se sincronizará con %1$s.</string>
   <string name="contact_editor_prompt_zero_accounts">No se hará una copia de seguridad del nuevo contacto. ¿Quieres añadir una cuenta para hacer copias de seguridad online de los contactos?</string>
