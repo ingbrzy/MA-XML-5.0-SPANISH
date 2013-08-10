@@ -222,6 +222,7 @@
   <string name="status_bar_toggle_lock">Bloquear</string>
   <string name="status_bar_toggle_mute">Silencio</string>
   <string name="status_bar_toggle_network_type">Red</string>
+  <string name="status_bar_toggle_quiet_mode">No molestar</string>
   <string name="status_bar_toggle_privacy_mode">Modo invitado</string>
   <string name="status_bar_toggle_reboot">Reiniciar</string>
   <string name="status_bar_toggle_ring">Timbre</string>

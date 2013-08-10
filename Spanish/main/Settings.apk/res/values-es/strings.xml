@@ -614,6 +614,7 @@
   <string name="device_cpu">CPU:</string>
   <string name="device_cpu2_info">"Dual-Core "</string>
   <string name="device_cpu4_info">"Quad-Core "</string>
+  <string name="device_edit_title">Editar nombre de dispositivo</string>
   <string name="device_info_default">Desconocido</string>
   <string name="device_info_label">Información del dispositivo</string>
   <string name="device_info_not_available">No disponible</string>
@@ -623,6 +624,7 @@
   <string name="device_internal_partition">Data/SD card:</string>
   <string name="device_memory">RAM:</string>
   <string name="device_name">Nombre del dispositivo</string>
+  <string name="device_name_usage_point">Mostrar este nombre cuando se establezca una conexión Bluetooth, tethering, etc.</string>
   <string name="device_picker">Elige un dispositivo Bluetooth</string>
   <string name="device_sd_memory">Tarjeta SD:</string>
   <string name="device_status">Estado</string>
@@ -1212,6 +1214,8 @@ Nota: aplicaciones con dichos permisos podrán generar inestabilidad en el siste
   <string name="screen_button_key">Botones virtuales</string>
   <string name="screen_compatibility_label">Compatibilidad de la pantalla</string>
   <string name="screen_compatibility_text">Es posible que esta aplicación no se haya diseñado para tu pantalla. Aquí puedes controlar cómo se ajusta a la pantalla.</string>
+  <string name="screen_on_proximity_sensor_title">Prevenir funcionamiento erróneo</string>
+  <string name="screen_on_proximity_sensor_summary">Prevenir que el teléfono se active o funcione indebidamente estando en el bolsillo (detectado usando el sensor de proximidad)</string>
   <string name="screen_timeout">Auto-apagado</string>
   <string name="screen_timeout_summary">Después de %1$s de inactividad</string>
   <string name="screen_timeout_title">Apagado de pantalla</string>

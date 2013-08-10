@@ -246,6 +246,7 @@
   <string name="new_phrase_hint">Entrada</string>
   <string name="nickname_placeholder">Apodo</string>
   <string name="no">Cancelar</string>
+  <string name="no_block_button_msg">No bloquear mensajes de este número</string>
   <string name="no_conversations">Sin conversaciones.</string>
   <string name="no_sim">Tarjeta SIM no disponible, mensajería en la nube no disponible</string>
   <string name="no_subject">(Sin asunto)</string>
