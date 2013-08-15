@@ -1216,9 +1216,9 @@ Nota: aplicaciones con dichos permisos podrán generar inestabilidad en el siste
   <string name="screen_compatibility_text">Es posible que esta aplicación no se haya diseñado para tu pantalla. Aquí puedes controlar cómo se ajusta a la pantalla.</string>
   <string name="screen_on_proximity_sensor_title">Prevenir funcionamiento erróneo</string>
   <string name="screen_on_proximity_sensor_summary">Prevenir que el teléfono se active o funcione indebidamente estando en el bolsillo (detectado usando el sensor de proximidad)</string>
-  <string name="screen_timeout">Auto-apagado</string>
+  <string name="screen_timeout">Auto-apagado de pantalla</string>
   <string name="screen_timeout_summary">Después de %1$s de inactividad</string>
-  <string name="screen_timeout_title">Apagado de pantalla</string>
+  <string name="screen_timeout_title">Auto-apagado de pantalla</string>
   <string name="screensaver_activate_on_dock_title">Iniciar también cuando el dispositivo esté conectado</string>
   <string name="screensaver_component_title">Caramelo seleccionado</string>
   <string name="screensaver_settings_summary_off">Inhabilitado</string>

@@ -20,7 +20,7 @@
   <string name="auto_correct_id3_settings">Auto corrección de ID3</string>
   <string name="auto_correct_id3_summary">Corregir el ID3 durante la reproducción de audio usando el algoritmo de huella de audio de Baidu.</string>
   <string name="billboard">Cartelera</string>
-  <string name="buffering">Gargando...</string>
+  <string name="buffering">Cargando...</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_sleep_mode">Apagado automático cancelado</string>
   <string name="category_num_format">(%s)</string>
