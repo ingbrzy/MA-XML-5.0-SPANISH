@@ -93,9 +93,9 @@
     <string name="bind_email_dialog_message">Recibirás un E-mail de confirmación con un código de verificaciónpara validar tu cuenta</string>
     <string name="bind_dialog_button">OK</string>
     <string name="enable_mitalk_dialog_title">Habilitar sincronización MiTalk</string>
-    <string name="enable_mitalk_dialog_message">Will log in MiTalk with system account. If it is inconsistent with current MiTalk ID, your data will be cleared. Are you sure?</string>
+    <string name="enable_mitalk_dialog_message">Vas a hacer login en MiTalk con la cuenta del sistema. Si ésta es inconsistente con la cuenta actual de MiTalk, tus datos serán borrados. ¿Estás seguro?</string>
     <string name="disable_mitalk_dialog_title">Deshabilitar sincronización MiTalk</string>
-    <string name="disable_mitalk_dialog_message">You will not be able to chat with your friends via MiTalk in Contacts, are you sure to turn off the sync of MiTalk and Contacts? n Tip: After turning off, you may change or cancel your account in MiTalk settings</string>
+    <string name="disable_mitalk_dialog_message">No podrás chatear con tus amigos por MiTalk en Contactos, ¿estás seguro de querer deshabilitar la sincronización entre MiTalk y los Contactos? n Consejo: Después de deshabilitar puedes cambiar o cancelar tu cuenta en la configuración de MiTalk</string>
     <string name="logoff_account_label">Desconectar</string>
     <string name="basic_info">Informacion básica</string>
     <string name="sync_info">Sincronizar</string>

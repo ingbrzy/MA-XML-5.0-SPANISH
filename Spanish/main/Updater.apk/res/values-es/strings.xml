@@ -11,7 +11,7 @@
     <string name="start_update">Iniciar actualización</string>
     <string name="applying_update">Aplicando la actualización \"%s\"...</string>
     <string name="apply_update_guide">La actualización no afectara el uso normal de su dispositivo</string>
-    <string name="apply_update_fail">Actualización del sistema fallida!</string>
+    <string name="apply_update_fail">¡Actualización del sistema fallida!</string>
     <string name="apply_update_refuse">"La actualización del sistema está en curso…
 
 ¿Desea cancelar la actualización y solicitarla más tarde?"</string>
@@ -68,7 +68,7 @@ actualización"</string>
     <string name="update_success_title">Actualizado correctamente</string>
     <string name="update_success_body">Sistema actualizado a %s</string>
     <string name="exception_while_downloading">Error durante la descarga de la actualización</string>
-    <string name="new_updates_found_notification_title">Detectada actualización del sistema!</string>
+    <string name="new_updates_found_notification_title">¡Detectada actualización del sistema!</string>
     <string name="network_error">Se ha producido un error de conexión en la red, inténtalo de nuevo</string>
     <string name="monthly_build">Versión mensual</string>
     <string name="weekly_build">Versión semanal</string>
@@ -76,7 +76,7 @@ actualización"</string>
     <string name="stable_build">Versión estable</string>
     <string name="about_device">Acerca del teléfono</string>
     <string name="emegency_build">Versión:</string>
-    <string name="wifi_not_available_title">Wi-Fi no detectado!</string>
+    <string name="wifi_not_available_title">¡Wi-Fi no detectado!</string>
     <string name="wifi_not_available_body">"Se recomienda el uso de Wi-Fi para descargar las actualizaciones, los tamaños de los archivo pueden ser grandes.
 
 Wi-Fi no está actualmente activado…
@@ -106,8 +106,8 @@ Wi-Fi no está actualmente activado…
     <string name="update_monthly_build_only">Actualizar sólo a versión mensual</string>
     <string name="install_file_explorer">Instale el explorador de archivos</string>
     <string name="share_update">Compartir información de sistema</string>
-    <string name="share_update_content_unsign">He actualizado MIUI a %s! Para la lista detallada de cambios, visita http://www.miui.com</string>
-    <string name="share_update_content_sign">He actualizado MIUI a %1$s! Mi ranking de actualización es %2$s. Para la lista detallada de cambios, visita http://www.miui.com</string>
+    <string name="share_update_content_unsign">¡He actualizado MIUI a %s! Para la lista detallada de cambios, visita http://www.miui.com</string>
+    <string name="share_update_content_sign">¡He actualizado MIUI a %1$s! Mi ranking de actualización es %2$s. Para la lista detallada de cambios, visita http://www.miui.com</string>
     <string name="share_sina">Postear via Sina</string>
     <string name="share_qq">Postear via Tencent</string>
     <string name="upgrade_kernel">El kernel actual necesita ser actualizado</string>

@@ -109,7 +109,7 @@
   <string name="transformation_type_stack">Cascada</string>
   <string name="unnamed_folder_name">Carpeta sin nombre</string>
   <string name="uninstall">Desinstalar</string>
-  <string name="uninstall_body_format">Desinstalar la aplicación \"%s\"?</string>
+  <string name="uninstall_body_format">¿Desinstalar la aplicación \"%s\"?</string>
   <string name="unknown_artist_name">Artista Desconocido</string>
   <string name="upside_apps_title">Seleccionar aplicación</string>
   <string name="upside_edit_bar_empty">Vacío</string>

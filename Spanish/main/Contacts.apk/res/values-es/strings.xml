@@ -9,7 +9,7 @@
   <string name="add_account">Añadir cuenta</string>
   <string name="add_blacklist">Añadir la lista negra</string>
   <string name="add_connection_button">Añadir conexión</string>
-  <string formatted="false" name="add_contact_dlg_message_fmt">Añadir \"%s\" a contactos?</string>
+  <string formatted="false" name="add_contact_dlg_message_fmt">¿Añadir \"%s\" a contactos?</string>
   <string name="add_contact_dlg_title">Añadir contacto</string>
   <string name="add_field">Añadir otro campo</string>
   <string name="add_new_account">Añadir una cuenta nueva</string>
@@ -18,7 +18,7 @@
   <string name="add_to_my_contacts">Añadir a mis contactos</string>
   <string name="aggregation_suggestion_edit_dialog_message">¿Editar el contacto seleccionado? La información introducida hasta ahora será copiada.</string>
   <string name="aggregation_suggestion_edit_dialog_title">Editar contactos seleccionados</string>
-  <string name="aggregation_suggestion_join_dialog_message">Añadir contacto actual con el seleccionado?</string>
+  <string name="aggregation_suggestion_join_dialog_message">¿Añadir contacto actual con el seleccionado?</string>
   <string name="aggregation_suggestion_join_dialog_title">Añadir contactos</string>
   <string name="all_list_empty">Sin contactos</string>
   <string name="attach_photo_dialog_title">Foto de contacto</string>
@@ -88,9 +88,9 @@
   <string name="callrecordview_menu_show_title">Por favor, seleccione la categoría que debe mostrarse</string>
   <string name="cancel_confirmation_dialog_message">¿Seguro que quieres descartar los cambios?</string>
   <string name="cancel_confirmation_dialog_title">Descartar cambios</string>
-  <string formatted="false" name="cancel_export_confirmation_message">Está seguro de cancelar la exportación de %s?</string>
+  <string formatted="false" name="cancel_export_confirmation_message">¿Está seguro de cancelar la exportación de %s?</string>
   <string name="cancel_export_confirmation_title">Cancelando exportación de vCard</string>
-  <string formatted="false" name="cancel_import_confirmation_message">Está seguro de cancelar la importación de %s?</string>
+  <string formatted="false" name="cancel_import_confirmation_message">¿Está seguro de cancelar la importación de %s?</string>
   <string name="cancel_import_confirmation_title">Cancelando importación de vCard</string>
   <string name="cancel_vcard_import_or_export_failed">No es posible cancelar la importación/exportación de vCard</string>
   <string name="chat">Chat</string>
@@ -161,7 +161,7 @@
   <string name="deleteConfirmation">El contacto se eliminará.</string>
   <string name="deleteConfirmation_title">Eliminar</string>
   <string name="delete_call_log_title">Elegir llamadas del registro para borrar?</string>
-  <string name="delete_contact_calllog_title">Seguro que desea eliminar el registro de llamadas de sus contactos?</string>
+  <string name="delete_contact_calllog_title">¿Seguro que deseas eliminar el registro de llamadas de tus contactos?</string>
   <string name="delete_duplicate">Combinar</string>
   <string name="delete_duplicate_message">"Combinando ... "</string>
   <string formatted="false" name="delete_group_dialog_message">¿Seguro que quieres eliminar el grupo \"%1$s\"? Los contactos no se eliminarán.</string>
@@ -628,7 +628,7 @@ PAra añadir contactos a la lista de favoritos:
   <string name="titleJoinContactDataWith">Agrupar contactos</string>
   <string name="toast_call_detail_error">No se pueden leer los detalles de la llamada solicitada.</string>
   <string name="toast_finish_delete_call_log">Grabación de llamadas borradas</string>
-  <string name="toast_for_failed_saving_nickname">Fallo al guardar el alias!</string>
+  <string name="toast_for_failed_saving_nickname">¡Fallo al guardar el alias!</string>
   <string name="toast_for_saving_nickname">Alias guardado</string>
   <string name="toast_join_with_empty_contact">Para agrupar el contacto, debes introducir el nombre del otro contacto.</string>
   <string name="toast_making_personal_copy">Creando una copia personal</string>
@@ -641,7 +641,7 @@ PAra añadir contactos a la lista de favoritos:
   <string name="unknown">Desconocidos</string>
   <string name="unknown_contact_name">Contacto desconocido</string>
   <string name="unkown_location">Ubicación desconocida</string>
-  <string name="upgrade_in_progress">"La lista de contactos se está actualizando. Por favor, espera…"</string>
+  <string name="upgrade_in_progress">"La lista de contactos se está actualizando. Por favor, espera..."</string>
   <string formatted="false" name="upgrade_out_of_memory">Los contactos se están actualizando. El proceso de actualización necesita aproximadamente %s MB de almacenamiento interno. Selecciona una de las siguientes opciones:</string>
   <string name="upgrade_out_of_memory_retry">Reintentar actualización</string>
   <string name="upgrade_out_of_memory_uninstall">Desinstalar algunas aplicaciones</string>
