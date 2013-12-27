@@ -140,7 +140,7 @@
   <string name="modify_id3_for_selected">Se editará la informacion ID3 de las canciones seleccionadas</string>
   <string name="modify_meta">Modificar la información de la canción</string>
   <string name="modify_tracks_id3_background">Modificando información ID3 de las canciones en segundo plano</string>
-  <string name="music_browser_label">Music</string>
+  <string name="music_browser_label">Música</string>
   <string name="music_filter">Filtro de archivos</string>
   <string name="music_filter_helper">Para ocultar los archivos que no son música, se va a aplicar un filtro a todos los archivos menores de 800Kb para ocultarlos. Este filtro puede ser modificado desde Ajustes / Filtro de archivo.</string>
   <string name="music_picker_title">Elige pista de música</string>
