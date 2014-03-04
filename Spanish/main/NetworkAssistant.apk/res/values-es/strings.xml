@@ -68,6 +68,7 @@
   <string name="mobile_traffic">2G/3G: %s</string>
   <string name="mobile_type">2G/3G</string>
   <string name="month_traffic_settings_title">Configurar paquete de datos</string>
+  <string name="overseas_menu_traffic_adjust">Adjustar</string>
   <string name="overseas_unknown_traffic_hint">El límite de tráfico de datos no ha sido establecido. Desea configurarlo ahora?</string>
   <string name="plate_traffic_already_used">Usado (%s)</string>
   <string name="plate_traffic_exceed">Excedido (%s)</string>

@@ -37,6 +37,7 @@
   <string name="bookmark">Favoritos</string>
   <string name="bookmark_attr_format">%1$s , %2$s</string>
   <string name="bookmark_confirm_delete_message">Seguro que desea eliminar el SMS de la colección</string>
+  <string name="bookmark_empty">No hay mensajes destacados</string>
   <string name="bookmark_list_title">Favoritos</string>
   <string name="cannot_add_picture_and_video">No se pueden añadir vídeos ni imágenes a una diapositiva.</string>
   <string name="cannot_add_slide_anymore">No se pueden añadir más diapositivas.</string>
@@ -66,6 +67,8 @@
   <string name="confirm_dialog_locked_title">¿Quieres eliminar el mensaje bloqueado?</string>
   <string name="confirm_dialog_title">Eliminar</string>
   <string name="confirm_rate_limit">Se va a enviar un gran número de mensajes multimedia, ¿estás seguro de que quieres enviarlos?</string>
+  <string name="confirm_restore_all_title">Desea restaurar todos los mensajes de este remitente?</string>
+  <string name="confirm_restore_positive">Restaurar</string>
   <string name="context_menu_add_contact">Añadir a contacto existente</string>
   <string name="context_menu_browse_web">Web</string>
   <string name="context_menu_contact">Contacto: %1$s</string>
@@ -370,6 +373,7 @@
   <string name="replace_image">Sustituir imagen</string>
   <string name="resent_message">Reenviar</string>
   <string name="resize_image_error_information">Esta imagen es demasiado grande para enviarla aunque se ajuste su tamaño.</string>
+  <string name="restore_all_button_msg">Restaurar todos los mensajes enviados por este remitente</string>
   <string name="restore_default">Restaurar ajustes por defecto</string>
   <string name="save">Guardar</string>
   <string name="save_ringtone">Guardar como tono</string>

@@ -4,6 +4,7 @@
     <string name="elapsed_time_format">(+%s)</string>
     <string name="app_label">Reloj</string>
     <string name="alarm_list_title">Alarmas</string>
+	<string name="alarm_label_hint">Etiqueta de la alarma</string>
     <string name="add_alarm">Añadir alarma</string>
     <string name="menu_desk_clock">Reloj de escritorio</string>
     <string name="menu_edit_alarm">Editar alarma</string>

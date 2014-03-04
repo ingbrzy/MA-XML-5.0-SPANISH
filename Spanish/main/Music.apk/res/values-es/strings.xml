@@ -31,8 +31,14 @@
   <string name="click_to_shuffle">Toca aquí para reproducir aleatoriamente todo</string>
   <string name="confirm">Aceptar</string>
   <string name="continue_when_wifi_disconnect">Continuar escuchando música online al cambiar a red móvil</string>
+  <string name="correct_id3_by_internet">Obtener información de la canción</string>
+  <string name="correct_id3_failed">Error al actualizar la información de la canción.</string>
+  <string name="correct_id3_in_processing">Actualizando la información de la canción…</string>
+  <string name="correct_id3_open_other_connect">Enable your phone to use your mobile network to correct song info in settings.</string> 
   <string name="correct_id3_not_support">No soportar la corrección de ID3 en este tipo de archivo.</string>
   <string name="correct_id3_settings">Corrección de ID3</string>
+  <string name="correct_id3_start">Obteniendo información de la canción…</string>
+  <string name="correct_id3_success">Se ha actualizado la información de la canción</string>
   <string name="correct_id3_summary">Puede incrementar la facturación en el uso de datos. Se recomienda mantenerlo apagado.</string>
   <string name="create_confirm">Confirmar</string>
   <string name="create_equalzier_create_text_prompt">Nombre efecto de ecualizador</string>
@@ -159,6 +165,9 @@
   <string name="online_search_hint">Buscar música online</string>
   <string name="other_settings">Otros</string>
   <string name="overwrite_confirm">Sobreescribir</string>
+  <string name="pay_service_guide_new">Ahora disponible música de alta calidad</string>
+  <string name="pay_service_guide_listen">Calidad del Stream</string>
+  <string name="pay_service_guide_dowload">Descargar calidad</string>  
   <string name="picker_song_add">Añadir (%d)</string>
   <string name="play_and_download">Escuchar y descargar</string>
   <string name="play_and_download_summary">Se descargarán las canciones online escuchadas</string>

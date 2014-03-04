@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Temas</string>
+	<string name="resource_selected">Destacado</string>
+    <string name="resource_local">Local %1$s</string>
+    <string name="resource_online">En línea %1$s</string>
+    <string name="resource_ranking">Popular</string>
+    <string name="resource_ranking_free">Gratis</string>
+    <string name="resource_ranking_purchase">Pago</string>
+    <string name="resource_category">Categoría</string>
+    <string name="resource_my">Local</string>
+    <string name="resource_pack_price_info">%1$s Original</string>
+    <string name="resource_pack_discount_info">%1$s guardado</string>
+    <string name="resource_pack_confirm">"Aún si ya compró %1$d componentes en este Tema, le es más económica comprar el paquete completo."</string>
+    <string name="resource_pack_warning">"Usted ya compró %1$d componentes en el mismo Tema. Le es más económica si compra los faltantes por separado."</string>
+    <string name="resource_title">Detalles del recurso</string>
+    <string name="resource_download">Descargar</string>
+    <string name="resource_downloading">Descargando</string>
+    <string name="resource_waiting_download">Esperando</string>
+    <string name="resource_import_successful">Descarga completa</string>
+    <string name="resource_import_failed">Importación fallida</string>
+    <string name="resource_delta_update_successful">Actualización exitosa</string>
+    <string name="resource_delta_update_failed">Actualización fallida: Descargando el Tema de nuevo…</string>
+    <string name="resource_delta_update_total">%1$d actualizaciones delta guardadas %2$s</string>
+    <string name="resource_apply">Aplicar</string>
+    <string name="resource_update">Actualizar</string>
+    <string name="resource_buy">Comprar</string>
+    <string name="resource_importing">Importando…</string>
+    <string name="resource_ringtone_playing_error">error de reproducción</string>
     <string name="theme_activity_lable">Temas</string>
     <string name="theme_batch_update_dlg_title">Actualizar</string>
     <string name="theme_batch_update_dlg_content">Desea realizar la actualización ahora?</string>

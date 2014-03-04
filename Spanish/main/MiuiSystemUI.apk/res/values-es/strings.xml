@@ -106,6 +106,8 @@
   <string name="ext_media_safe_unmount_notification_title">Retirar el almacenamiento USB</string>
   <string name="ext_media_unmountable_notification_message">El almacenamiento USB está dañado. Podría recuperarse para su uso con un formateo.</string>
   <string name="ext_media_unmountable_notification_title">Almacenamiento USB dañado</string>
+  <string name="filter_item_description">Para configurar las notificaciones, Vaya a la Configuración General > Notificaciones > Adminsitrar notificaciones</string>
+  <string name="filter_item_preview_image">Previsualización</string>
   <string name="gps_notification_found_text">Ubicación definida por GPS</string>
   <string name="gps_notification_searching_text">Buscando GPS</string>
   <string name="incoming_call_vibrate_hint">Llamada entrante</string>
@@ -163,10 +165,13 @@
   <string name="settings_expandable_under_keyguard">Bajo teclado</string>
   <string name="settings_expandable_under_keyguard_summary">Sólo funcionará con teclados no seguros</string>
   <string name="settings_expanded_view">Vista de notificaciones expandida</string>
+  <string name="settings_notification_bar">Notificación sombreada</string>
   <string name="settings_notification_icon">Notificaciones</string>
   <string name="settings_screenshot_notification_disabled">No notificar las capturas de pantalla realizadas</string>
   <string name="settings_show_flow_info">Mostrar información del tráfico</string>
   <string name="settings_show_network_speed">Mostrar velocidad de red</string>
+  <string name="settings_show_notificationBar_notification">Mostrar en la persiana de notificaciones</string>
+  <string name="settings_show_statusBar_notification">Mostrar en la barra de estado</string>
   <string name="settings_toggle">Controles</string>
   <string name="settings_toggle_collapse_after_clicked">Contraer después de hacer click</string>
   <string name="settings_toggle_layout_style">Estilo de controles</string>

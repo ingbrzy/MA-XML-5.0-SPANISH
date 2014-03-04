@@ -32,6 +32,7 @@
   <string name="camera_folder_display_name">Mis fotos y vídeos</string>
   <string name="camera_path">/DCIM/Camera</string>
   <string name="camera_setas_wallpaper">Fondo de pantalla</string>
+  <string name="camera_view_none_message">Utilice la cámara para tomar fotos y videos.</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_bookmark">Eliminar de Favoritos</string>
   <string name="cleaning_cache">Limpiando caché...</string>
@@ -120,6 +121,8 @@
   <string name="image_property">Propiedades de foto</string>
   <string name="import_complete">Importación completada</string>
   <string name="import_fail">Error al importar</string>
+  <string name="initial_cloud_text">Almacene y visualice sus fotos desde cualquier parte.</string>
+  <string name="initial_cloud_button_text">Comenzar a usar</string>  
   <string name="internal_camera_folder_display_name">Fotos de cámara interna</string>
   <string name="internal_miui_capture_screen_folder_display_name">Capturas internas</string>
   <string name="iso">ISO</string>
@@ -165,6 +168,7 @@
   <string name="no_files">La carpeta está vacía</string>
   <string name="no_location">Sin ubicación</string>
   <string name="no_map_app">No map application</string>
+  <string name="no_picture_or_video">Vacío</string>
   <string name="no_recent_album">Los álbumes pueden ser añadidos a favoritos para acceder a ellos rápidamente</string>
   <string name="no_storage_disable_cloud_albums">Los álbums en la nube estan desactivados; reintentalo cuando el almacenamiento multimedia esté disponible.</string>
   <string name="no_storage_message">Sin almacenamiento externo disponible.</string>

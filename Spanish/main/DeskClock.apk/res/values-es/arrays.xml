@@ -10,6 +10,13 @@
         <item>La alarma sonará en %2$s y %3$s.</item>
         <item>La alarma sonará en %1$s, %2$s y %3$s.</item>
     </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Una vez</item>
+        <item>Diaria</item>
+        <item>Días laborales</item>
+        <item>Lunes a viernes</item>
+        <item>Personalizada</item>
+    </string-array>	
     <string-array name="volume_button_setting_entries">
         <item>No hacer nada</item>
         <item>Posponer alarma</item>

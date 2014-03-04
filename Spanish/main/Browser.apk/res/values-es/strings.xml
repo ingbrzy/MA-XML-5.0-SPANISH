@@ -295,6 +295,10 @@
   <string name="pref_extras_title">Avanzados</string>
   <string name="pref_extras_website_settings">Ajustes del sitio web</string>
   <string name="pref_extras_website_settings_summary">Ajustes avanzados de sitios web individuales</string>
+  <string name="pref_file_download_save_title">Descarga</string>
+  <string name="pref_file_downlaod_save_reset_default_settings">Restaurar la configuración predeterminada</string>
+  <string name="pref_file_downlaod_save_is_reset_default_settings">Restaurar la configuración predeterminada</string>
+  <string name="pref_file_download_save_modify_default_path">Colocar archivos descargados en…</string>  
   <string name="pref_fling_on_border_enabled">Arrastrar borde</string>
   <string name="pref_fling_on_border_operation">Operación al arrastrar borde</string>
   <string name="pref_font_size_category">Tamaño de la letra</string>

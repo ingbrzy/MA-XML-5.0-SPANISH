@@ -79,6 +79,8 @@
   <string name="pref_icon_shadow_title">Sombra de iconos</string>
   <string name="pref_keep_in_memory_summary">Garantizado el funcionamiento del launcher con memoria baja</string>
   <string name="pref_keep_in_memory_title">Mantener en memoria</string>
+  <string name="pref_keep_layout_title">Bloquear las posiciones de las Apps</string>
+  <string name="pref_keep_layout_summary">"Al cambiar la distribución de la pantalla Home no afectará la posición relativa entre ellas"</string>
   <string name="pref_render_in_truecolor_summary">Si desactiva esta opción aumentará la velocidad del launcher</string>
   <string name="pref_render_in_truecolor_title">Gráficos de alta calidad</string>
   <string name="pref_screen_transformation_type_title">Tipos de animaciones</string>
