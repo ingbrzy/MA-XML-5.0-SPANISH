@@ -46,7 +46,7 @@
   <string name="context_call">Llamar</string>
   <string name="context_ms">Enviar mensaje</string>
   <string name="context_new_contact">Nuevo contacto</string>
-  <string name="dlg_add_manual_hint">Íngresar número telefónico</string>
+  <string name="dlg_add_manual_hint">Ingrese el número de teléfono</string>
   <string name="dlg_add_manual_ok">Agregar</string>  
   <string name="dlg_bl_add_manual">Agregar manualmente un número a la lista negra</string>
   <string name="dlg_clear_all_sms">Borrar mensajes bloqueados?</string>
@@ -62,9 +62,6 @@
   <string name="dlg_remove_blacklist_ok">Desbloquear</string>
   <string name="dlg_clear_blacklist">Limpiar lista de bloqueo?</string>
   <string name="dlg_clear_blacklist_ok">Limpiar</string>
-  <string name="dlg_bl_add_manual">Añadir remitente a la lista de bloqueaos</string>
-  <string name="dlg_add_manual_ok">Adicionar</string>
-  <string name="dlg_add_manual_hint">Ingrese el número de teléfono</string>
   <string name="dlg_import_blacklist">Agregando a la lista de bloqueo…</string>
   <string name="dlg_import_whitelist">Agregando a la lista de excepciones…</string>
   <string name="dlg_add_keyword">Agregar palabra clave</string>

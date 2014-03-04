@@ -527,7 +527,6 @@
   <string name="current_backup_pw_prompt">Introduce aquí la contraseña actual de copia de seguridad completa</string>
   <string name="current_input_method">Predeterminado</string>
   <string name="data_size_label">Datos</string>
-  <string name="data_usage_summary_title">Uso de datos</string>
   <string name="data_usage_app_restrict_background">Restringir datos de referencia</string>
   <string name="data_usage_app_restrict_background_summary">Inhabilitar datos de referencia en redes móviles. Se usará Wi-Fi si está disponible.</string>
   <string name="data_usage_app_restrict_background_summary_disabled">Para restringir los datos de referencia, establece un límite de datos móviles.</string>
