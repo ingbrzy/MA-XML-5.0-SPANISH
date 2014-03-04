@@ -459,6 +459,7 @@
   <string name="cdma_security_settings_summary">Establecer ubicación, bloqueo de pantalla y bloqueo de almacenamiento de credenciales</string>
   <string name="cell_broadcast_settings">Difusión celular</string>
   <string name="cell_broadcast_settings_summary">Selecciona el tipo de alertas de emergencia a mostrar.</string>
+  <string name="check_nothing">Desmarcar todo</string>
   <string name="checkbox_notification_same_as_incoming_call">Utilizar volumen de llamada entrante para notificaciones</string>
   <string name="choose_timezone">Seleccionar zona horaria</string>
   <string name="cleaner_support_hints">Impulsado por Clean Master</string>
@@ -1285,6 +1286,7 @@ Nota: aplicaciones con dichos permisos podrán generar inestabilidad en el siste
   <string name="recognizer_settings_title">Búsqueda por voz</string>
   <string name="recognizer_title">Reconocedor de voz</string>
   <string name="recompute_size">Recalculando tamaño...</string>
+  <string name="remove">Borrar</string>
   <string name="remove_account_failed">Algunas aplicaciones necesitan esta cuenta. Para eliminarla debes restablecer los valores de fábrica del teléfono (esta acción elimina todos tus datos personales). Para ello, accede a Ajustes > Copia de seguridad.</string>
   <string name="remove_account_label">Eliminar cuenta</string>
   <string name="remove_device_admin">Desactivar</string>
