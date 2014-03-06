@@ -277,7 +277,9 @@
     <string name="shutdown_progress">Apagando…</string>
     <string name="shutdown_confirm">Tu dispositivo se apagará.</string>
     <string name="shutdown_confirm_question">¿Deseas apagarlo?</string>
-    <string name="reboot_safemode_title">Reiniciar en modo seguro</string>
+    <string name="reboot_confirm">El teléfono será reiniciado</string>
+	<string name="reboot_progress">Reiniciando…</string>
+	<string name="reboot_safemode_title">Reiniciar en modo seguro</string>
     <string name="reboot_safemode_confirm">¿Deseas reiniciar el dispositivo en modo seguro? Las aplicaciones de terceros que instalaste se desactivarán y se restablecerán cuando vuelvas a reiniciar el dispositivo.</string>
     <string name="recent_tasks_title">Reciente</string>
     <string name="no_recent_tasks">No hay aplicaciones recientes.</string>

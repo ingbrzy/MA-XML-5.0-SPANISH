@@ -3,6 +3,15 @@
     <string name="app_name">XiaoMi Service Framework</string>
     <string name="account">Cuenta</string>
     <string name="account_hint_text">Email/Número de teléfono</string>
+    <string name="activate_status_desc_acquire_phone_number">Obteniendo el número de teléfono desde el servidor</string>
+    <string name="activate_status_desc_acquire_phone_number_server_error_wait">Ha ocurrido un error en el servidor adquiriendo el número telefónico. Reintentado…</string>
+    <string name="activate_status_desc_acquire_phone_number_server_io_error_wait">Un error de E/S ha ocurrido adquiriendo el número de teléfono. Reintentando…</string>
+    <string name="activate_status_desc_acquire_phone_number_server_no_info_wait">"No se pudo obtener el número de teléfono. Reintentando…"</string>
+    <string name="activate_status_desc_acquire_phone_number_server_error">Ha ocurrido un error en el servidor adquiriendo el número de teléfono.</string>
+    <string name="activate_status_desc_acquire_phone_number_server_io_error">Un error de E/S ha ocurrido adquiriendo el número de teléfono.</string>
+    <string name="activate_status_desc_acquire_phone_number_server_no_info">"No se pudo obtener el número de teléfono."</string>
+    <string name="activate_status_title_activating">Activando tarjeta SIM</string>
+    <string name="activate_status_title_activating_msim">Activando tarjeta SIM %s</string>	
     <string name="login">Iniciar sesión</string>
     <string name="basic_info">Información básica</string>
     <string name="next">Siguiente</string>
@@ -12,6 +21,7 @@
     <string name="password_hint_text">6~16 carácteres</string>
     <string name="bad_authentication">La autentificación ha fallado, nombre de usuario o contraseña incorrectos</string>
     <string name="enable_micloud">Activar servicios en la Nube</string>
+	<string name="disable_micloud"><u>Deshabilitar Mi Cloud</u></string>
     <string name="micloud_welcome_banner">Cuenta XiaoMi</string>
     <string name="micloud_account_name">Cuenta XiaoMi</string>
     <string name="micloud_title">MiCloud</string>
@@ -81,6 +91,8 @@
     <string name="access_denied">Acceso denegado</string>
     <string name="micloud_on_pc_notice">"Visita i.xiaomi.com
 para gestionar tus datos"</string>
+    <string name="show_password">Mostrar clave</string>
+    <string name="sim_changed_notification_content">"La tarjeta SIM no está activada"</string>
     <string name="sync_item_gallery_title">Sincronizar album</string>
     <string name="sync_item_gallery_summary">Activa para sincronizar tus fotos y capturas de pantalla</string>
     <string name="sub_sync_item_gallery_summary">Recomendado, de lo contrario tu consumo de datos puede aumentar</string>
@@ -100,4 +112,11 @@ para gestionar tus datos"</string>
 	<string name="account_dspt">"La cuenta de Xiaomi puede sincronizar y respaldar sus SMS,
 contactos, fotos, etc"</string>
 	<string name="micloud_welcome_skip_login"><u>Ignorar este paso</u></string>
+    <string name="user_agreement_p1">"Al ingresar, usted acepta los
+  "</string>
+    <string name="user_agreement_p2">Términos de servicio</string>
+    <string name="user_agreement_p3"> de Xiaomi y la  </string>
+    <string name="user_agreement_p4">Política de Privacidad</string>
+    <string name="user_agreement_p5">"Creando una cuenta, usted acepta
+ los "</string>	
 </resources>

@@ -170,6 +170,9 @@ CC: %4$s
     <string name="message_view_move_to_newer">Más reciente</string>
     <string name="message_view_move_to_older">Anterior</string>
     <string name="message_list_subject_snippet_divider">" : "</string>
+	<string name="account_setup_basic_description_label">Nombre de cuenta (opcional)</string>	
+	<string name="account_setup_basic_label">Por favor ingresa la información de la cuenta %s :</string>
+    <string name="account_setup_basic_name_label">Su nombre (opcional)</string>
     <string name="account_setup_basics_title">Configuración de cuenta</string>
     <string name="account_setup_basics_exchange_title">Añadir una cuenta de Exchange</string>
     <string name="account_setup_basics_exchange_title_alternate">Añadir una cuenta de Exchange ActiveSync</string>

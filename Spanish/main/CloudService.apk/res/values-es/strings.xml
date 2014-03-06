@@ -102,4 +102,9 @@
     <string name="login">Conectar</string>
     <string name="next">Siguiente</string>
     <string name="prev">Volver</string>
+    <string name="sub_sync_item_sms_title_wifi_only">Sincronizar MMS: solo WLAN</string>
+    <string name="sub_sync_item_sms_summary">Controlar el uso de datos (puede ahorrar dinero)</string>	
+	<string name="sync_item_sms_title">Sincronizar mensajes</string>
+    <string name="sync_item_sms_summary">Sincroniza mensajes de texto entre dispositivos</string>
+
 </resources>

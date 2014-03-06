@@ -26,6 +26,7 @@
   <string name="failed_to_drop_widget_invalid">Fallo al mover, widget invalido</string>
   <string name="failed_to_drop_widget_nospace">Fallo al mover, no tiene suficiente espacio</string>
   <string name="folder_name">Carpeta</string>
+  <string name="gadget_clear_button_label">Limpiador</string>
   <string name="gadget_clock_12_label">Reloj 1x2</string>
   <string name="gadget_clock_22_label">Reloj 2x2</string>
   <string name="gadget_clock_24_label">Reloj 2x4</string>
@@ -34,6 +35,7 @@
   <string name="gadget_photo_22_label">Marco 2x2</string>
   <string name="gadget_photo_24_label">Marco 2x4</string>
   <string name="gadget_photo_44_label">Marco 4x4</string>
+  <string name="gadget_search_label">Buscar</string>
   <string name="gadget_weather_app_not_installed">MIUI Weather no está instalado</string>
   <string name="gadget_weather_loading">No hay datos meteorológicos</string>
   <string name="gadget_weather_time_format">D/MM EEE</string>
@@ -91,6 +93,7 @@
   <string name="reset_scene_prompt">La escena será reiniciada a la disposición predeterminada</string>
   <string name="select_frame">Marco</string>
   <string name="select_photo">Fotografía</string>
+  <string name="settings_shortcut">Opciones de acceso directo</string>
   <string name="sharedUserId"  />
   <string name="sort_by_abc">Ordenar iconos por nombre</string>
   <string name="sort_by_frequency">Ordenar iconos por uso</string>
@@ -99,8 +102,11 @@
   <string name="starting_preset_app">Iniciando</string>
   <string name="status_bar_toggle_ring">Timbre</string>
   <string name="status_bar_toggle_auto_brightness">Auto-Brillo</string>
+  <string name="status_bar_toggle_divider">Más</string>
   <string name="title_select_live_folder">Seleccionar carpeta</string>
   <string name="title_select_shortcut">Seleccionar acceso directo</string>
+  <string name="toggle_select_title">Seleccionar switch</string
+  <string name="toggle_title">Switch</string>
   <string name="transformation_type_classic">Clásico</string>
   <string name="transformation_type_classic_no_overshoot">Clásico (sin rebote)</string>
   <string name="transformation_type_crossfade">Desvanecer</string>

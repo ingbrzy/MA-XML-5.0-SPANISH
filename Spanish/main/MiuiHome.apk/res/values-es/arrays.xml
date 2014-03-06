@@ -59,28 +59,40 @@
         <item>4x5</item>
     </string-array>
     <string-array name="gadget_weather_image">
-        <item>Clear</item>
-        <item>Cloudy</item>
-        <item>Yin</item>
-        <item>Fog</item>
-        <item>Torrential rain</item>
-        <item>Storm</item>
-        <item>Rain storm</item>
-        <item>Thunder storm</item>
-        <item>Showers</item>
-        <item>Heavy rain</item>
-        <item>Moderate rain</item>
-        <item>Drizzle</item>
-        <item>Sleet</item>
-        <item>Blizzard</item>
-        <item>Snow shower</item>
-        <item>Snow</item>
-        <item>Light snow</item>
-        <item>Snowing</item>
-        <item>Heavy sandstorm</item>
-        <item>Sandstorm</item>
-        <item>Dusty and humid</item>
+        <item>Despejado</item>
+        <item>Nublado</item>
+        <item>Frío y húmedo</item>
+        <item>Nublado</item>
+        <item>Lluvia torrencial</item>
+        <item>Tormenta</item>
+        <item>Temporal de lluvia</item>
+        <item>Tempestad</item>
+        <item>Lluvia</item>
+        <item>Lluvia fuerte</item>
+        <item>Lluvia moderada</item>
+        <item>Llovizna</item>
+        <item>Aguanieve</item>
+        <item>Ventisca</item>
+        <item>Lluvia con nieve</item>
+        <item>Nieve</item>
+        <item>Nieve ligera</item>
+        <item>Nevando</item>
+        <item>Tormenta de arena fuerte</item>
+        <item>Tormenta de arena</item>
+        <item>Polvoriento y húmedo</item>
         <item>Jansa</item>
-        <item>Hailstorm</item>
+        <item>Granizada</item>
     </string-array>
+    <string-array name="editing_mode_entries">
+        <item>Limpiar pantalla Home</item>
+        <item>Widgets</item>
+        <item>Cambiar Fondo</item>
+        <item>Transiciones</item>
+    </string-array>
+    <string-array name="editing_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>	
 </resources>

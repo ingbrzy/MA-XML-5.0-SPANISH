@@ -73,6 +73,7 @@
   <string name="edit_playlist_menu">Editar</string>
   <string name="empty_edit_hint">Información de canción no disponible</string>
   <string name="emptyplaylist">La lista de reproducción esta vacia.</string>
+  <string name="enter_sleep_mode">Establecer temporizador de apagado</string>
   <string name="equalizer">Ecualizador</string>
   <string name="equalizer_delete">Eliminar</string>
   <string name="equalizer_delete_success">Perfil de ecualizador eliminado correctamente</string>
@@ -140,12 +141,14 @@
   <string name="max_interval">90</string>
   <string name="mediaplaybacklabel">Música</string>
   <string name="menu_batch_selection">Cambiar a modo de selección</string>
+  <string name="menu_higher_quality_music">Música de alta calidad (acceso mensual)</string>
   <string name="min_interval">1</string>
   <string name="mobile_connect_settings">Red móvil</string>
   <string name="modify_id3_for_list">Se editará la informacion ID3 de las canciones de la lista actual</string>
   <string name="modify_id3_for_selected">Se editará la informacion ID3 de las canciones seleccionadas</string>
   <string name="modify_meta">Modificar la información de la canción</string>
   <string name="modify_tracks_id3_background">Modificando información ID3 de las canciones en segundo plano</string>
+  <string name="more">Más</string>
   <string name="music_browser_label">Música</string>
   <string name="music_filter">Filtro de archivos</string>
   <string name="music_filter_helper">Para ocultar los archivos que no son música, se va a aplicar un filtro a todos los archivos menores de 800Kb para ocultarlos. Este filtro puede ser modificado desde Ajustes / Filtro de archivo.</string>

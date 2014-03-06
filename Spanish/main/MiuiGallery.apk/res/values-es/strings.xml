@@ -45,6 +45,7 @@
   <string name="cloud_gallery_space_full">¡La subida falló! El almacenamiento en la nube está lleno</string>
   <string name="cloud_media_set_set">Albumes en la nube</string>
   <string name="confirm_delete">Eliminar</string>
+  <string name="confirm_delete_this_picture">Eliminar esta imagen?</string>
   <string name="confirm_know">OK</string>
   <string name="contact_photo">Foto de contacto</string>
   <string name="crop">Recortar</string>

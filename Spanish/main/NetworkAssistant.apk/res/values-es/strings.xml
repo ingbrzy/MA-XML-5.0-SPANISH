@@ -19,7 +19,7 @@
   <string name="app_traffic_detail">(%s)</string>
   <string name="apply_rules_failed">"Fallo al aplicar el firewall, por favor pruebe de nuevo. (%s)"</string>
   <string name="apply_rules_failed_known">Aceptar</string>
-  <string name="batch_connect_control">Configurar monitorización aplicaciones</string>
+  <string name="batch_connect_control">Opciones de monitoreo de aplicaciones</string>
   <string name="cancel_txt">Cancelar</string>
   <string name="cannot_find_sms_cmd">No es posible encontrar el comando SMS</string>
   <string name="carrier_cmcc">%1$s, %2$s, %3$s</string>

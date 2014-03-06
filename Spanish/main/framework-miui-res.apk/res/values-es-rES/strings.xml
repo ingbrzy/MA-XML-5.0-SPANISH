@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-  <string name="activating">Activando...</string>
+  <string name="activate">Activar</string>
+  <string name="activate_fail_notification_title">Reactivar sincronización</string>
+  <string name="activating">Activando…</string>
   <string name="all_resources">Todo</string>
   <string name="android_lockscreen_glogin_instructions">Para desbloquear, acceda con su cuenta</string>
+  <string name="app_notificaiton_on_statusBar_and_notificationBar">Barra de estado, Persiana de notificaciones</string>
+  <string name="app_no_notification">Ocultar notificaciones</string>
+  <string name="app_notificaiton_on_notificationBar">Persiana de notificaciones</string>  
   <string name="arbor_day">Día del Árbol</string>
   <string name="autumn_begins">Comienza el Otoño</string>
   <string name="autumn_equinox">Equinoccio de Otoño</string>
@@ -132,6 +137,7 @@ Memoria disponible %2$s"</string>
   <string name="select_all">Seleccionar todo</string>
   <string name="shutdown_confirm_title">Seguro que desea apagar el teléfono?</string>
   <string name="sim_account_name">SIM</string>
+  <string name="sim_changed_reactivate_notice">"La tarjeta SIM está desactivada. Para activarla de nueevo se enviará un mensaje de texto. Esto podría generar cargos adicionales en su servicio."</string>  
   <string name="sync_one_time_sync">Tocar para sincronizar (%1$s)</string>
   <string name="text_pastelist">Portapapeles</string>
   <string name="unknown">Número desconocido</string>

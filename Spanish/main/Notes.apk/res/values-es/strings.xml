@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
+  <string name="add_account_desc">Desea sincronzar sus notas con su cuenta MI?</string>
   <string name="alert_edit_action_delete">Quitar</string>
   <string name="alert_edit_action_update">Actualizar</string>
   <string name="alert_message_delete_folder">Seguro que desea borrar la carpeta y sus notas?</string>
@@ -15,6 +16,7 @@
   <string name="button_new_note">Nueva Nota</string>
   <string name="call_record_folder_name">Llamadas grabadas</string>
   <string name="default_folder_name">Notas</string>
+  <string name="select_account_prompt">Habilitar sincronización de notas</string>
   <string name="error_note_empty_for_clock">Lo siento, no se puede establecer la hora en una nota vacía</string>
   <string name="error_note_empty_for_send_to_desktop">Lo siento, no se puede enviar una nota vacia al escritorio</string>
   <string name="error_note_not_exist">La nota no existe</string>
@@ -40,6 +42,7 @@
   <string name="image_edit_action_replace_menu_title">Reemplazar objeto</string>
   <string name="image_edit_action_view">Ver</string>
   <string name="info_note_enter_desktop">Nota añadida al escritorio</string>
+  <string name="login_sync">Ingresar &amp; sincronizar</string>
   <string name="menu_create_folder">Nueva carpeta</string>
   <string name="menu_delete">Borrar</string>
   <string name="menu_deselect_all">Deseleccionar todo</string>
@@ -63,6 +66,7 @@
   <string name="menu_setting">Ajustes</string>
   <string name="menu_share">Compartir</string>
   <string name="menu_title_select_folder">Elegir carpeta</string>
+  <string name="not_now">Ahora no</string>
   <string name="note_alert_expired">Expirado</string>
   <string name="note_link_email">Enviar email</string>
   <string name="note_link_other">Abrir mapa</string>
