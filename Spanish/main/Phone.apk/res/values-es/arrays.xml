@@ -134,8 +134,8 @@
         <item>Nunca</item>
     </string-array>
     <string-array name="voicemail_notification_vibrate_when_values">
-        <item>Siempre</item>
-        <item>Solo en silencio</item>
-        <item>Nunca</item>
+        <item>always</item>
+        <item>silent</item>
+        <item>never</item>
     </string-array>
 </resources>
