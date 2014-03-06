@@ -13,8 +13,6 @@
 	<string name="activate_status_desc_getting_gateway">Obteniendo Gateway de SMS</string>
     <string name="activate_status_title_activating">Activando tarjeta SIM</string>
     <string name="activate_status_title_activating_msim">Activando tarjeta SIM %s</string>
-    <string name="activate_status_title_activating">Activating SIM card</string>
-    <string name="activate_status_title_activating_msim">Activating SIM card %s</string>
     <string name="activate_status_desc_getting_device_info">Getting device info</string>
     <string name="activate_status_desc_failed_getting_device_info">"No se pudo obtener información sobre el dispositivo"</string>
     <string name="activate_status_desc_getting_sim_info">Obteniendo información de la tarjeta SIM</string>
