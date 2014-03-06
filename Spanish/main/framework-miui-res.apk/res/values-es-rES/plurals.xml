@@ -36,9 +36,6 @@
     <plurals name="abbrev_in_less_than_one_minute">
         <item quantity="other">Ahora mismo</item>
     </plurals>
-    <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Justo ahora</item>
-    </plurals>	
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">Hace %d min.</item>
         <item quantity="one">Hace 1 min.</item>
