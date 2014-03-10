@@ -1,5 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
+  <string formatted="false" name="add_contact_dlg_message_fmt">¿Añadir \"%s\" a contactos?</string>
+  <string formatted="false" name="blurbJoinContactDataWith">Elige el contacto que deseas agrupar con %s.</string>
+  <string formatted="false" name="callDetailsDurationFormat">%s mins %s segs</string>
+  <string formatted="false" name="callNoAnswerTimeFormat">Ha sonado %s veces</string>
+  <string formatted="false" name="call_assistant">Llamar a %s</string>
+  <string formatted="false" name="call_custom">Llamar a %s</string>
+  <string formatted="false" name="call_log_item_count_and_date">(%1$d) %2$s</string>
+  <string formatted="false" name="callrecordview_item_op_time_minutes_seconds">%d min y %d seg</string>
+  <string formatted="false" name="callrecordview_item_op_time_only_minutes">%d min</string>
+  <string formatted="false" name="callrecordview_item_op_time_only_seconds">%d seg</string>
+  <string formatted="false" name="callrecordview_menu_delete_confirm">Desea \"%s\"?</string>
+  <string formatted="false" name="cancel_export_confirmation_message">¿Está seguro de cancelar la exportación de %s?</string>
+  <string formatted="false" name="cancel_import_confirmation_message">¿Está seguro de cancelar la importación de %s?</string>
+  <string formatted="false" name="confirm_delete_selected_call_log">"Seguro que desea borrar %1d llamada(s) del registro?"</string>
+  <string formatted="false" name="confirm_export_message">¿Estás seguro de que quieres exportar tu lista de contactos a \"%s\"?</string>
+  <string formatted="false" name="contact_directory_description">Directorio %1$s</string>
+  <string formatted="false" name="contact_editor_prompt_one_account">Tu nuevo contacto se sincronizará con %1$s.</string>
+  <string formatted="false" name="contact_status_update_attribution">via %1$s</string>
+  <string formatted="false" name="contact_status_update_attribution_with_date">%1$s via %2$s</string>
+  <string formatted="false" name="delete_group_dialog_message">¿Seguro que quieres eliminar el grupo \"%1$s\"? Los contactos no se eliminarán.</string>
+  <string formatted="false" name="description_call">Llamar a %1$s</string>
+  <string formatted="false" name="description_dial_phone_number">Marcar teléfono %1$s</string>
+  <string formatted="false" name="description_quick_contact_for">Contacto rápido de %1$s</string>
+  <string formatted="false" name="description_send_message">Enviar mensaje a %1$s</string>
+  <string formatted="false" name="description_send_text_message">Enviar mensaje de texto a %1$s</string>
+  <string formatted="false" name="description_view_contact">Ver contacto %1$s</string>
+  <string formatted="false" name="dirty_contacts_notification_description">%d modificaciones de contactos no han sido sincronizados con la cuenta</string>
+  <string formatted="false" name="display_warn_remove_ungrouped">"Eliminando '%s' de la sincronización también eliminará el resto de contactos sin grupo de la sincronización."</string>
+  <string formatted="false" name="email_custom">Correo electrónico %s</string>
+  <string formatted="false" name="exporting_contact_failed_message">Se ha producido un error al exportar los datos del contacto. Motivo del error: \"%s\"</string>
+  <string formatted="false" name="exporting_contact_list_message">Exportando datos de contacto a \"%s\"…</string>
+  <string formatted="false" name="exporting_vcard_canceled_title">Importación %s cancelada</string>
+  <string formatted="false" name="exporting_vcard_finished_title">Exportación de vCard %s finalizada</string>
+  <string formatted="false" name="external_profile_title">Mi perfil de %1$s</string>
+  <string formatted="false" name="fail_reason_could_not_initialize_exporter">No se ha podido inicializar el exportador: \"%s\"</string>
+  <string formatted="false" name="fail_reason_could_not_open_file">No se ha podido abrir el archivo \"%1$s\": %2$s</string>
+  <string formatted="false" name="fail_reason_error_occurred_during_export">Se ha producido un error durante la exportación: \"%s\"</string>
+  <string formatted="false" name="fail_reason_too_long_filename">El nombre de archivo necesario es demasiado largo (\"%s\").</string>
+  <string formatted="false" name="foundTooManyContacts">más de %d encontrados</string>
+  <string formatted="false" name="from_account_format">%1$s</string>
+  <string formatted="false" name="hint_search_contacts">%d contactos</string>
+  <string formatted="false" name="importing_vcard_canceled_title">Importación de %s cancelada</string>
+  <string formatted="false" name="importing_vcard_description">Importando %s</string>
+  <string formatted="false" name="importing_vcard_finished_title">Importación de vCard %s finalizada</string>
+  <string formatted="false" name="label_duplicate_count">(%1$d)</string>
+  <string formatted="false" name="map_custom">Ver dirección de %s</string>
+  <string formatted="false" name="menu_callNumber">Llamar al contacto</string>
+  <string formatted="false" name="menu_call_ip_number">Marcar teléfono IP(marcar %s)</string>
+  <string formatted="false" name="merge_contact_message">%1$d contactos con datos parcialmente duplicados, %2$d seleccionados</string>
   <string name="account_default">Teléfono</string>
   <string name="account_phone">Sólo en el teléfono (no sincronizado)</string>
   <string name="account_sim">Sólo SIM, desincronizado</string>
@@ -9,7 +58,6 @@
   <string name="add_account">Añadir cuenta</string>
   <string name="add_blacklist">Añadir la lista negra</string>
   <string name="add_connection_button">Añadir conexión</string>
-  <string formatted="false" name="add_contact_dlg_message_fmt">¿Añadir \"%s\" a contactos?</string>
   <string name="add_contact_dlg_title">Añadir contacto</string>
   <string name="add_field">Añadir otro campo</string>
   <string name="add_new_account">Añadir una cuenta nueva</string>
@@ -24,26 +72,20 @@
   <string name="attach_photo_dialog_title">Foto de contacto</string>
   <string name="audio_chat">Chat de audio</string>
   <string name="batch_delete_msg">¿Eliminar los siguientes contactos %d ? Los contactos seguirán sincronizados en la nube después de eliminarlos</string>
-  <string formatted="false" name="blurbJoinContactDataWith">Elige el contacto que deseas agrupar con %s.</string>
   <string name="caching_vcard_message">Almacenando vCard en caché. La opración comenzará en breve.</string>
   <string name="caching_vcard_title">Almacenando vCard en caché</string>
   <string name="callBack">Volver a llamar</string>
   <string name="callDetailTitle">Detalles de la llamada</string>
-  <string formatted="false" name="callDetailsDurationFormat">%s mins %s segs</string>
-  <string formatted="false" name="callNoAnswerTimeFormat">Ha sonado %s veces</string>
   <string name="callShortcutActivityTitle">Elegir un número para la llamada</string>
-  <string formatted="false" name="call_assistant">Llamar a %s</string>
   <string name="call_callback">Llamar a un número de devolución de llamada</string>
   <string name="call_car">Llamar al coche</string>
   <string name="call_company_main">Llamar al teléfono principal de la empresa</string>
-  <string formatted="false" name="call_custom">Llamar a %s</string>
   <string name="call_disambig_title">Llamada</string>
   <string name="call_fax_home">Llamar a fax de casa</string>
   <string name="call_fax_work">Llamar al fax del trabajo</string>
   <string name="call_home">Llamar a casa</string>
   <string name="call_isdn">Llamar a RDSI</string>
   <string name="call_log_empty_gecode">-</string>
-  <string formatted="false" name="call_log_item_count_and_date">(%1$d) %2$s</string>
   <string name="call_log_new_header">Nuevo</string>
   <string name="call_log_old_header">Anteriores</string>
   <string name="call_main">Llamar al teléfono principal</string>
@@ -62,10 +104,7 @@
   <string name="calllog_menu_edit_before_call">Editar antes de llamar</string>
   <string name="calllog_menu_send_sms">Enviar SMS</string>
   <string name="callrecordview_item_newcontact">Nuevo contacto</string>
-  <string formatted="false" name="callrecordview_item_op_time_minutes_seconds">%d min y %d seg</string>
   <string name="callrecordview_item_op_time_missed">No contestada</string>
-  <string formatted="false" name="callrecordview_item_op_time_only_minutes">%d min</string>
-  <string formatted="false" name="callrecordview_item_op_time_only_seconds">%d seg</string>
   <string name="callrecordview_item_op_time_rejected">Llamada rechazada</string>
   <string name="callrecordview_item_op_time_short_incoming">"Entrante "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Saliente "</string>
@@ -73,7 +112,6 @@
   <string name="callrecordview_menu_delete_accepted">Borrar registro de llamadas contestadas</string>
   <string name="callrecordview_menu_delete_all">Borrar registro</string>
   <string name="callrecordview_menu_delete_called">Borrar registro de llamadas salientes</string>
-  <string formatted="false" name="callrecordview_menu_delete_confirm">Desea \"%s\"?</string>
   <string name="callrecordview_menu_delete_missed">Borrar llamadas perdidas</string>
   <string name="callrecordview_menu_delete_one">Borrar esta del registro de llamadas</string>
   <string name="callrecordview_menu_delete_stranger">Borrar desconocidos</string>
@@ -88,9 +126,7 @@
   <string name="callrecordview_menu_show_title">Por favor, seleccione la categoría que debe mostrarse</string>
   <string name="cancel_confirmation_dialog_message">¿Seguro que quieres descartar los cambios?</string>
   <string name="cancel_confirmation_dialog_title">Descartar cambios</string>
-  <string formatted="false" name="cancel_export_confirmation_message">¿Está seguro de cancelar la exportación de %s?</string>
   <string name="cancel_export_confirmation_title">Cancelando exportación de vCard</string>
-  <string formatted="false" name="cancel_import_confirmation_message">¿Está seguro de cancelar la importación de %s?</string>
   <string name="cancel_import_confirmation_title">Cancelando importación de vCard</string>
   <string name="cancel_vcard_import_or_export_failed">No es posible cancelar la importación/exportación de vCard</string>
   <string name="chat">Chat</string>
@@ -119,8 +155,6 @@
   <string name="config_export_vcard_type">default</string>
   <string name="config_import_vcard_type">default</string>
   <string name="config_prohibited_phone_number_regexp"  />
-  <string formatted="false" name="confirm_delete_selected_call_log">"Seguro que desea borrar %1d llamada(s) del registro?"</string>
-  <string formatted="false" name="confirm_export_message">¿Estás seguro de que quieres exportar tu lista de contactos a \"%s\"?</string>
   <string name="confirm_export_title">Confirmar la exportación</string>
   <string name="connections">Otros</string>
   <string name="contactDetailAbout">Detalles</string>
@@ -130,15 +164,11 @@
   <string name="contactPickerActivityTitle">Elegir un contacto</string>
   <string name="contactSavedErrorToast">Se ha producido un error al guardar los cambios del contacto.</string>
   <string name="contactSavedToast">Contacto guardado</string>
-  <string formatted="false" name="contact_directory_description">Directorio %1$s</string>
   <string name="contact_edit_title_insert">Crear contacto en %s</string>
   <string name="contact_editor_prompt_multiple_accounts">Puedes sincronizar tu nuevo contacto con una de las siguientes cuentas. ¿Cuál quieres usar?</string>
-  <string formatted="false" name="contact_editor_prompt_one_account">Tu nuevo contacto se sincronizará con %1$s.</string>
   <string name="contact_editor_prompt_zero_accounts">No se hará una copia de seguridad del nuevo contacto. ¿Quieres añadir una cuenta para hacer copias de seguridad online de los contactos?</string>
   <string name="contact_pick_photo">Foto</string>
   <string name="contact_read_only">No se puede editar la información del contacto de %1$s en este dispositivo.</string>
-  <string formatted="false" name="contact_status_update_attribution">via %1$s</string>
-  <string formatted="false" name="contact_status_update_attribution_with_date">%1$s via %2$s</string>
   <string name="contactsAllLabel">Todos</string>
   <string name="contactsFavoritesLabel">Favoritos</string>
   <string name="contactsGroupsLabel">Grupos</string>
@@ -164,11 +194,9 @@
   <string name="delete_contact_calllog_title">¿Seguro que deseas eliminar el registro de llamadas de tus contactos?</string>
   <string name="delete_duplicate">Combinar</string>
   <string name="delete_duplicate_message">"Combinando ... "</string>
-  <string formatted="false" name="delete_group_dialog_message">¿Seguro que quieres eliminar el grupo \"%1$s\"? Los contactos no se eliminarán.</string>
   <string name="delete_group_dialog_title">Eliminar grupo</string>
   <string name="delete_unknown_contact_calllog_title">Seguro que desea eliminar el registro de llamadas de contactos desconocidos?</string>
   <string name="description_add_contact">Añadir contacto</string>
-  <string formatted="false" name="description_call">Llamar a %1$s</string>
   <string name="description_call_log_incoming_call">Llamada entrante</string>
   <string name="description_call_log_missed_call">Llamada perdida</string>
   <string name="description_call_log_outgoing_call">Llamada saliente</string>
@@ -176,7 +204,6 @@
   <string name="description_call_log_voicemail">Buzón de voz</string>
   <string name="description_contact_photo">foto de contacto</string>
   <string name="description_dial_button">marcar</string>
-  <string formatted="false" name="description_dial_phone_number">Marcar teléfono %1$s</string>
   <string name="description_image_button_eight">ocho</string>
   <string name="description_image_button_five">cinco</string>
   <string name="description_image_button_four">cuatro</string>
@@ -190,11 +217,7 @@
   <string name="description_image_button_two">dos</string>
   <string name="description_image_button_zero">cero</string>
   <string name="description_minus_button">menos</string>
-  <string formatted="false" name="description_quick_contact_for">Contacto rápido de %1$s</string>
-  <string formatted="false" name="description_send_message">Enviar mensaje a %1$s</string>
-  <string formatted="false" name="description_send_text_message">Enviar mensaje de texto a %1$s</string>
   <string name="description_star">favorito</string>
-  <string formatted="false" name="description_view_contact">Ver contacto %1$s</string>
   <string name="description_view_contact_detail">Ver contacto</string>
   <string name="deselect_all">Deseleccionar todo</string>
   <string name="dialerDialpadHintText">Añadir llamada</string>
@@ -207,7 +230,6 @@
   <string name="dialog_new_group_account">Crear grupo en la cuenta</string>
   <string name="dialog_sync_add">Añadir sincronización de grupo</string>
   <string name="directory_search_label">Directorio</string>
-  <string formatted="false" name="dirty_contacts_notification_description">%d modificaciones de contactos no han sido sincronizados con la cuenta</string>
   <string name="dirty_contacts_notification_message">(Deberias deshabilitar el recordatorio en los ajustes de contactos)</string>
   <string name="dirty_contacts_notification_title">Deseas sincronizar los contactos?</string>
   <string name="display_all_contacts">Todos los contactos</string>
@@ -221,7 +243,6 @@
   <string name="display_options_view_names_as">Ver los contactos con</string>
   <string name="display_sim_contacts">Mostrar sólo contactos SIM</string>
   <string name="display_ungrouped">Resto de contactos</string>
-  <string formatted="false" name="display_warn_remove_ungrouped">"Eliminando '%s' de la sincronización también eliminará el resto de contactos sin grupo de la sincronización."</string>
   <string name="editContactDescription">Editar contacto</string>
   <string name="edit_contact">Editar contacto</string>
   <string name="edit_contact_card_title">Editar información de contacto</string>
@@ -229,7 +250,6 @@
   <string name="edit_photo">Editar foto</string>
   <string name="email">Email</string>
   <string name="emailLabelsGroup">Email</string>
-  <string formatted="false" name="email_custom">Correo electrónico %s</string>
   <string name="email_home">Enviar email a casa</string>
   <string name="email_mobile">Enviar email al móvil</string>
   <string name="email_other">Enviar correo electrónico</string>
@@ -243,31 +263,20 @@
   <string name="export_to_sdcard">Exportar a tarjeta SD</string>
   <string name="export_to_sim">Exportar a tarjeta SIM</string>
   <string name="export_vcard_description">Exportar VCard a la tarjeta SD</string>
-  <string formatted="false" name="exporting_contact_failed_message">Se ha producido un error al exportar los datos del contacto. Motivo del error: \"%s\"</string>
   <string name="exporting_contact_failed_title">Error al exportar los datos del contacto</string>
-  <string formatted="false" name="exporting_contact_list_message">Exportando datos de contacto a \"%s\"…</string>
   <string name="exporting_contact_list_title">Exportando datos de contacto</string>
-  <string formatted="false" name="exporting_vcard_canceled_title">Importación %s cancelada</string>
-  <string formatted="false" name="exporting_vcard_finished_title">Exportación de vCard %s finalizada</string>
-  <string formatted="false" name="external_profile_title">Mi perfil de %1$s</string>
-  <string formatted="false" name="fail_reason_could_not_initialize_exporter">No se ha podido inicializar el exportador: \"%s\"</string>
-  <string formatted="false" name="fail_reason_could_not_open_file">No se ha podido abrir el archivo \"%1$s\": %2$s</string>
-  <string formatted="false" name="fail_reason_error_occurred_during_export">Se ha producido un error durante la exportación: \"%s\"</string>
   <string name="fail_reason_io_error">Error de E/S</string>
   <string name="fail_reason_low_memory_during_import">Memoria insuficiente (el archivo podría ser demasiado grande)</string>
   <string name="fail_reason_no_exportable_contact">No hay contactos que exportar.</string>
   <string name="fail_reason_not_supported">Formato no soportado.</string>
-  <string formatted="false" name="fail_reason_too_long_filename">El nombre de archivo necesario es demasiado largo (\"%s\").</string>
   <string name="fail_reason_too_many_vcard">Hay demasiados archivos de vCard en la tarjeta SD.</string>
   <string name="fail_reason_unknown">Error desconocido</string>
   <string name="favoritesFrequentCalled">Llamado frecuentemente</string>
   <string name="favoritesFrequentContacted">Contactado frecuentemente</string>
-  <string formatted="false" name="foundTooManyContacts">más de %d encontrados</string>
   <string name="frequency_none">No recordar</string>
   <string name="frequency_three_days">Comprobar y recordar cada tres dias</string>
   <string name="frequency_weekly">Comprobar y recordar cada semana</string>
   <string name="frequentList">Frecuentes</string>
-  <string formatted="false" name="from_account_format">%1$s</string>
   <string name="full_name">Nombre completo</string>
   <string name="ghostData_company">Empresa</string>
   <string name="ghostData_title">Título</string>
@@ -284,30 +293,25 @@
   <string name="groupsLabel">Grupos</string>
   <string name="groups_list_empty">Sin grupos</string>
   <string name="hint_findContacts">Buscar contactos</string>
-  <string formatted="false" name="hint_search_contacts">%d contactos</string>
   <string name="imLabelsGroup">Mensajería internet</string>
   <string name="imei">IMEI</string>
   <string name="import_all_vcard_string">Importar todos los archivos vCard</string>
   <string name="import_contact_card_button">Importar</string>
   <string name="import_failure_no_vcard_file">No se encontro el archivo vCard en el almacenamiento</string>
+  <string name="import_from_other_phone">Importar desde otro teléfono</string>
   <string name="import_from_sdcard">Importar desde tarjeta SD</string>
   <string name="import_from_sim">Importar desde tarjeta SIM</string>
   <string name="import_multiple_vcard_string">Importar varios archivos vCard</string>
   <string name="import_one_vcard_string">Importar un archivo vCard</string>
-  <string name="import_from_other_phone">Importar desde otro teléfono</string>
   <string name="import_to_xiaomi_account_confirm">Importar</string>
   <string name="import_to_xiaomi_account_progress_finish">Importación completada</string>
   <string name="import_to_xiaomi_account_progress_message">Importando...</string>
   <string name="import_to_xiaomi_account_progress_title">Importar contactos a la cuenta Xiaomi</string>
   <string name="import_to_xiaomi_account_title">¿Quieres importar los siguientes contactos a la cuenta Xiaomi?</string>
   <string name="import_vcard_description">Importar contactos desde la tarjeta SD</string>
-  <string formatted="false" name="importing_vcard_canceled_title">Importación de %s cancelada</string>
-  <string formatted="false" name="importing_vcard_description">Importando %s</string>
-  <string formatted="false" name="importing_vcard_finished_title">Importación de vCard %s finalizada</string>
   <string name="insertContactDescription">Crear contacto</string>
   <string name="invalidContactMessage">Ese contacto no existe.</string>
   <string name="keep_local">Guardar localmente</string>
-  <string formatted="false" name="label_duplicate_count">(%1$d)</string>
   <string name="label_no_duplicate_contacts">¡Perfecto! ¡Sin contactos duplicados por ahora!</string>
   <string name="label_notes">Notas</string>
   <string name="label_sip_address">Llamada de internet</string>
@@ -339,7 +343,6 @@
   <string name="locale_change_in_progress">"La lista de contactos se está actualizando para reflejar el cambio de idioma. Por favor, espera…"</string>
   <string name="lunarBirthdayLabelsGroup">Cumpleaños</string>
   <string name="make_primary">Recordar esta opción</string>
-  <string formatted="false" name="map_custom">Ver dirección de %s</string>
   <string name="map_home">Ver dirección de casa</string>
   <string name="map_other">Ver dirección</string>
   <string name="map_work">Ver dirección del trabajo</string>
@@ -348,8 +351,6 @@
   <string name="menu_addStar">Añadir a \"Favoritos\"</string>
   <string name="menu_batch_delete">Eliminar contactos</string>
   <string name="menu_call">Llamar al contacto</string>
-  <string formatted="false" name="menu_callNumber">Llamar al contacto</string>
-  <string formatted="false" name="menu_call_ip_number">Marcar teléfono IP(marcar %s)</string>
   <string name="menu_contacts_filter">Contactos a mostrar</string>
   <string name="menu_copyContact">Copiar a mis contactos</string>
   <string name="menu_deleteContact">Eliminar contacto</string>
@@ -373,6 +374,7 @@
   <string name="menu_redirect_calls_to_vm">Desviar llamadas al contestador</string>
   <string name="menu_removeStar">Eliminar de \"Favoritos\"</string>
   <string name="menu_search">Buscar</string>
+  <string name="menu_select_all">Seleccionar todo</string>
   <string name="menu_sendSMS">Enviar mensaje al contacto</string>
   <string name="menu_send_to_desktop">Enviar al escritorio</string>
   <string name="menu_set_ring_tone">Establecer tono personalizado</string>
@@ -381,7 +383,6 @@
   <string name="menu_splitAggregate">Separar</string>
   <string name="menu_sync_remove">Eliminar sincronización de grupo</string>
   <string name="menu_viewContact">Ver contacto</string>
-  <string formatted="false" name="merge_contact_message">%1$d contactos con datos parcialmente duplicados, %2$d seleccionados</string>
   <string name="messageShortcutActivityTitle">Elegir un número para el mensaje</string>
   <string name="missing_name">(sin nombre)</string>
   <string name="move_and_resize">Mover y dimensionar</string>
@@ -644,6 +645,7 @@ PAra añadir contactos a la lista de favoritos:
   <string name="simContacts_title">Contactos de tarjeta SIM</string>
   <string name="sim_card_no_free_space_message">La tarjeta SIM está llena, no se pueden importar nuevos contactos.</string>
   <string name="sim_card_no_free_space_title">Tarjeta SIM llena</string>
+  <string name="sim_contact_dropdown_menu_select_all_miui">Seleccionar todo</string>  
   <string name="sim_contact_search_error">Error al buscar contactos en la tarjeta SIM</string>
   <string name="sim_contacts">Contactos SIM</string>
   <string name="sim_export_loading">Leyendo información de la tarjeta SIM. Esta operación puede llevar un minuto, por favor sea paciente.</string>

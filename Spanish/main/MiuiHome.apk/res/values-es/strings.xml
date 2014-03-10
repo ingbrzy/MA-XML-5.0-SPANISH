@@ -50,6 +50,7 @@
   <string name="home_indicator">bottom_point</string>
   <string name="install">Instalar</string>
   <string name="invalid_contact_shortcut">Acceso directo de contacto no válido</string>
+  <string name="loading_desktop">Cargando lanzador...</string>
   <string name="menu_add">Añadir</string>
   <string name="menu_back_desktop">Volver al escritorio</string>
   <string name="menu_edit">Modificar escritorio</string>
@@ -81,8 +82,8 @@
   <string name="pref_icon_shadow_title">Sombra de iconos</string>
   <string name="pref_keep_in_memory_summary">Garantizado el funcionamiento del launcher con memoria baja</string>
   <string name="pref_keep_in_memory_title">Mantener en memoria</string>
-  <string name="pref_keep_layout_title">Bloquear las posiciones de las Apps</string>
   <string name="pref_keep_layout_summary">"Al cambiar la distribución de la pantalla Home no afectará la posición relativa entre ellas"</string>
+  <string name="pref_keep_layout_title">Bloquear las posiciones de las Apps</string>
   <string name="pref_render_in_truecolor_summary">Si desactiva esta opción aumentará la velocidad del launcher</string>
   <string name="pref_render_in_truecolor_title">Gráficos de alta calidad</string>
   <string name="pref_screen_transformation_type_title">Tipos de animaciones</string>
@@ -100,9 +101,9 @@
   <string name="sort_by_not_defined">Ordenar iconos por defecto</string>
   <string name="start_activity_failed">No se ha podido iniciar, inténtelo más tarde</string>
   <string name="starting_preset_app">Iniciando</string>
-  <string name="status_bar_toggle_ring">Timbre</string>
   <string name="status_bar_toggle_auto_brightness">Auto-Brillo</string>
   <string name="status_bar_toggle_divider">Más</string>
+  <string name="status_bar_toggle_ring">Timbre</string>
   <string name="title_select_live_folder">Seleccionar carpeta</string>
   <string name="title_select_shortcut">Seleccionar acceso directo</string>
   <string name="toggle_select_title">Seleccionar switch</string>
@@ -115,10 +116,12 @@
   <string name="transformation_type_leftpage">Páginas</string>
   <string name="transformation_type_rotate">Rotación</string>
   <string name="transformation_type_stack">Cascada</string>
-  <string name="unnamed_folder_name">Carpeta sin nombre</string>
   <string name="uninstall">Desinstalar</string>
   <string name="uninstall_body_format">¿Desinstalar la aplicación \"%s\"?</string>
+  <string name="uninstall_dialog_message">La desinstalación eliminadrá todos los datos de la App.</string>
+  <string name="uninstall_dialog_title_format">Desinstalar \"%s\"</string>
   <string name="unknown_artist_name">Artista Desconocido</string>
+  <string name="unnamed_folder_name">Carpeta sin nombre</string>
   <string name="upside_apps_title">Seleccionar aplicación</string>
   <string name="upside_edit_bar_empty">Vacío</string>
   <string name="upside_edit_bar_select_app">Seleccione Apl</string>
@@ -129,5 +132,4 @@
   <string name="widget_favorite_contacts_style">Tamaño</string>
   <string name="widget_gadget_player">Música</string>
   <string name="widget_global_search">Búsqueda Global</string>
-  <string name="loading_desktop">Cargando lanzador...</string>
-  </resources>
+</resources>

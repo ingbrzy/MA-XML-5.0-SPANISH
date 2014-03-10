@@ -68,6 +68,7 @@
     <string name="account_folder_list_summary_starred">Destacados</string>
     <string name="account_folder_list_summary_drafts">Borradores</string>
     <string name="account_folder_list_summary_outbox">Enviados</string>
+	<string name="alert_title_selected">Sleccionar todo</string>
     <string name="mailbox_list_account_selector_combined_view">Vista combinada</string>
     <string name="mailbox_list_account_selector_show_all_folders">Mostrar todas las carpetas</string>
     <string name="mailbox_list_account_selector_account_header">Cuentas</string>

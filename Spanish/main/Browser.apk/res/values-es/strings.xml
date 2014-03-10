@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
+  <string formatted="false" name="contextheader_folder_bookmarkcount">%d marcadores</string>
+  <string formatted="false" name="delete_bookmark_warning">¿Eliminar marcador \"%s\"?</string>
+  <string formatted="false" name="download_no_sdcard_dlg_msg">Para descargar %s se necesita una tarjeta SD.</string>
+  <string formatted="false" name="geolocation_permissions_prompt_message">%s quiere saber tu ubicación.</string>
+  <string formatted="false" name="import_bookmarks_dialog_confirm_add">¿Añadir los marcadores de este dispositivo e iniciar la sincronización de marcadores con %s?</string>
+  <string formatted="false" name="import_bookmarks_dialog_confirm_delete">¿Eliminar marcadores del dispositivo e iniciar la sincronización de marcadores con %s?</string>
+  <string formatted="false" name="import_bookmarks_dialog_import">Añadir tus marcadores de Android a marcadores de %s</string>
+  <string formatted="false" name="pref_autologin_progress">Accediendo a Google Sites mediante %s</string>
+  <string formatted="false" name="sign_in_to">Acceder a %s1 \"%s2\"</string>
   <string name="accessibility_button_addbookmark">Marcar página</string>
   <string name="accessibility_button_back">Volver</string>
   <string name="accessibility_button_bookmarks">Marcadores</string>
@@ -94,7 +103,6 @@
   <string name="clear">Borrar</string>
   <string name="clear_history">Borrar historial</string>
   <string name="containing_folder">Añadir a</string>
-  <string formatted="false" name="contextheader_folder_bookmarkcount">%d marcadores</string>
   <string name="contextheader_folder_empty">Carpeta vacía</string>
   <string name="contextmenu_add_contact">Añadir contacto</string>
   <string name="contextmenu_copy">Copiar</string>
@@ -117,12 +125,10 @@
   <string name="current_page">"de "</string>
   <string name="defaultBookmarksUpButton">Marcadores</string>
   <string name="delete">Eliminar</string>
-  <string formatted="false" name="delete_bookmark_warning">¿Eliminar marcador \"%s\"?</string>
   <string name="delete_folder">Eliminar carpeta</string>
   <string name="delete_multi_bookmarks_alert_title">¿Estás seguro de eliminar estos %1$s archivos?</string>
   <string name="disable_autofill">Inhabilitar autocompletar</string>
   <string name="do_not_save">Cancelar</string>
-  <string formatted="false" name="download_no_sdcard_dlg_msg">Para descargar %s se necesita una tarjeta SD.</string>
   <string name="download_no_sdcard_dlg_title">Falta la tarjeta SD</string>
   <string name="download_pending">Iniciando descarga…</string>
   <string name="download_sdcard_busy_dlg_msg">La tarjeta SD está ocupada. Para permitir las descargas, toca Desactivar almacenamiento USB en la notificación.</string>
@@ -153,7 +159,6 @@
   <string name="folder_name">Nombre de la carpeta</string>
   <string name="forward">Siguiente</string>
   <string name="geolocation_permissions_prompt_dont_share">Rechazar</string>
-  <string formatted="false" name="geolocation_permissions_prompt_message">%s quiere saber tu ubicación.</string>
   <string name="geolocation_permissions_prompt_remember">Recordar preferencia</string>
   <string name="geolocation_permissions_prompt_share">Aceptar</string>
   <string name="geolocation_permissions_prompt_toast_allowed">Este sitio puede acceder a tu ubicación. Para modificar esta opción, accede a la pantalla Ajustes > Avanzados > Sitio web.</string>
@@ -175,11 +180,8 @@
   <string name="import_bookmark_failure">Fallo al importar los favoritos!</string>
   <string name="import_bookmark_sucess">Favoritos importados correctamente!</string>
   <string name="import_bookmarks_dialog_add">Añadir marcadores a la cuenta de Google</string>
-  <string formatted="false" name="import_bookmarks_dialog_confirm_add">¿Añadir los marcadores de este dispositivo e iniciar la sincronización de marcadores con %s?</string>
-  <string formatted="false" name="import_bookmarks_dialog_confirm_delete">¿Eliminar marcadores del dispositivo e iniciar la sincronización de marcadores con %s?</string>
   <string name="import_bookmarks_dialog_delete_select_account">Eliminar marcadores del dispositivo e iniciar la sincronización con la cuenta de Google</string>
   <string name="import_bookmarks_dialog_description">Los marcadores de este dispositivo aún no se han asociado a una cuenta de Google. Para guardar estos marcadores, añádelos a una cuenta. Si no quieres sincronizarlos, puedes eliminarlos.</string>
-  <string formatted="false" name="import_bookmarks_dialog_import">Añadir tus marcadores de Android a marcadores de %s</string>
   <string name="import_bookmarks_dialog_remove">Eliminar marcadores</string>
   <string name="import_bookmarks_dialog_select_add_account">Añadir los marcadores de este dispositivo e iniciar la sincronización con la cuenta de Google</string>
   <string name="import_bookmarks_dialog_title">Sincronizar con cuenta de Google</string>
@@ -188,9 +190,9 @@
   <string name="import_bookmarks_wizard_next">Siguiente</string>
   <string name="import_bookmarks_wizard_previous">Anterior</string>
   <string name="importing_favorite_files">Importando datos...</string>
+  <string name="in_incognito">Se ha establecido el modo incognito. no se registrará historial de navegación.</string>
   <string name="instant_base">http://www.google.com/webhp?client={CID}&amp;source=android-instant&amp;ion=1</string>
   <string name="instant_search_label">Google con Instant (experimental)</string>
-  <string name="in_incognito">Se ha establecido el modo incognito. no se registrará historial de navegación.</string>
   <string name="is_first_history_item">Es el primer historial</string>
   <string name="is_first_tab">Es la primera pestaña</string>
   <string name="is_last_history_item">Es el último historial</string>
@@ -241,7 +243,6 @@
   <string name="pref_autofill_enabled_summary">Rellenar formularios web con un sólo toque</string>
   <string name="pref_autofill_profile_editor">Texto para autocompletar</string>
   <string name="pref_autofill_profile_editor_summary">Configurar texto con el que quieres completar automáticamente los formularios web</string>
-  <string formatted="false" name="pref_autologin_progress">Accediendo a Google Sites mediante %s</string>
   <string name="pref_autologin_title">Acceso de Google automático</string>
   <string name="pref_clear_cache_for_exit">Borrar caché al salir</string>
   <string name="pref_clear_history_for_exit">Borrar historial al salir</string>
@@ -295,10 +296,10 @@
   <string name="pref_extras_title">Avanzados</string>
   <string name="pref_extras_website_settings">Ajustes del sitio web</string>
   <string name="pref_extras_website_settings_summary">Ajustes avanzados de sitios web individuales</string>
-  <string name="pref_file_download_save_title">Descarga</string>
-  <string name="pref_file_downlaod_save_reset_default_settings">Restaurar la configuración predeterminada</string>
   <string name="pref_file_downlaod_save_is_reset_default_settings">Restaurar la configuración predeterminada</string>
+  <string name="pref_file_downlaod_save_reset_default_settings">Restaurar la configuración predeterminada</string>
   <string name="pref_file_download_save_modify_default_path">Colocar archivos descargados en…</string>  
+  <string name="pref_file_download_save_title">Descarga</string>
   <string name="pref_fling_on_border_enabled">Arrastrar borde</string>
   <string name="pref_fling_on_border_operation">Operación al arrastrar borde</string>
   <string name="pref_font_size_category">Tamaño de la letra</string>
@@ -392,7 +393,6 @@
   <string name="search_baidu">Baidu</string>
   <string name="search_bing">Bing</string>
   <string name="search_button_text">Ir</string>
-  <string name="send_bookmark_to_home_screen">Enviar a pantalla de inicio</string>
   <string name="search_cancel">Cancelar</string>
   <string name="search_google">Google</string>
   <string name="search_hint">Busca o escribe una URL.</string>
@@ -402,12 +402,13 @@
   <string name="search_yahoo">Yahoo</string>
   <string name="security_warning">Advertencia de seguridad</string>
   <string name="select_dot">Seleccionar texto</string>
+  <string name="selection_all">Seleccionar todo</string>
+  <string name="send_bookmark_to_home_screen">Enviar a pantalla de inicio</string>
   <string name="set_as_homepage">Establecer como página de inicio</string>
   <string name="share_link">Compartir link</string>
   <string name="share_page">Compartir página</string>
   <string name="shortcut_bookmark">Marcador</string>
   <string name="shortcut_bookmark_title">Selecciona un marcador</string>
-  <string formatted="false" name="sign_in_to">Acceder a %s1 \"%s2\"</string>
   <string name="snapshot_failed">No se ha podido guardar para leer sin conexión.</string>
   <string name="snapshot_go_live">Streaming en directo</string>
   <string name="ssl_continue">Continuar</string>
