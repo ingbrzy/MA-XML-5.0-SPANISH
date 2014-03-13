@@ -2,6 +2,8 @@
 <resources>
   <string name="activity_not_found">La aplicación no está instalada en el teléfono.</string>
   <string name="application_name">MiuiHome</string>
+  <string name="apply_as_lock_wallpaper">Aplicar</string>
+  <string name="apply_as_lock_wallpaper_message">También desea que la pantalla de bloqueo tenga este fondo?</string>
   <string name="buffering">Almacenando en buffer...</string>
   <string name="cancel_action">Cancelar</string>
   <string name="cancel_btn_label">Cancelar</string>
@@ -35,6 +37,7 @@
   <string name="gadget_photo_22_label">Marco 2x2</string>
   <string name="gadget_photo_24_label">Marco 2x4</string>
   <string name="gadget_photo_44_label">Marco 4x4</string>
+  <string name="gadget_photo_label">Marco</string>
   <string name="gadget_search_label">Buscar</string>
   <string name="gadget_weather_app_not_installed">MIUI Weather no está instalado</string>
   <string name="gadget_weather_loading">No hay datos meteorológicos</string>
@@ -63,6 +66,7 @@
   <string name="menu_sort">Ordenar los iconos de escritorio</string>
   <string name="menu_wallpaper">Fondo de pantalla</string>
   <string name="menu_workspace_preview">Vista previa</string>
+  <string name="multi_selecting_tips">Pique los íconos para iniciar</string>
   <string name="out_of_space">No queda espacio en el escritorio.</string>
   <string name="permdesc_install_shortcut">Permite que una aplicación añada accesos directos sin intervención del usuario.</string>
   <string name="permdesc_read_settings">Permite que una aplicación lea la información de configuración y accesos directos del escritorio.</string>
@@ -92,6 +96,7 @@
   <string name="preferences_title">Ajustes MiuiHome</string>
   <string name="process"  />
   <string name="reset_scene_prompt">La escena será reiniciada a la disposición predeterminada</string>
+  <string name="resource_get_auth_retrieving">Obteniendo autorización…</string>
   <string name="select_frame">Marco</string>
   <string name="select_photo">Fotografía</string>
   <string name="settings_shortcut">Opciones de acceso directo</string>

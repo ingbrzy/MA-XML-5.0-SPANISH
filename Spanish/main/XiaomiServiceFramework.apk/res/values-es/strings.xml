@@ -3,6 +3,8 @@
     <string name="app_name">XiaoMi Service Framework</string>
     <string name="account">Cuenta</string>
     <string name="account_hint_text">Email/Número de teléfono</string>
+	<string name="activate_phone_failed_notif_title">Error iniciando Mi Cloud</string>
+	<string name="activate_phone_failed_notif_title_msim">Fallo al iniciar Mi Cloud para la SIM %s</string>	
     <string name="activate_status_desc_acquire_phone_number">Obteniendo el número de teléfono desde el servidor</string>
     <string name="activate_status_desc_acquire_phone_number_server_error_wait">Ha ocurrido un error en el servidor adquiriendo el número telefónico. Reintentado…</string>
     <string name="activate_status_desc_acquire_phone_number_server_io_error_wait">Un error de E/S ha ocurrido adquiriendo el número de teléfono. Reintentando…</string>

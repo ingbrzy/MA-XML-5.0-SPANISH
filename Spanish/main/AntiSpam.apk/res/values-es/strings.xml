@@ -175,5 +175,6 @@
   <string name="tab_blacklist">Lista negra</string>
   <string name="tab_block_log">Registros de bloqueo</string>
   <string name="tab_sms">Registros de mensajes</string>
+  <string name="tab_title">Lista negra</string>
   <string name="tab_call">Registros de llamadas</string>
 </resources>

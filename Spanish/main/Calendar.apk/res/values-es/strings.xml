@@ -175,4 +175,6 @@
     <string name="more_string">%1$s más...</string>
     <string name="chips_waiting_for_directory_result">Esperando más contactos</string>
     <string name="copy">Copiar dirección de correo electrónico</string>
+	<string name="widget_events">Próximos eventos</string>
+	<string name="widget_no_events">No hay eventos próximos</string>
 </resources>

@@ -147,6 +147,7 @@ Memoria disponible %2$s"</string>
   <string name="user_agreement4">Política de privacidad</string>
   <string name="user_agreement5">，Pulsando OK acuerda y se compromete a cumplir con lo arriba mencionado, para salir pulse Cancelar.</string>
   <string name="v5_deselect_all">Desmarcar todo</string>
+  <string name="v5_edit_mode_title_empty">Seleccionar elementos</string>
   <string name="v5_select_all">Marcar todo</string>
   <string name="yesterday">Ayer</string>
 </resources>

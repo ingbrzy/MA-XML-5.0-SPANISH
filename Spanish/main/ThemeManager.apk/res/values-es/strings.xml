@@ -19,6 +19,7 @@
     <string name="resource_delta_update_successful">Actualización exitosa</string>
     <string name="resource_delta_update_failed">Actualización fallida: Descargando el Tema de nuevo…</string>
     <string name="resource_delta_update_total">%1$d actualizaciones delta guardadas %2$s</string>
+	<string name="resource_get_auth_retrieving">Obteniendo autorización…</string>
     <string name="resource_buy">Comprar</string>
     <string name="resource_importing">Importando…</string>
     <string name="resource_ringtone_playing_error">error de reproducción</string>
@@ -91,6 +92,7 @@
     <string name="resource_title">Detalles</string>
     <string name="resource_download">Descargar</string>
     <string name="resource_downloading">Descargando</string>
+	<string name="resource_get_auth_missing">Los Temas de terceros no están soportados</string>
     <string name="resource_apply">Aplicar</string>
     <string name="resource_update">Actualizar</string>
     <string name="resource_select">Seleccionar</string>

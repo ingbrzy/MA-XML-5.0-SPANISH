@@ -69,6 +69,7 @@
   <string name="accessibility_tutorial_title">Tutorial de accesibilidad</string>
   <string name="account_settings">Cuentas</string>
   <string name="account_sync_settings_title">Ajustes de sincronización</string>
+  <string name="act_action_accept_accept">Aceptar</string>
   <string name="activate_miui_screensaver">Protector de pantalla en reposo</string>
   <string name="activating">Activando...</string>
   <string name="active_device_admin_msg">Administrador de dispositivos</string>
@@ -101,6 +102,7 @@
   <string name="android_beam_on_summary">Listo para compartir contenido de aplicaciones por NFC</string>
   <string name="android_beam_settings_title">Android Beam</string>
   <string name="animator_duration_scale_title">Duración de la animación de escalado</string>
+  <string name="anti_spam">Lista negra</string>
   <string name="antispam_quiet_mode_title">No molestar</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">Tipo de autenticación</string>
@@ -278,6 +280,7 @@
   <string name="biometric_weak_improve_matching_title">Mejorar el reconocimiento facial</string>
   <string name="biometric_weak_liveliness_summary">Require eye blink while unlocking</string>
   <string name="biometric_weak_liveliness_title">Liveness check</string>
+  <string name="blacklist_tab_title">Lista negra</string>
   <string name="bluetooth">Ajustes de Bluetooth</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Conectado al audio del medio</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Utilizar para audio de medio</string>
@@ -423,6 +426,10 @@
   <string name="brightness">Brillo</string>
   <string name="brightness_summary">Ajustar el brillo de la pantalla</string>
   <string name="bssid_label">BSSID:</string>
+  <string name="bt_hci_snoop_log">Habilitar log de escaneo Bluetooth HCI</string>
+  <string name="bt_hci_snoop_log_summary">Captura todos los paqutes bluetooth HCI en un archivo</string>
+  <string name="bt_trace_log">Habilitar log de traza de Bluetooth</string>
+  <string name="bt_trace_log_summary">Habilita el log de traza del dispositivo Bluetooth</string>  
   <string name="build_number">Compilación (LordStenka)</string>
   <string name="builtin_keyboard_settings_summary">Ajustes del teclado físico</string>
   <string name="builtin_keyboard_settings_title">Teclado físico</string>
@@ -782,6 +789,7 @@
   <string name="forget_wifi_message">Borrar esta red Wi-Fi? deberás volver a intruducir la clave para volver a conectar de nuevo</string>
   <string name="frequently_fragment_delete">Borrar</string>
   <string name="frequently_fragment_tempty">Los elementos usados frecuentemente serán listados aquí</string>
+  <string name="fw_blacklist">Lista negra</string>
   <string name="gadget_picker_title">Seleccionar gadget</string>
   <string name="gadget_title">Control de energía</string>
   <string name="gadget_toggle_bluetooth">Actualización de la configuración de la conexión Bluetooth</string>
@@ -802,6 +810,7 @@
   <string name="header_category_system">SISTEMA</string>
   <string name="header_category_wireless_networks">CONEXIONES</string>
   <string name="header_data_and_synchronization">Datos y sincronización</string>
+  <string name="headset_calibrate_apply">Aplicar</string>
   <string name="heavy_weight_stop_description">No se puede detener la aplicación de forma segura. Si lo haces, puedes perder parte de tu trabajo.</string>
   <string name="help_label">Help</string>
   <string name="help_url_accounts"  />
@@ -1079,7 +1088,7 @@
   <string name="notification_sound_dialog_title">Elegir tono de notificación</string>
   <string name="notification_sound_title">Tono de notificación</string>
   <string name="notification_summary_of_garbage_cleanup">Ojo! Los datos residuales superan los %s. Se recomeinda hacer una limpieza.</string>  
-  <string name="notification_title_of_garbage_cleanup">Alarma de Papelera</string>  
+  <string name="notification_title_of_garbage_cleanup">Archivos residuales detectados</string>  
   <string name="notification_vibrate_abbreviation">Notificación</string>
   <string name="notification_volume_title">Notificación</string>
   <string name="nsd_quick_toggle_summary">Permite que apps en otros dispositivos encuentren apps en este dispositivo</string>
@@ -1165,6 +1174,7 @@ Nota: aplicaciones con dichos permisos podrán generar inestabilidad en el siste
   <string name="power_customizer_user_define_summary">opciones definidas por el usuario</string>
   <string name="power_idle">Teléfono inactivo</string>
   <string name="power_key">Botón \"Power\"</string>
+  <string name="power_mode_chooser_button_text">aplicar</string>
   <string name="power_phone">Llamadas de voz</string>
   <string name="power_screen">Pantalla</string>
   <string name="power_usage_history">Consumo de batería</string>
