@@ -13,6 +13,7 @@
   <string name="autumn_equinox">Equinoccio de Otoño</string>
   <string name="callNoAnswerTimeFormat">%s Tonos de llamada</string>
   <string name="caller_info_name_delimiter">O</string>
+  <string name="check_phone_error_title">"No se ha activado la sincronización"</string>
   <string name="childrens_day">Día del niño</string>
   <string name="chinese_youth_day">Día de la juventud</string>
   <string name="christmas_dad">Navidad</string>
@@ -135,9 +136,13 @@ Memoria disponible %2$s"</string>
   <string name="sdcard_status_changed_dialog_title">El estado de la tarjeta SD ha cambiado</string>
   <string name="select">Seleccionar</string>
   <string name="select_all">Seleccionar todo</string>
+  <string name="send">Enviar</string>
+  <string name="send_sms_for_sync_notice">Para activarla, un SMS será enviado. Esto puede generar costos adicionales en su servicio.</string>
+  <string name="send_sms_for_sync_title">"No se ha habilitado la sincronización"</string>
   <string name="shutdown_confirm_title">Seguro que desea apagar el teléfono?</string>
   <string name="sim_account_name">SIM</string>
-  <string name="sim_changed_reactivate_notice">"La tarjeta SIM está desactivada. Para activarla de nueevo se enviará un mensaje de texto. Esto podría generar cargos adicionales en su servicio."</string>  
+  <string name="sim_changed_reactivate_notice">"La tarjeta SIM está desactivada. Para activarla de nuevo se enviará un mensaje de texto. Esto podría generar cargos adicionales en su servicio."</string>
+  <string name="sim_changed_reactivate_int_notice">"La tarjeta SIM en uso está desactivada. Un SMS será enviado para activarla de nuevo. Esto podría generar cargos a su cuenta de servicio."</string>  
   <string name="sync_one_time_sync">Tocar para sincronizar (%1$s)</string>
   <string name="text_pastelist">Portapapeles</string>
   <string name="unknown">Número desconocido</string>

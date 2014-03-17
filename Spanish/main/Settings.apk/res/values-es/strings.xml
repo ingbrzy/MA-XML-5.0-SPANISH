@@ -149,6 +149,7 @@
   <string name="app_not_found_dlg_title"  />
   <string name="app_notifications_switch_label">Mostrar notificaciones</string>
   <string name="app_process_limit_title">Límite de procesos en segundo plano</string>
+  <string name="app_uninstall_residual">Desela limpiar los archivos residuales generados por la desinstalación?</string>
   <string name="application_info_label">Información de la aplicación</string>
   <string name="application_size_label">Aplicación</string>
   <string name="applications_settings">Aplicaciones</string>
@@ -434,6 +435,7 @@
   <string name="builtin_keyboard_settings_summary">Ajustes del teclado físico</string>
   <string name="builtin_keyboard_settings_title">Teclado físico</string>
   <string name="button_light_timeout">Configración de la iluminación de los  botones</string>
+  <string name="button_start_optimize">Analizar</string>
   <string name="button_text_a_key_clean_up">Limpiar</string>
   <string name="button_text_a_key_optimize">Optmizar ahora</string>
   <string name="button_text_a_key_uninstall">Desinstalar</string>
@@ -466,10 +468,12 @@
   <string name="cdma_security_settings_summary">Establecer ubicación, bloqueo de pantalla y bloqueo de almacenamiento de credenciales</string>
   <string name="cell_broadcast_settings">Difusión celular</string>
   <string name="cell_broadcast_settings_summary">Selecciona el tipo de alertas de emergencia a mostrar.</string>
+  <string name="change_security_lock">Intente otras formas de desbloqueo</string>
   <string name="check_all">Marcar todo</string>
   <string name="check_nothing">Desmarcar todo</string>
   <string name="checkbox_notification_same_as_incoming_call">Utilizar volumen de llamada entrante para notificaciones</string>
   <string name="choose_timezone">Seleccionar zona horaria</string>
+  <string name="cleaner">Limpiador</string>
   <string name="cleaner_support_hints">Impulsado por Clean Master</string>
   <string name="clear_activities">Borrar valores predeterminados</string>
   <string name="clear_cache_btn_text">Borrar caché</string>
@@ -651,6 +655,7 @@
   <string name="device_internal_partition">Data/SD card:</string>
   <string name="device_memory">RAM:</string>
   <string name="device_name">Nombre del dispositivo</string>
+  <string name="device_name_input_hint">Escriba el nombre</string>
   <string name="device_name_usage_point">Mostrar este nombre cuando se establezca una conexión Bluetooth, tethering, etc.</string>
   <string name="device_picker">Elige un dispositivo Bluetooth</string>
   <string name="device_sd_memory">Tarjeta SD:</string>
@@ -888,7 +893,7 @@
   <string name="last_check_canceled">Análisis anterior cancelado</string>
   <string name="last_check_date_today">"Análisis más reciente: Hoy "</string>
   <string name="last_check_date_yesterday">"Análisis más reciente: Ayer "</string>
-  <string name="last_check_never_checked">Análisis recomendado (primera vez)</string>
+  <string name="last_check_never_checked">Se recomeinda realizar un análisis inicial</string>
   <string name="last_checked_default">El análisis más reciente fue %s días atrás</string>  
   <string name="last_synced">Ultima sincronización %1$s</string>
   <string name="launch_count_label">Número</string>
@@ -1036,6 +1041,12 @@
   <string name="memory_size">Espacio total</string>
   <string name="menu_cancel">Descartar</string>
   <string name="menu_delete">Eliminar APN</string>
+  <string name="menu_item_notification_title">Mostrar en persiana de notificación</string>
+  <string name="menu_item_notification_garbage_text_error">Error</string>
+  <string name="menu_item_notification_power_text">Batería</string>
+  <string name="menu_item_notification_antispam_text_normal">Spam</string>
+  <string name="menu_item_notification_antispam_text_avail">Spam</string>  
+  <string name="menu_item_settings_title">Configuración</string>
   <string name="menu_key">Tecla Menú</string>
   <string name="menu_new">APN nuevo</string>
   <string name="menu_restore">Valores predeterminados</string>
@@ -1065,6 +1076,7 @@
   <string name="multi_touch_points_preference">Reiniciar para habilitar</string>
   <string name="musicfx_title">Efectos de música</string>
   <string name="nearby_wifi">Redes Wi-Fi disponibles</string>
+  <string name="network_assistant">Uso de datos</string>
   <string name="network_detail">%s detalle de red</string>
   <string name="network_settings_title">Redes móviles</string>
   <string name="network_state_label">Estado Red:</string>
@@ -1126,6 +1138,7 @@ Nota: aplicaciones con dichos permisos podrán generar inestabilidad en el siste
   <string name="perm_su_enable_title">Permisos ROOT</string>
   <string name="perm_support_hints">Impulsado por LBE</string>
   <string name="permission_detail_info">Detalles de permisos</string>
+  <string name="permission_mgr">Permisos</string>
   <string name="permission_manage">Adminsitrar permisos</string>
   <string name="permission_manage_summary">Autoinicio, privacidad, adminsitración de permisos seguros</string>
   <string name="permission_manage_title">%s detalles de permisos</string>
@@ -1174,6 +1187,7 @@ Nota: aplicaciones con dichos permisos podrán generar inestabilidad en el siste
   <string name="power_customizer_user_define_summary">opciones definidas por el usuario</string>
   <string name="power_idle">Teléfono inactivo</string>
   <string name="power_key">Botón \"Power\"</string>
+  <string name="power_mgr">Batería</string>
   <string name="power_mode_chooser_button_text">aplicar</string>
   <string name="power_phone">Llamadas de voz</string>
   <string name="power_screen">Pantalla</string>
@@ -1316,6 +1330,9 @@ Nota: aplicaciones con dichos permisos podrán generar inestabilidad en el siste
   <string name="reset_app_preferences_button">Reiniciar apaplicaciones</string>
   <string name="reset_app_preferences_desc">"Se reiniciaran todas las preferencias de: "</string>
   <string name="reset_app_preferences_title">¿Reiniciar preferencias de aplicaciones?</string>
+  <string name="residual_cancel">Cancelar</string>
+  <string name="residual_clean">Limpiar</string>
+  <string name="residual_tips_hints">Archivos residuales encontrados en la SD: %s </string>
   <string name="restore_default_apn">Restaurando la configuración de APN predeterminada</string>
   <string name="restore_default_apn_completed">Se ha restablecido la configuración predeterminada de APN.</string>
   <string name="ring_volume_title">Volumen del timbre</string>
@@ -1775,7 +1792,7 @@ Nota: aplicaciones con dichos permisos podrán generar inestabilidad en el siste
   <string name="vibrate_in_silent_title">Vibrar en modo silencio</string>
   <string name="vibrate_on_ring_title">Sonido y vibración</string>
   <string name="vibrate_when_ringing_title">Vibrar con el timbre</string>
-  <string name="virus_scan">Análizador Antivirus</string>
+  <string name="virus_scan">Antivirus</string>
   <string name="virus_scan_app_continue">Continue scan</string>
   <string name="virus_scan_app_find_risk">%d es una amenaza, se recomienda que lo desinstales inmediatamente.</string>
   <string name="virus_scan_app_finish">Cerrar</string>

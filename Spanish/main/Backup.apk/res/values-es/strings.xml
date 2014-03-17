@@ -41,6 +41,9 @@
   <string name="cancel">Cancelar</string>
   <string name="cancel_backup">Cancelar</string>
   <string name="cancel_restore">Cancelar</string>
+  <string name="cloud_app_backup_title">Respandar en Mi Cloud</string>  
+  <string name="cloud_app_backup_summary">Respaldar automáticamente las apps y los datos de usuario meintras el teléfono se esté cargando y se encuentre conectado a la WLAN</string>  
+  <string name="cloud_app_function_summary">Cuando el respaldo se hace en Mi Cloud, este puede ser restaurado rápidamente en cualqueir dispositivo</string>
   <string name="cloud_app_name">MIUI Backup Online</string>
   <string name="cloud_backup_hint">Inicie sesión para almacenar de forma segura las copias de seguridad</string>
   <string name="cloud_backup_login">Ingresa cuenta MIUI</string>

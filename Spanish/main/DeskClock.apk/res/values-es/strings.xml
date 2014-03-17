@@ -64,6 +64,7 @@
     <string name="keep_screen_on">Pantalla encendida</string>
     <string name="label">Etiqueta a mostrar</string>
     <string name="lap">Lap</string>
+	 <string name="legal_workday_message">" (A excepción de los días festivos)"</string>
     <string name="loading_ringtone">Cargando tono...</string>
     <string name="menu_add_worldclock">Añadir zona horaria</string>
     <string name="menu_alarmclock_edit">Suprimir alarma</string>

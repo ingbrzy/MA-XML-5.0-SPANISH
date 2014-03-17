@@ -334,4 +334,9 @@
 		<item>Ve iniciando la reunión sin mi.</item>
 		<item>"Lo siento, no pude evitarlo. Debemos agendar de nuevo nuestra cita."</item>
 	</string-array>    
+    <string-array name="widget_style_list">
+        <item>Negro Transparente</item>
+        <item>Fondo blanco</item>
+    </string-array>
+	
 </resources>

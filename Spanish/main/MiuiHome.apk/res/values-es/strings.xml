@@ -53,13 +53,15 @@
   <string name="home_indicator">bottom_point</string>
   <string name="install">Instalar</string>
   <string name="invalid_contact_shortcut">Acceso directo de contacto no válido</string>
-  <string name="loading_desktop">Cargando lanzador...</string>
+  <string name="loading_desktop">Preparando el escritorio...</string>
+  <string name="maml_component_customization_title">Ajustes</string>
   <string name="menu_add">Añadir</string>
   <string name="menu_back_desktop">Volver al escritorio</string>
   <string name="menu_edit">Modificar escritorio</string>
   <string name="menu_exit_scene">Salir de Free Desktop</string>
   <string name="menu_item_add_item">Añadir al escritorio</string>
   <string name="menu_launcher_setting">Ajustes del Launcher</string>
+  <string name="menu_picktheme">Seleccionar un Tema</string>
   <string name="menu_reset_scene">Volvera escena predeterminada</string>
   <string name="menu_search">Buscar</string>
   <string name="menu_settings">Ajustes</string>
