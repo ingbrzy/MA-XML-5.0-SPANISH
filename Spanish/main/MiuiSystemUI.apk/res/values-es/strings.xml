@@ -106,7 +106,7 @@
   <string name="ext_media_safe_unmount_notification_title">Retirar el almacenamiento USB</string>
   <string name="ext_media_unmountable_notification_message">El almacenamiento USB está dañado. Podría recuperarse para su uso con un formateo.</string>
   <string name="ext_media_unmountable_notification_title">Almacenamiento USB dañado</string>
-  <string name="filter_item_description">Para configurar las notificaciones, Vaya a la Configuración General > Notificaciones > Adminsitrar notificaciones</string>
+  <string name="filter_item_description">Para configurar las notificaciones, Vaya a la Configuración General > Notificaciones > Administrar notificaciones</string>
   <string name="filter_item_preview_image">Previsualización</string>
   <string name="gps_notification_found_text">Ubicación definida por GPS</string>
   <string name="gps_notification_searching_text">Buscando GPS</string>
