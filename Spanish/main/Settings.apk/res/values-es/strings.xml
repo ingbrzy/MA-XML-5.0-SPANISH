@@ -1430,9 +1430,9 @@ Nota: aplicaciones con dichos permisos podrán generar inestabilidad en el siste
   <string name="search_settings">Búsqueda</string>
   <string name="search_settings_summary">Administrar historial y configuración de búsqueda</string>
   <string name="search_silent">silencio</string>
-  <string name="search_sms_received">sms recividos</string>
+  <string name="search_sms_received">sms recibidos</string>
   <string name="search_status_bar">barra de estado</string>
-  <string name="search_sync">synsincronizarc</string>
+  <string name="search_sync">sincronizar</string>
   <string name="search_tether">tether</string>
   <string name="search_unlock_set">desbloqueo</string>
   <string name="search_vpn">vpn</string>
