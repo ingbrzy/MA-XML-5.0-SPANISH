@@ -120,10 +120,10 @@
   <string name="unknown_free_traffic_text">No conoces tu paquete de datos?</string>
   <string name="unknown_free_traffic_title">Instrucciones</string>
   <string name="unknown_location">No establecido</string>
-  <string name="unknown_traffic_hint">Paquete de datos desconocido, desea establecerlo?</string>
+  <string name="unknown_traffic_hint">Paquete de datos desconocido, ¿desea establecerlo?</string>
   <string name="unknown_version">Versión desconocida</string>
   <string name="update_fail">Actualización fallida</string>
-  <string name="update_no_network">Failed to update, please check network connection.</string>
+  <string name="update_no_network">Fallo al actualizar,por favor compruebe su conexión de red.</string>
   <string name="update_success">Actualización correcta</string>
   <string name="updating">Actualizando...</string>
   <string name="used_flux">Control de consumo</string>
