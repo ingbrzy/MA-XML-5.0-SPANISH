@@ -893,7 +893,7 @@
   <string name="last_check_canceled">Análisis anterior cancelado</string>
   <string name="last_check_date_today">"Análisis más reciente: Hoy "</string>
   <string name="last_check_date_yesterday">"Análisis más reciente: Ayer "</string>
-  <string name="last_check_never_checked">Se recomeinda realizar un análisis inicial</string>
+  <string name="last_check_never_checked">Se recomienda realizar un análisis inicial</string>
   <string name="last_checked_default">El análisis más reciente fue %s días atrás</string>  
   <string name="last_synced">Ultima sincronización %1$s</string>
   <string name="launch_count_label">Número</string>
@@ -1099,7 +1099,7 @@
   <string name="notification_pulse_title">Luz de notificación</string>
   <string name="notification_sound_dialog_title">Elegir tono de notificación</string>
   <string name="notification_sound_title">Tono de notificación</string>
-  <string name="notification_summary_of_garbage_cleanup">Ojo! Los datos residuales superan los %s. Se recomeinda hacer una limpieza.</string>  
+  <string name="notification_summary_of_garbage_cleanup">Atención! Los datos residuales superan los %s. Se recomienda hacer una limpieza.</string>  
   <string name="notification_title_of_garbage_cleanup">Archivos residuales detectados</string>  
   <string name="notification_vibrate_abbreviation">Notificación</string>
   <string name="notification_volume_title">Notificación</string>
