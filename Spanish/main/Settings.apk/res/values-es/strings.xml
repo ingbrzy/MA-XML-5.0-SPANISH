@@ -776,8 +776,8 @@
   <string name="finish_application">Terminar</string>
   <string name="finish_button_label">Finalizar</string>
   <string name="firmware_version">Versión de Android:</string>
-  <string name="floating_window_switch_label">Mostrar ventajans emerjentes</string>
-  <string name="font_size_huge">Enomre</string>
+  <string name="floating_window_switch_label">Mostrar ventanas emergentes</string>
+  <string name="font_size_huge">Enorme</string>
   <string name="font_size_large">Grande</string>
   <string name="font_size_medium">Medio</string>
   <string name="font_size_normal">Normal</string>
@@ -785,7 +785,7 @@
   <string name="font_size_preview_text">Sirva este señor una cerveza y kiwis.</string>
   <string name="font_size_save">Aceptar</string>
   <string name="font_size_small">Pequeño</string>
-  <string name="font_size_summary">Ajusta el tamaño de fuentes de aplicaciones como por ejemplo; Telefono, Mensajeria, Contactos, etc, para incrementar la facilidad de lectura y usabilidad.</string>
+  <string name="font_size_summary">Ajusta el tamaño de fuentes de aplicaciones como por ejemplo; Teléfono, Mensajeria, Contactos, etc, para incrementar la facilidad de lectura y usabilidad.</string>
   <string name="force_hw_ui">Forzar aceleración GPU</string>
   <string name="force_hw_ui_summary">Usar aceleración de hardware 2D en aplicaciones</string>
   <string name="force_stop">Forzar detención</string>
@@ -1139,7 +1139,7 @@ Nota: aplicaciones con dichos permisos podrán generar inestabilidad en el siste
   <string name="perm_support_hints">Impulsado por LBE</string>
   <string name="permission_detail_info">Detalles de permisos</string>
   <string name="permission_mgr">Permisos</string>
-  <string name="permission_manage">Adminsitrar permisos</string>
+  <string name="permission_manage">Administrar permisos</string>
   <string name="permission_manage_summary">Autoinicio, privacidad, adminsitración de permisos seguros</string>
   <string name="permission_manage_title">%s detalles de permisos</string>
   <string name="permissions_label">Permisos</string>
