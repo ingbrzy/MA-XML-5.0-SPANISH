@@ -434,14 +434,14 @@
   <string name="build_number">Compilación (LordStenka)</string>
   <string name="builtin_keyboard_settings_summary">Ajustes del teclado físico</string>
   <string name="builtin_keyboard_settings_title">Teclado físico</string>
-  <string name="button_light_timeout">Configración de la iluminación de los  botones</string>
+  <string name="button_light_timeout">Configuración de la iluminación de los botones</string>
   <string name="button_start_optimize">Analizar</string>
   <string name="button_text_a_key_clean_up">Limpiar</string>
-  <string name="button_text_a_key_optimize">Optmizar ahora</string>
+  <string name="button_text_a_key_optimize">Optimizar ahora</string>
   <string name="button_text_a_key_uninstall">Desinstalar</string>
   <string name="button_text_cancel">Cancelar</string>  
   <string name="button_text_done">Hecho</string>
-  <string name="button_text_quick_scan">Inicar análisis</string>
+  <string name="button_text_quick_scan">Iniciar análisis</string>
   <string name="cache_header_label">Caché</string>
   <string name="cache_size_label">Caché</string>
   <string name="cached">Proceso en segundo plano en caché</string>
