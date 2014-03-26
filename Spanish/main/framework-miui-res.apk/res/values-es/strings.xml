@@ -100,7 +100,7 @@ Memoria disponible %2$s"</string>
   <string name="private_num">Número Privado</string>
   <string name="processing">Procesando...</string>
   <string name="reboot_confirm">El teléfono se reiniciará</string>
-  <string name="reboot_confirm_title">Seguro quiere reinicar su teléfono?</string>
+  <string name="reboot_confirm_title">¿Seguro quiere reiniciar su teléfono?</string>
   <string name="reboot_progress">Reiniciando...</string>
   <string name="resource_alarm_default">Alarma</string>
   <string name="resource_apply">Aplicar</string>
