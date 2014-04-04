@@ -15,7 +15,6 @@
     </string-array>
     <string-array name="pref_homepage_choices">
         <item>MIUI home</item>
-        <item>Sitios más visitados</item>
         <item>Otra</item>
     </string-array>
     <string-array name="pref_text_size_choices">
@@ -58,8 +57,6 @@
         <item>Desktop</item>
         <item>iPhone</item>
         <item>iPad</item>
-        <item>Froyo-N1</item>
-        <item>Honeycomb-Xoom</item>
     </string-array>
     <string-array name="pref_volume_key_choices">
         <item>Subir/Bajar Página</item>
