@@ -17,7 +17,7 @@
   <string name="backup">Respaldar</string>
   <string name="backup_delete">Eliminado:</string>
   <string name="backup_empty">No hay backups disponibles</string>
-  <string name="backup_empty_info">Respalde sus datos, preferencias y aplicaciones</string>
+  <string name="backup_empty_info">" Respalde sus datos, preferencias y aplicaciones"</string>
   <string name="backup_error">Error en la copia de seguridad</string>
   <string name="backup_failed">Copia de seguridad fallida, inténtalo de nuevo</string>
   <string name="backup_file_error">Error, el archivo de copia de seguridad ya existe</string>
