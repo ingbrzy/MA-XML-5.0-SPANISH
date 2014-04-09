@@ -89,9 +89,6 @@
     <string name="transfer_menu_open">Abrir</string>
     <string name="transfer_menu_clear">Borrar de la lista</string>
     <string name="transfer_clear_dlg_title">Borrar</string>
-    <string name="bluetooth_share_file_name">bluetooth_content_share</string>
-    <string name="sharedUserId" />
-    <string name="process" />
     <string name="pbap_session_key_dialog_title">Introducir clave de sesión para %1$s</string>
     <string name="pbap_session_key_dialog_header">Se necesita la clave de sesión de Bluetooth.</string>
     <string name="pbap_acceptance_timeout_message">Se ha agotado el tiempo para aceptar la conexión con %1$s.</string>

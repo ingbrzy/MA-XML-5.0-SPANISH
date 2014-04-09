@@ -117,9 +117,6 @@
     <string name="no_syncable_calendars">No hay calendarios sincronizados</string>
     <string name="no_title_label">(Sin título)</string>
     <string name="not_synced">no sincronizado</string>
-    <string name="prefDefault_alerts_vibrateWhen">Nunca</string>
-    <string name="prefDefault_alerts_vibrate_false">Nunca</string>
-    <string name="prefDefault_alerts_vibrate_true">Siempre</string>
     <string name="prefDialogTitle_vibrateWhen">Vibrar</string>
     <string name="preferences_about_title">Acerca de</string>
     <string name="preferences_alerts_popup_title">Notificación Pop-up</string>
