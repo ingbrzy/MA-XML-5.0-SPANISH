@@ -289,18 +289,6 @@
         <item>8 segundos</item>
         <item>9 segundos</item>
     </string-array>
-    <string-array name="led_color_entries">
-        <item>Blanco</item>
-        <item>Verde</item>
-        <item>Rojo</item>
-        <item>Azul</item>
-        <item>Amarillo</item>
-        <item>Cyan</item>
-        <item>Magenta</item>
-        <item>Rosa</item>
-        <item>Naranja</item>
-        <item>Zafiro</item>
-    </string-array>
     <string-array name="back_long_press_timeout">
         <item>0.5 segundos</item>
         <item>1 segundo</item>
@@ -314,16 +302,5 @@
         <item>10 segundos</item>
         <item>20 segundos</item>
         <item>Siempre</item>
-    </string-array>
-    <string-array name="led_color_entries_for_mione">
-        <item>Azul</item>
-        <item>Rojo</item>
-        <item>Verde</item>
-        <item>Rosa</item>
-        <item>Violeta</item>
-        <item>Purpura</item>
-        <item>Esmeralda</item>
-        <item>Cyan</item>
-        <item>Zafiro</item>
     </string-array>
 </resources>
