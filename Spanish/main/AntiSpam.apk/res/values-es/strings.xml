@@ -88,7 +88,9 @@
   <string name="fw_blacklist">Lista negra</string>
   <string name="fw_blacklist_hint">Añade aquí los números que deseas bloquear. Las llamadas y mensajes serán bloqueados automáticamente según la configuración predeterminada.</string>
   <string name="fw_blocked">Aviso de bloqueos realizados</string>
-  <string formatted="false" name="fw_blocked_count">%d llamadas y %d mensajes</string>
+  <string name="fw_blocked_count">Blocked:</string>
+  <string name="fw_blocked_count_call">%d llamadas y</string>
+  <string name="fw_blocked_count_sms">%d mensajes</string>
   <string formatted="false" name="fw_call">Teléfono a bloquear： %s (%d)</string>
   <string name="fw_call_muted">Llamadas silenciadas</string>
   <string name="fw_call_rejected">Llamadas bloqueadas</string>
