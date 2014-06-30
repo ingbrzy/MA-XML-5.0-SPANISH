@@ -1838,7 +1838,7 @@ Nota: aplicaciones con dichos permisos podrán generar inestabilidad en el siste
   <string name="volume_notification_description">Notificaciones</string>
   <string name="volume_notification_mute">Silenciar notificaciones</string>
   <string name="volume_restore">Restaurar volumen</string>
-  <string name="volume_restore_alert">Los ajustes del volumen serán reseteados. ¿estás seguro?</string>
+  <string name="volume_restore_alert">Los ajustes del volumen serán restaurados. ¿estás seguro?</string>
   <string name="volume_ring_description">Tonos y notificaciones</string>
   <string name="volume_system_description">Volumen del sistema</string>
   <string name="volume_voice_description">Volumen de voz</string>
@@ -1948,7 +1948,7 @@ Nota: aplicaciones con dichos permisos podrán generar inestabilidad en el siste
   <string name="wifi_on_time">Tiempo de conexión WiFi</string>
   <string name="wifi_p2p_available_devices">Dispositivos disponibles</string>
   <string name="wifi_p2p_device_info">Información del dispositivo</string>
-  <string name="wifi_p2p_disconnect_message">sí te desconectas, tu conexión con %1$s finalizará.</string>
+  <string name="wifi_p2p_disconnect_message">Sí te desconectas, tu conexión con %1$s finalizará.</string>
   <string name="wifi_p2p_disconnect_multiple_message">Si te desconectas, tu conexión con %1$s y %2$s y el resto de dispositivos finalizará.</string>
   <string name="wifi_p2p_disconnect_title">¿Desconectar?</string>
   <string name="wifi_p2p_failed_connect_message">"No se ha podido conectar."</string>
