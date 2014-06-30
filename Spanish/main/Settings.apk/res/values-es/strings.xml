@@ -2109,7 +2109,7 @@ Nota: aplicaciones con dichos permisos podrán generar inestabilidad en el siste
   <string name="wifi_wapi_cert_uninstall_button">Eliminar</string>
   <string name="wifi_wapi_certification_dont_exist">La clave introducida no es correcta. Vuelva a intentarlo.</string>
   <string name="wifi_wapi_fail_to_auth">"Autentificación WAPI ha fallado. Por favor comprueba la validez de los certificados"</string>
-  <string name="wifi_wapi_fail_to_init">"No es posible abrir los certificados WAPI. El almacenamineto de credenciales podría no estar disponible"</string>
+  <string name="wifi_wapi_fail_to_init">"No es posible abrir los certificados WAPI. El almacenamiento de credenciales podría no estar disponible"</string>
   <string name="wifi_wapi_psk_type">Contraseña</string>
   <string name="wifi_wapi_user_cert">Certificado WAPI User</string>
   <string name="wifi_wapi_user_certificate">Certificado User</string>
