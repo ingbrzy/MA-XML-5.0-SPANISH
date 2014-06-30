@@ -1119,7 +1119,7 @@
   <string name="packages_subtitle">Paquetes incluidos</string>
   <string name="password_guard">Seguridad</string>
   <string name="percentage">%d%%</string>
-  <string name="perm_enable">Habilitar el administrador  de permisos</string>
+  <string name="perm_enable">Habilitar el administrador de permisos</string>
   <string name="perm_header">Monitoreando %1$d apps</string>
   <string name="perm_header_disabled">Monitor de permisos deshabilitado</string>
   <string name="perm_hips">Gestionar Permisos de Aplicaciones</string>
@@ -1397,7 +1397,7 @@ Nota: aplicaciones con dichos permisos podrán generar inestabilidad en el siste
   <string name="sd_memory">Tarjeta SD</string>
   <string name="sd_mount">Activar tarjeta SD</string>
   <string name="sd_mount_summary"  />
-  <string name="sdcard_changes_instructions">Los cambios se aplican cuando se vuelve a conectar el cable USB.</string>
+  <string name="sdcard_changes_instructions">Los cambios se aplicaran cuando se vuelva a conectar el cable USB.</string>
   <string name="sdcard_format">Borrar tarjeta SD</string>
   <string name="sdcard_setting">Tarjeta SD</string>
   <string name="sdcard_settings_available_bytes_label">Bytes disponibles:</string>
@@ -1417,7 +1417,7 @@ Nota: aplicaciones con dichos permisos podrán generar inestabilidad en el siste
   <string name="search_airplane">avión</string>
   <string name="search_android_beam">beam</string>
   <string name="search_battery_indicator">indicador de batería</string>
-  <string name="search_bluetooth">blutooth</string>
+  <string name="search_bluetooth">bluetooth</string>
   <string name="search_brightness">brillo</string>
   <string name="search_date_time">fecha y hora</string>
   <string name="search_description">Realizar búsqueda en ajustes</string>
@@ -1838,7 +1838,7 @@ Nota: aplicaciones con dichos permisos podrán generar inestabilidad en el siste
   <string name="volume_notification_description">Notificaciones</string>
   <string name="volume_notification_mute">Silenciar notificaciones</string>
   <string name="volume_restore">Restaurar volumen</string>
-  <string name="volume_restore_alert">Los ajustes del volumen serán reseteados. ¿estás seguro?</string>
+  <string name="volume_restore_alert">Los ajustes del volumen serán restaurados. ¿estás seguro?</string>
   <string name="volume_ring_description">Tonos y notificaciones</string>
   <string name="volume_system_description">Volumen del sistema</string>
   <string name="volume_voice_description">Volumen de voz</string>
@@ -1856,7 +1856,7 @@ Nota: aplicaciones con dichos permisos podrán generar inestabilidad en el siste
   <string name="vpn_l2tp_secret">L2TP secreto</string>
   <string name="vpn_menu_delete">Eliminar red</string>
   <string name="vpn_menu_edit">Editar red</string>
-  <string name="vpn_missing_cert">A certificate is missing. Please edit the profile.</string>
+  <string name="vpn_missing_cert">No se encuentra el certificado. Por favor edite el perfil.</string>
   <string name="vpn_mppe">Encriptación de PPP (MPPE)</string>
   <string name="vpn_name">Nombre</string>
   <string name="vpn_no_ca_cert">(no verificar servidor)</string>
@@ -1948,7 +1948,7 @@ Nota: aplicaciones con dichos permisos podrán generar inestabilidad en el siste
   <string name="wifi_on_time">Tiempo de conexión WiFi</string>
   <string name="wifi_p2p_available_devices">Dispositivos disponibles</string>
   <string name="wifi_p2p_device_info">Información del dispositivo</string>
-  <string name="wifi_p2p_disconnect_message">sí te desconectas, tu conexión con %1$s finalizará.</string>
+  <string name="wifi_p2p_disconnect_message">Sí te desconectas, tu conexión con %1$s finalizará.</string>
   <string name="wifi_p2p_disconnect_multiple_message">Si te desconectas, tu conexión con %1$s y %2$s y el resto de dispositivos finalizará.</string>
   <string name="wifi_p2p_disconnect_title">¿Desconectar?</string>
   <string name="wifi_p2p_failed_connect_message">"No se ha podido conectar."</string>
@@ -2109,7 +2109,7 @@ Nota: aplicaciones con dichos permisos podrán generar inestabilidad en el siste
   <string name="wifi_wapi_cert_uninstall_button">Eliminar</string>
   <string name="wifi_wapi_certification_dont_exist">La clave introducida no es correcta. Vuelva a intentarlo.</string>
   <string name="wifi_wapi_fail_to_auth">"Autentificación WAPI ha fallado. Por favor comprueba la validez de los certificados"</string>
-  <string name="wifi_wapi_fail_to_init">"No es posible abrir los certificados WAPI. El almacenamineto de credenciales podría no estar disponible"</string>
+  <string name="wifi_wapi_fail_to_init">"No es posible abrir los certificados WAPI. El almacenamiento de credenciales podría no estar disponible"</string>
   <string name="wifi_wapi_psk_type">Contraseña</string>
   <string name="wifi_wapi_user_cert">Certificado WAPI User</string>
   <string name="wifi_wapi_user_certificate">Certificado User</string>
