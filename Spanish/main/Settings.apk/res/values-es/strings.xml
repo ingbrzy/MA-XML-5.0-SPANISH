@@ -1237,6 +1237,7 @@ Esta configuración afecta a todos los usuarios de este teléfono."</string>
     <string name="date_time_date_format">Formato de fecha</string>
     <string name="zone_list_menu_sort_alphabetically">Ordenar alfabéticamente</string>
     <string name="zone_list_menu_sort_by_timezone">Ordenar por zona horaria</string>
+	<string name="add_auto_startup_application">Añadir aplicación</string>
     <string name="date_picker_title">Fecha</string>
     <string name="time_picker_title">Hora</string>
     <string name="biometric_weak_improve_matching_title">Mejorar el reconocimiento facial</string>
@@ -3564,7 +3565,6 @@ Enlace de descarga:http://miui.com/mac"</string>
     <string name="color_calibration_none">Nativo</string>
     <string name="title_hdmi_color_calibration">Preset de corrección de color</string>
     <string name="dialog_title_hdmi_color_calibration">Preset de corrección de color</string>
-
     <string name="hdmi_color_calibration_none">Nativo</string>
     <string name="hdmi_3d_display_enable_title">Pantalla 3D</string>
     <string name="hdmi_3d_display_enable_summary">Activar el soporte 3D en los juegos</string>
@@ -3590,7 +3590,6 @@ Enlace de descarga:http://miui.com/mac"</string>
     <string name="free_wifi_manage_summary">Pulse para ver %1$s.</string>
     <string name="free_wifi_connect_dialog_title">Wi-Fi gratis disponible</string>
     <string name="free_wifi_connect_dialog_summary">Esta red Wi-Fi gratuita %1$s está suministrada en parte por %2$s.</string>
-
     <string name="free_wifi_connect">Conectar</string>
     <string name="free_wifi_connecting">Conectando…</string>
     <string name="free_wifi_connected">Conectado a una red Wi-Fi gratuita</string>
@@ -3610,7 +3609,6 @@ Enlace de descarga:http://miui.com/mac"</string>
     <string name="restrict_background_data_dialog_summary">Las apps que se ejecutan en 2º plano no pueden recibir mensajes, ¿está seguro de restringir los datos?</string>
     <string name="restrict_background_data_notification_summary">Las apps no pueden conectarse a la red si los datos en 2º plano están restringidos</string>
     <string name="accessibility_screen_magnification_enable">Gestos de ampliación</string>
-
     <string name="miui_screensaver_title">Salvapantallas</string>
     <string name="activate_miui_screensaver">Salvapantalla durante modo dormir</string>
     <string name="picture_source">Fuente de imágenes</string>
