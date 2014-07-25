@@ -31,7 +31,6 @@
     <string-array name="power_dialog_cpu_state_items">
         <item>Alto rendimiento</item>
         <item>Balanceado</item>
-        <item>Ahorro batería</item>
     </string-array>
     <string-array name="power_dialog_vibration_items">
         <item>No vibrar</item>
