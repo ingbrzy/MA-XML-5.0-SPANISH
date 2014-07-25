@@ -194,26 +194,13 @@
     <string name="pref_accessibility_title">Accesibilidad</string>
     <string name="pref_font_size_category">Tamaño de la letra</string>
     <string name="pref_data_preload_title">Precargar búsquedas</string>
-    <string name="pref_data_preload_value_never">NEVER</string>
-    <string name="pref_data_preload_value_wifi_only">WIFI_ONLY</string>
-    <string name="pref_data_preload_value_always">ALWAYS</string>
-    <string name="pref_data_preload_default_value">@string/pref_data_preload_value_wifi_only</string>
     <string name="pref_data_preload_dialogtitle">Precargar búsquedas</string>
     <string name="pref_link_prefetch_title">Precargando Web</string>
-    <string name="pref_link_prefetch_value_never">NEVER</string>
-    <string name="pref_link_prefetch_value_wifi_only">WIFI_ONLY</string>
-    <string name="pref_link_prefetch_value_always">ALWAYS</string>
-    <string name="pref_link_prefetch_default_value">@string/pref_link_prefetch_value_wifi_only</string>
     <string name="pref_link_prefetch_dialogtitle">Precargando de página web</string>
     <string name="pref_video_preload_title">Precargar vídeos</string>
-    <string name="pref_video_preload_value_never">NEVER</string>
-    <string name="pref_video_preload_value_wifi_only">WIFI_ONLY</string>
-    <string name="pref_video_preload_value_always">ALWAYS</string>
-    <string name="pref_video_preload_default_value">@string/pref_video_preload_value_wifi_only</string>
     <string name="pref_video_preload_dialogtitle">Precargando vídeo</string>
     <string name="browserFrameNetworkErrorLabel">Error de conexión</string>
     <string name="browserFrameFileErrorLabel">Error de archivo</string>
-    <string name="browserFrameFormResubmitLabel" />
     <string name="browserFrameFormResubmitMessage">La página que intenta ver contiene datos que ya se han enviado (\"POSTDATA\"). Si vuelves a enviarlos, se repetirá cualquier acción que haya hecho el formulario en la página (por ejemplo, búsquedas o compras online).</string>
     <string name="add_new_bookmark">Añadir marcador</string>
     <string name="search_label">Navegador</string>
@@ -229,7 +216,6 @@
     <string name="cannot_download">Sólo se pueden descargar URL del tipo \"http\" o \"https\" URLs</string>
     <string name="download_pending">Iniciando descarga…</string>
     <string name="dump_nav">Volcado caché de navegación</string>
-    <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
     <string name="webstorage_outofspace_notification_title">Espacio de almacenamiento del navegador agotado</string>
     <string name="webstorage_outofspace_notification_text">Toca para liberar espacio.</string>
     <string name="webstorage_clear_data_title">Borrar datos almacenados</string>
@@ -257,7 +243,6 @@
     <string name="error_console_eval_text_hint">Evaluar JavaScript</string>
     <string name="error_console_eval_button_text">Evaluar</string>
     <string name="empty_bookmarks_folder">No hay marcadores</string>
-    <string name="rlz_access_point">Y1</string>
     <string name="preview">Previsualización</string>
     <string name="ua_switcher_desktop">Ver como en ordenador</string>
     <string name="permission_preload_label">Precargar resultados</string>
@@ -321,14 +306,12 @@
     <string name="general_set_default_browser_dialog_ok_txt">Confirmar</string>
     <string name="pref_exit_on_closing_last_tab_enabled_title">Salir y cerrar última pestaña</string>
     <string name="url_hint">Busca o introduce una URL</string>
-    <string name="search_hint">Search</string>
     <string name="contextmenu_download_image_as">Guardar imagen</string>
     <string name="pref_extras_reset_default_title">Restablecer valores predeterminados</string>
     <string name="pref_extras_reset_default">Restablecer valores predeterminados</string>
     <string name="pref_extras_reset_default_dlg">¿Restablecer valores predeterminados?</string>
     <string name="pref_ua_title">Gestionar agente de usuario</string>
     <string name="pref_ua_string">Cadena de agente de usuario</string>
-    <string name="pref_ua_mione_entry">MiOne</string>
     <string name="pref_content_search_engine">Asigne el buscador en la parte superior</string>
     <string name="pref_reading_mode_enabled_title">Modo lectura</string>
     <string name="pref_reading_mode_enabled_title_summary">JavaScript necesita ser habilitado</string>
@@ -360,18 +343,6 @@
     <string name="search_cancel">Cancelar</string>
     <string name="search">Buscar</string>
     <string name="clear_search_history">Limpiar historial</string>
-    <string name="search_baidu">Baidu</string>
-    <string name="search_sogou">Sogou</string>
-    <string name="search_google">Google</string>
-    <string name="search_yahoo">Yahoo!</string>
-    <string name="search_bing">Bing</string>
-    <string name="search_s139">139</string>
-    <string name="search_taobao">Taobao</string>
-    <string name="search_yicha">Yicha</string>
-    <string name="search_easou">Easou</string>
-    <string name="search_dianping">Cate</string>
-    <string name="search_shipin">Vídeo</string>
-    <string name="search_tupian">Imagen</string>
     <string name="MIUI_startpage">Página de inicio</string>
     <string name="find_on_page">Buscar en la página</string>
     <string name="url_copy_done">Url copiada al portapapeles.</string>
@@ -406,7 +377,7 @@
     <string name="pref_content_open_in_background_summary">Abrir una nueva pestaña al lado de la pestaña actual</string>
     <string name="too_many_windows_dialog_title">Alcanzó el límite de pestañas abiertas</string>
     <string name="too_many_windows_dialog_message">El navegador no puede abrir otra pestaña hasta que cierre alguna de las actuales</string>
-    <string name="max_tabs_warning">Tab limit reached</string>
+    <string name="max_tabs_warning">Se ha alcanzado el límite de pestañas abiertas</string>
     <string name="notif_install_successful">Descarga completada</string>
     <string name="in_incognito">¡Está en modo incógnito! Las páginas que vea no guardarán info en el historial de navegación.</string>
     <string name="alert_tips">Este sitio podría tener un riesgo de seguridad</string>
@@ -566,7 +537,7 @@
     <string name="webview_js_dialog_before_unload_negative_button">Permanecer en esta página</string>
     <string name="webview_js_dialog_before_unload">"%s
 
-Are you sure you want to navigate away from this page?"</string>
+¿Estás seguro de salir de esta página??"</string>
     <string name="webview_ok">OK</string>
     <string name="webview_cancel">Cancelar</string>
     <string name="webview_js_dialog_title">La página en \"%s\" dice:</string>
@@ -602,7 +573,7 @@ Are you sure you want to navigate away from this page?"</string>
     <string name="readmode_already_add_to_bookshelf">Añadido a marcadores.</string>
     <string name="readmode_login_message">Necesitarás acceder para saber más.</string>
     <string name="readmode_pay_message">Necesitarás pagar para poder leer más secciones.</string>
-    <string name="readmode_recommend_message">Ya has leido este libro. :)</string>
+    <string name="readmode_recommend_message">Ya has leido este libro.</string>
     <string name="readmode_login">Acceder</string>
     <string name="readmode_pay">Comprar sección</string>
     <string name="readmode_recommend">Vista recomendada</string>
@@ -613,20 +584,9 @@ Are you sure you want to navigate away from this page?"</string>
     <string name="dump_dom_tree">Volcar árbol DOM al archivo</string>
     <string name="dump_render_tree">Volcar árbol renderizado al ábrol</string>
     <string name="dump_display_tree">Volcar árbol al archivo</string>
-    <string name="pref_images_preload_value_never">0</string>
-    <string name="pref_images_preload_value_wifi_only">1</string>
-    <string name="pref_images_preload_value_always">2</string>
-    <string name="pref_images_preload_default_value">@string/pref_images_preload_value_always</string>
-    <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
-    <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
-    <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
-    <string name="common_use_phrase_bottom_bar_point_txt">.</string>
-    <string name="common_use_phrase_bottom_bar_slash_txt">/</string>
-    <string name="common_use_phrase_bottom_bar_net_txt">.net</string>
-    <string name="common_use_phrase_bottom_bar_org_txt">.org</string>
     <string name="common_use_phrase_bottom_bar_paste_analytic_txt">Pegar</string>
-    <string name="common_use_phrase_bottom_bar_up_analytic_txt">Expand</string>
-    <string name="common_use_phrase_bottom_bar_down_analytic_txt">Collapse</string>
+    <string name="common_use_phrase_bottom_bar_up_analytic_txt">Expandir</string>
+    <string name="common_use_phrase_bottom_bar_down_analytic_txt">Colapsar</string>
     <string name="cloud_sync_failed_toast">Fallo al actualizar, vuelva a intentarlo más tarde</string>
     <string name="cloud_sync_closed_toast">La sincronización en la nube está desactivada, no es posible actualizar</string>
     <string name="close_cloud_tab_tip">¿Cerrar las pestañas en la nube de %s ?</string>
@@ -655,48 +615,6 @@ Are you sure you want to navigate away from this page?"</string>
     <string name="webapp_menu_exit">Salir</string>
     <string name="webapp_settings_title">Ajustes</string>
     <string name="pref_webapp_settings_fontsize">Tamaño de le fuente</string>
-    <string name="pref_webapp_settings_savewidth">No se puede descargar imágenes desde 2G/3G</string>
+    <string name="pref_webapp_settings_savewidth">No se puede descargar imágenes desde los datos móviles</string>
     <string name="pref_webapp_settings_hidebottombar">Ocultar siempre la barra inferior</string>
-    <string name="webapp_autohority">miui.mibrowser.webapps;mibrowser</string>
-    <string name="webapp_app0">miui.browser.webapps.app.WebApps$App0</string>
-    <string name="webapp_app1">miui.browser.webapps.app.WebApps$App1</string>
-    <string name="webapp_app2">miui.browser.webapps.app.WebApps$App2</string>
-    <string name="webapp_app3">miui.browser.webapps.app.WebApps$App3</string>
-    <string name="webapp_app4">miui.browser.webapps.app.WebApps$App4</string>
-    <string name="webapp_app5">miui.browser.webapps.app.WebApps$App5</string>
-    <string name="webapp_pref_addtodesktop_popover">webapp_pref_addtodesktop_popover</string>
-    <string name="pref_webapp_settings_fontsize_key">pref_webapp_settings_fontsize_key</string>
-    <string name="pref_webapp_settings_nightmode_key">pref_webapp_settings_nightmode_key</string>
-    <string name="pref_webapp_settings_savewidth_key">pref_webapp_settings_savewidth_key</string>
-    <string name="pref_webapp_settings_hidebottombar_key">pref_webapp_settings_hidebottombar_key</string>
-    <string name="pref_webapp_settings_wifisave_key">pref_webapp_settings_wifisave_key</string>
-    <item type="string" name="APKTOOL_DUMMY_02f6">false</item>
-    <item type="string" name="APKTOOL_DUMMY_02f7">false</item>
-    <item type="string" name="APKTOOL_DUMMY_02f8">false</item>
-    <item type="string" name="APKTOOL_DUMMY_02f9">false</item>
-    <item type="string" name="APKTOOL_DUMMY_02fa">false</item>
-    <item type="string" name="APKTOOL_DUMMY_02fb">false</item>
-    <item type="string" name="APKTOOL_DUMMY_02fc">false</item>
-    <item type="string" name="APKTOOL_DUMMY_02fd">false</item>
-    <item type="string" name="APKTOOL_DUMMY_02fe">false</item>
-    <item type="string" name="APKTOOL_DUMMY_02ff">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0300">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0301">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0302">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0303">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0304">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0305">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0306">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0307">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0308">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0309">false</item>
-    <item type="string" name="APKTOOL_DUMMY_030a">false</item>
-    <item type="string" name="APKTOOL_DUMMY_030b">false</item>
-    <item type="string" name="APKTOOL_DUMMY_030c">false</item>
-    <item type="string" name="APKTOOL_DUMMY_030d">false</item>
-    <item type="string" name="APKTOOL_DUMMY_030e">false</item>
-    <item type="string" name="APKTOOL_DUMMY_030f">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0311">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0312">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0313">false</item>
 </resources>
