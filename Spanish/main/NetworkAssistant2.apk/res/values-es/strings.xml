@@ -241,7 +241,7 @@ Lea el mensaje enviado por su proveedor de red para obtener más información"</
     <string name="traffic_saving_button_stop">Desactivado</string>
     <string name="traffic_saving_button_sorted">Detalles</string>
     <string name="traffic_saving_button_sorted_chose_simcard">Elegir top</string>
-    <string name="traffic_saving_msg_today">Datos salvados hoy:</string>
+    <string name="traffic_saving_msg_today">Datos ahorrados hoy:</string>
     <string name="traffic_saving_msg_month">Total datos este mes: %1$s (RMB %2$s)</string>
     <string name="traffic_saving_history_title">Historial</string>
     <string name="traffic_saving_history_total_traffic">Datos ahorrados</string>
@@ -253,5 +253,5 @@ Lea el mensaje enviado por su proveedor de red para obtener más información"</
     <string name="pref_traffic_saving_notify_switch">Mostrar en la barra de notificaciones</string>
     <string name="pref_traffic_saving_notify_switch_hint">Mostrar el ahorro de datos en la barra de notificaciones</string>
     <string name="pref_traffic_saving_issue">FAQ</string>
-    <string name="pref_traffic_saving_issue_content">"&lt;b> 1. ¿Activar la app para ahorrar datos afectará a mi privacidad? &lt;/b>&lt;br />&lt;br />No. Your data will remain private and will not be shared with third parties. &lt;br />&lt;br />&lt;br />&lt;b> Why isn't Data Saver working? &lt;/b>&lt;br />&lt;br /> Data Saver only kicks in when you're using your carrier's network to send or download content."</string>
+    <string name="pref_traffic_saving_issue_content">"&lt;b> 1. ¿Activar la app para ahorrar datos afectará a mi privacidad? &lt;/b>&lt;br />&lt;br />No. Tus datos se mantendrán privados y no serán compartidos con terceros. &lt;br />&lt;br />&lt;br />&lt;b> ¿Porqué lo esta funcionando el ahorro de datos? &lt;/b>&lt;br />&lt;br /> El ahorro de datos solo funciona cuando utiliza la red de su proveedor para almacenar o enviar contenido."</string>
 </resources>
