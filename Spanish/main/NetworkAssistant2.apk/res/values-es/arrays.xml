@@ -44,6 +44,6 @@
     </string-array>
     <string-array name="traffic_setting_sms_template">
         <item>Obtener plantilla de mensaje automáticamente</item>
-        <item>Ajustar plantilla de mensaje manualmente</item>
+        <item>Establecer plantilla de mensaje manualmente</item>
     </string-array>
 </resources>
