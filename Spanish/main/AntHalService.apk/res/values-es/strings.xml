@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Servicio ANT HAL</string>
+    <string name="permdesc_antradio">Permite a la app configurar directamente la radio ANT. Las apps maliciosas pueden impedir que el Servicio de Radio de ANT proporcionen funcionalidad ANT para apps oter.</string>
+    <string name="permlab_antradio">usar hardware ANT</string>
+    <string name="permdesc_ant">Permite que la app se comunique con dispositivos ANT utilizando el servicio de proxy. Las apps maliciosas pueden obtener información de, o transmitir a dispositivos ANT sin su conocimiento.</string>
+    <string name="permlab_ant">usar interfaz ANT radio</string>
+    <string name="permdesc_antAdmin">Permite a la app configurar directamente la radio ANT a través del servicio proxy. Las apps maliciosas pueden impedir que otras apps ANT se conecten a dispositivos ANT.</string>
+    <string name="permlab_antAdmin">configuración de control ANT radio</string>
+</resources>
