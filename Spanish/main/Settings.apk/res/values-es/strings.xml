@@ -2642,7 +2642,6 @@ Pulsa en el botón para ir a los ajustes de la pantalla"</string>
     <string name="wifi_setup_description_connected">Toca <b>Siguiente</b>" para continuar con la configuración.
 
 Toca "<b>Volver</b> para conectarte a otra red Wi-Fi.</string>
-    <string name="time_zone_auto_stub">Seleccionar la Zona Horaria</string>
     <string name="accessibility_sync_disabled">Sincronización inhabilitada</string>
     <string name="accessibility_sync_error">Error de sincronización.</string>
     <string name="sync_failed">Error de sincronización</string>

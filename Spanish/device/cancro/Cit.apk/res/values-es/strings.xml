@@ -52,7 +52,7 @@
     <string name="cit_tool_bluetooth_dut">Enter bluetooth test mode</string>
     <string name="cit_tool_bluetooth_le_tx_h">Enter bluetooth low-power dissipation (2.480GHz) mode</string>
     <string name="cit_tool_bluetooth_le_tx_l">Enter bluetooth low-power dissipation (2.402GHz) mode</string>
-    <string name="cit_tool_bluetooth_not_on">La función bluetooth no está activada<string>
+    <string name="cit_tool_bluetooth_not_on">La función bluetooth no está activada</string>
     <string name="cit_tool_bluetooth_tx_h">Enter bluetooth single sound test（2.480GHz) mode</string>
     <string name="cit_tool_bluetooth_tx_l">Enter bluetooth single sound test（2.402GHz）mode</string>
     <string name="cit_tool_modem">Herramientas de MODEM</string>
