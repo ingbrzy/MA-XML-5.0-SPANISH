@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_cdp">Desbloqueo PIN UIM</string>
+    <string name="label_spdp">Servicio proveedor desbloqueo UIM PIN</string>
+    <string name="label_sdp">PIN desbloqueo UIM UIM</string>
+    <string name="requesting_nw_unlock">Solicitando desbloqueo Red UIM...</string>
+    <string name="requesting_nw_subset_unlock">Solicitando desbloqueo subconjunto de Red UIM...</string>
+    <string name="requesting_sp_unlock">Solicitando desbloqueo servicio UIM...</string>
+    <string name="requesting_corporate_unlock">Solicitando desbloqueo UIM corporativo...</string>
+    <string name="requesting_sim_unlock">Solicitando desbloqueo UIM...</string>
+    <string name="nw_unlock_failed">Solicitud desbloqueo de Red UIM no realizada.</string>
+    <string name="nw_subset_unlock_failed">Solicitud desbloqueo subconjunto UIM Network no realizada.</string>
+    <string name="sp_unlock_failed">Servicio Proveedor desbloquieo UIM no realizada.</string>
+    <string name="corporate_unlock_failed">Servicio Proveedor desbloquieo UIM Corporativo no realizada.</string>
+    <string name="sim_unlock_failed">Solicitud desbloqueo UIM UIM unlock request no realizado.</string>
+    <string name="nw_unlock_success">Desbloqueo de Red UIM realizado.</string>
+    <string name="nw_subset_unlock_success">Desbloqueo de subconjunto de Red UIM realizado.</string>
+    <string name="sp_unlock_success">Servicio Proveedor desbloqueo UIM realizado.</string>
+    <string name="corporate_unlock_success">Desbloqueo Corporativo UIM realizado.</string>
+    <string name="sim_unlock_success">Desbloqueo UIM UIM realizado.</string>
+    <string name="exception_error">Error de Red o de tarjeta UIM.</string>
+    <string name="not_allowed">Su tarjeta UIM no permite conexiones con esta Red.</string>
+    <string name="simContacts_emptyLoading">Leyendo de la tarjeta UIM...</string>
+    <string name="simContacts_empty">Sin contactos en su tarjeta UIM.</string>
+    <string name="simContacts_airplaneMode">Para importar contactos de su tarjeta UIM, por favor desconecte el modo Vuelo.</string>
+    <string name="enable_pin">Activar/desactivar UIM PIN</string>
+    <string name="change_pin">Cambiar UIM PIN</string>
+    <string name="enter_pin_text">UIM PIN:</string>
+    <string name="disable_sim_pin">Desactivar UIM PIN</string>
+    <string name="enable_sim_pin">Activar UIM PIN</string>
+    <string name="enable_pin_ok">UIM PIN activado</string>
+    <string name="disable_pin_ok">UIM PIN desactivado</string>
+    <string name="pin_changed">UIM PIN cambiado correctamente</string>
+    <string name="puk2_requested">Contraseña incorrecta, UIM bloqueada! Solicitando PUK2.</string>
+    <string name="importingSimContacts">Importando contactos UIM</string>
+    <string name="change_pin_miui">Cambiar UIM PIN</string>
+    <string name="command_error_illegal_sim_or_me_miui">Selección de Red fallida por un error en UIM/ME.</string>
+    <string name="command_error_sim_absent_miui">Tarjeta ICC ausente.</string>
+    <string name="delete_sim_contact_confirm_title_miui">Eliminar contactos UIM</string>
+    <string name="disable_sim_pin_miui">Desactivar UIM PIN</string>
+    <string name="enable_sim_pin_miui">Activar UIM PIN</string>
+    <string name="importing_sim_contacts_miui">Importando contactos UIM</string>
+    <string name="pin_changed_miui">UIM PIN cambiado correctamente</string>
+    <string name="pin_lock_warning_miui">"
+Este teléfono será bloqueado si vuelve a fallar!"</string>
+    <string name="pin_progress_set_icc_lock_miui">Estado de Ajustes de bloqueo ICC...</string>
+    <string name="pin_progress_unlock_icc_miui">Desbloqueando tarjeta UIM...</string>
+    <string name="preferred_network_type_3g_only_warning_miui">"Ha seleccionado como conexión preferida el 3G, si no hubiese conexión su tarjeta UIM no funcionaría correctamente!
+Pulse para continuar."</string>
+    <string name="puk_lock_warning_miui">"
+Por favor su tarjeta UIM será destruida si vuelve a fallar!"</string>
+    <string name="sim_lock_title_miui">Ajustes Bloqueo UIM</string>
+    <string name="sim_pin_change_miui">Cambiar UIM PIN</string>
+    <string name="sim_pin_toggle_miui">Bloquear tarjeta UIM</string>
+    <string name="sim_contacts_title_miui">Contactos en la tarjeta UIM</string>
+    <string name="confirm_delete_sim_entry_miui">¿Confirma que quiere eliminar los contactos %d seleccionados de su tarjeta UIM?</string>
+    <string name="deleting_sim_entry_miui">Eliminando contactos de la tarjeta UIM</string>
+    <string name="sim_missing_continueView_text">Continuar sin tarjeta UIM</string>
+    <string name="sim_missing_msg_text">No tiene tarjeta UIM. Por favor introduzca una tarjeta UIM en el teléfono.</string>
+</resources>

@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="format_for_exported_note">
-        <item>-%s</item>
-        <item>--%s</item>
-        <item>--%s</item>
-        <item>--%s</item>
+
     </string-array>
-    <string-array name="menu_share_ways">
-        <item>Mensajeria</item>
+    <string-array name="contact_entries">
+        <item>Nombre</item>
+        <item>Alias</item>
+        <item>Teléfono</item>
         <item>Email</item>
+        <item>Organización</item>
+        <item>Mensajeria</item>
+        <item>Teléfono SIP</item>
+        <item>Cumpleaños</item>
+        <item>Página web</item>
+        <item>Dirección</item>
+        <item>Nota</item>
     </string-array>
+
+    <string-array name="font_size_names">
+        <item>Pequeña</item>
+        <item>Mediana</item>
+        <item>Grande</item>
+        <item>Super</item>
+    </string-array>
+
+
 </resources>

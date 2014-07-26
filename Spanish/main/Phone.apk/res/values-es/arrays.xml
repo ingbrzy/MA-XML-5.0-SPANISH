@@ -1,46 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="transport_types">
-        <item>UDP</item>
-        <item>TCP</item>
+    <string-array name="ims_call_types">
+        <item>Voz</item>
+        <item>Vídeo</item>
     </string-array>
     <string-array name="clir_display_values">
-        <item>Valor predeterminado</item>
+        <item>Red predeterminada</item>
         <item>Ocultar número</item>
         <item>Mostrar número</item>
     </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>TD-SCDMA/LTE/GSM/WCDMA/CDMA/EVDO</item>
+        <item>TD-SCDMA/GSM/WCDMA/CDMA/EVDO</item>
+        <item>TD-SCDMA/GSM/WCDMA/LTE</item>
+        <item>TD-SCDMA/WCDMA/LTE</item>
+        <item>TD-SCDMA/GSM/WCDMA</item>
+        <item>TD-SCDMA/GSM/LTE</item>
+        <item>TD-SCDMA/GSM</item>
+        <item>TD-SCDMA/LTE</item>
+        <item>TD-SCDMA/WCDMA</item>
+        <item>Solo TD-SCDMA</item>
+        <item>LTE / WCDMA</item>
+        <item>LTE</item>
+        <item>Global</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>Solo EvDo</item>
+        <item>CDMA w/o EvDo</item>
+        <item>CDMA/EvDo auto</item>
+        <item>GSM/WCDMA auto</item>
+        <item>Solo WCDMA</item>
+        <item>Solo GSM</item>
+        <item>Preferentemente GSM/WCDMA</item>
+    </string-array>
     <string-array name="list_language_entries">
-        <item>Ingles</item>
-        <item>Frances</item>
+        <item>Inglés</item>
+        <item>Francés</item>
         <item>Español</item>
-        <item>Japones</item>
+        <item>Japonés</item>
         <item>Koreano</item>
         <item>Chino</item>
         <item>Hebreo</item>
     </string-array>
-    <string-array name="gsm_umts_network_preferences_choices">
-        <item>GSM/WCDMA (Modo auto)</item>
-        <item>Sólo WCDMA</item>
-        <item>Sólo GSM</item>
-        <item>GSM/WCDA (WCDMA preferida)</item>
-    </string-array>
     <string-array name="cdma_system_select_choices">
         <item>Sólo personal</item>
         <item>Automático</item>
-    </string-array>
-    <string-array name="cdma_roaming_mode_choices">
-        <item>Sólo redes domésticas</item>
-        <item>Redes afiliadas</item>
-        <item>Cualquier red</item>
-    </string-array>
-    <string-array name="cdma_network_preferences_choices">
-        <item>CDMA/EVDO</item>
-        <item>Sólo CDMA</item>
-        <item>Sólo EVDO</item>
-    </string-array>
-    <string-array name="cdma_subscription_choices">
-        <item>UIM</item>
-        <item>NV</item>
     </string-array>
     <string-array name="tty_mode_entries">
         <item>TTY desactivado</item>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Documentos</string>
+    <string name="title_open">Abrir desde</string>
+    <string name="title_save">Guardar en</string>
+    <string name="menu_create_dir">Crear carpeta</string>
+    <string name="menu_grid">Cuadrícula</string>
+    <string name="menu_list">Lista</string>
+    <string name="menu_sort">Ordenar por</string>
+    <string name="menu_search">Buscar</string>
+    <string name="menu_settings">Ajustes</string>
+    <string name="menu_open">Abrir</string>
+    <string name="menu_save">Guardar</string>
+    <string name="menu_share">Compartir</string>
+    <string name="menu_delete">Borrar</string>
+    <string name="mode_selected_count">%1$d seleccionado(s)</string>
+    <string name="sort_name">Por nombre</string>
+    <string name="sort_date">Por fecha de modificación</string>
+    <string name="sort_size">Por tamaño</string>
+    <string name="drawer_open">Mostrar rutas</string>
+    <string name="drawer_close">Ocultar rutas</string>
+    <string name="save_error">No se pudo guardar el documento</string>
+    <string name="create_error">No se pudo crear la carpeta</string>
+    <string name="query_error">No se pudo solicitar los documentos</string>
+    <string name="root_recent">Reciente</string>
+    <string name="root_available_bytes">%1$s gratis</string>
+    <string name="root_type_service">Servicios de almacenamiento</string>
+    <string name="root_type_shortcut">Accesos directos</string>
+    <string name="root_type_device">Dispositivos</string>
+    <string name="root_type_apps">Más apps</string>
+    <string name="pref_advanced_devices">Mostrar dispositivos avanzados</string>
+    <string name="pref_file_size">Mostrar tamaño de archivo</string>
+    <string name="pref_device_size">Mostrar tamaño del dispositivo</string>
+    <string name="empty">Sin elementos</string>
+    <string name="toast_no_application">No es posible abrir el archivo</string>
+    <string name="toast_failed_delete">No se pueden eliminar algunos elementos</string>
+    <string name="share_via">Compartir vía</string>
+</resources>

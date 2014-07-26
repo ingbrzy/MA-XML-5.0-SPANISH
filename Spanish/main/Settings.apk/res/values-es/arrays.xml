@@ -1,5 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="perm_hips_action">
+        <item>Permitir</item>
+        <item>Preguntar</item>
+        <item>Denegar</item>
+    </string-array>
+    <string-array name="perm_disable_keyguard_action">
+        <item>Permitir</item>
+        <item>Denegar</item>
+    </string-array>
+    <string-array name="power_mode_entries">
+        <item>Alto rendimiento</item>
+        <item>Balanceado (por defecto)</item>
+    </string-array>
+    <string-array name="power_dialog_auto_clean_memory_items">
+        <item>Después de 1 minuto</item>
+        <item>Después de 5 minutos</item>
+        <item>Después de 10 minutos</item>
+        <item>Nunca</item>
+    </string-array>
+    <string-array name="power_dialog_sleep_items">
+        <item>15 segundos</item>
+        <item>30 segundos</item>
+        <item>1 minuto</item>
+        <item>2 minutos</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>Nunca</item>
+    </string-array>
+    <string-array name="power_dialog_cpu_state_items">
+        <item>Alto rendimiento</item>
+        <item>Balanceado</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items">
+        <item>No vibrar</item>
+        <item>Vibrar en silencio</item>
+        <item>Vibrar siempre</item>
+    </string-array>
+    <string-array name="score_descriptions">
+        <item>Lista negra desactivada</item>
+        <item>Gestor de permisos desactivado</item>
+        <item>Basura demasiada grande</item>
+        <item>Definición de virus no actualizada</item>
+        <item>Demasiados procesos en segundo plano</item>
+    </string-array>
+    <string-array name="score_suggests">
+        <item>Activar lista negra</item>
+        <item>Activar controles de permisos</item>
+        <item>Limpia papelera</item>
+        <item>Actualiza librería de viruses</item>
+        <item>Estás procesando muchas apps en segundo plano…</item>
+    </string-array>
     <string-array name="timezone_filters">
         <item>América</item>
         <item>Europa</item>
@@ -9,13 +60,6 @@
         <item>Pacífico</item>
         <item>Todas</item>
     </string-array>
-    <string-array name="screen_key_long_press_action">
-        <item>Ninguno</item>
-        <item>Mostrar el panel de aplicaciones recientes</item>
-        <item>Lanzar asistente</item>
-        <item>Lanzar Google now</item>
-        <item>Cerrar la aplicación actual</item>
-    </string-array>	
     <string-array name="screen_timeout_entries">
         <item>15 segundos</item>
         <item>30 segundos</item>
@@ -23,7 +67,7 @@
         <item>2 minutos</item>
         <item>5 minutos</item>
         <item>10 minutos</item>
-        <item>30 minutos</item>
+        <item>Nunca</item>
     </string-array>
     <string-array name="dream_timeout_entries">
         <item>Nunca</item>
@@ -52,18 +96,16 @@
         <item>Grande</item>
         <item>Enorme</item>
     </string-array>
-    <string-array name="entryvalues_font_size">
-        <item>0.85</item>
-        <item>1.0</item>
-        <item>1.15</item>
-        <item>1.30</item>
-    </string-array>
     <string-array name="tts_rate_entries">
         <item>Muy lenta</item>
         <item>Lenta</item>
         <item>Normal</item>
         <item>Rápida</item>
         <item>Muy rápida</item>
+        <item>Rapidísima</item>
+        <item>Realmente rápida</item>
+        <item>Muy muy rápida</item>
+        <item>La más rápida</item>
     </string-array>
     <string-array name="tts_pitch_entries">
         <item>Muy bajo</item>
@@ -72,41 +114,33 @@
         <item>Alto</item>
         <item>Muy alto</item>
     </string-array>
-    <string-array name="tts_demo_strings">
-        <item>This is an example of speech synthesis in English.</item>
-        <item>Voici un échantillon de synthèse vocale en français.</item>
-        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
-        <item>Questo è un esempio di sintesi vocale in italiano.</item>
-        <item>Este es un ejemplo de síntesis de voz en español.</item>
-    </string-array>
     <string-array name="wifi_status">
         <item></item>
-        <item>Buscando...</item>
-        <item>Estableciendo conexión...</item>
-        <item>Autenticando...</item>
+        <item>Buscando…</item>
+        <item>Estableciendo conexión…</item>
+        <item>Autenticando…</item>
         <item>Obteniendo dirección IP…</item>
         <item>Conexión establecida</item>
         <item>Suspendida</item>
-        <item>Desconectando...</item>
+        <item>Desconectando…</item>
         <item>Desconectada</item>
         <item>Con error</item>
+        <item>Bloqueada</item>
+        <item>Evitar temporalmente las malas conexiones</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>Buscando...</item>
-        <item>Estableciendo conexión con %1$s...</item>
+        <item>Buscando…</item>
+        <item>Estableciendo conexión con %1$s…</item>
         <item>Autenticando con %1$s…</item>
-        <item>Obteniendo dirección IP de %1$s...</item>
+        <item>Obteniendo dirección IP de %1$s…</item>
         <item>Conexión establecida con %1$s</item>
         <item>Suspendida</item>
-        <item>Desconectando de %1$s...</item>
+        <item>Desconectando de %1$s…</item>
         <item>Desconectada</item>
         <item>Con error</item>
-    </string-array>
-    <string-array name="wifi_ap_security">
-        <item>Open</item>
-        <item>WPA PSK</item>
-        <item>WPA2 PSK</item>
+        <item>Bloqueada</item>
+        <item>Evitar temporalmente las malas conexiones</item>
     </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Botón push</item>
@@ -133,19 +167,19 @@
         <item>Excelente</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries">
-        <item>Mantener siempre activado</item>
-        <item>Activado sólo si está cargando</item>
-        <item>Desactivado al apagar la pantalla</item>
+        <item>Siempre</item>
+        <item>Sólo si está cargando</item>
+        <item>Nunca (incrementa el uso de datos)</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries_wifi_only">
-        <item>Mantener siempre activado</item>
-        <item>Activado sólo si está cargando</item>
-        <item>Desactivado al apagar la pantalla</item>
+        <item>Siempre</item>
+        <item>Sólo si está cargando</item>
+        <item>Nunca</item>
     </string-array>
     <string-array name="wifi_frequency_band_entries">
         <item>Automático</item>
         <item>Sólo 5 GHz</item>
-        <item>Sólo 2,4 GHz</item>
+        <item>Sólo 2.4 GHz</item>
     </string-array>
     <string-array name="usage_stats_display_order_types">
         <item>Tiempo de uso</item>
@@ -159,15 +193,9 @@
         <item>MSCHAPV2</item>
         <item>GTC</item>
     </string-array>
-    <string-array name="wifi_network_setup">
-        <item>Desactivar</item>
-        <item>Botón push</item>
-        <item>PIN de punto de acceso</item>
-        <item>PIN del dispositivo</item>
-    </string-array>
     <string-array name="wifi_ip_settings">
-        <item>Protocolo DHCP</item>
-        <item>IP estática</item>
+        <item>DHCP</item>
+        <item>Estática</item>
     </string-array>
     <string-array name="wifi_proxy_settings">
         <item>Ninguno</item>
@@ -178,31 +206,127 @@
         <item>Alerta</item>
         <item>Vibración</item>
     </string-array>
+    <string-array name="special_locale_names">
+        <item>Chino (China)</item>
+        <item>Chino (Taiwán)</item>
+    </string-array>
     <string-array name="apn_auth_entries">
         <item>Ninguno</item>
         <item>PAP</item>
         <item>CHAP</item>
         <item>PAP o CHAP</item>
     </string-array>
-     <string-array name="bearer_entries">
+    <string-array name="bearer_entries">
         <item>LTE</item>
         <item>eHRPD</item>
         <item>Sin especificar</item>
     </string-array>
-     <string-array name="app_install_location_entries">
+    <string-array name="mvno_type_entries">
+        <item>Ninguno</item>
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+    </string-array>
+    <string-array name="app_install_location_entries">
         <item>Almacenamiento de dispositivo interno</item>
         <item>Tarjeta SD extraíble</item>
-        <item>Selección del sistema</item>
+        <item>Selección por el sistema</item>
     </string-array>
-    <string-array name="silent_mode_entries">
-        <item>Apagado</item>
-        <item>Vibración</item>
-        <item>Silencio</item>
+    <string-array name="app_ops_categories">
+        <item>Ubicación</item>
+        <item>Personal</item>
+        <item>Mensajes</item>
+        <item>Media</item>
+        <item>Dispositivo</item>
+        <item>Arranque</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Ubicación</item>
+        <item>Ubicación</item>
+        <item>Ubicación</item>
+        <item>Vibrar</item>
+        <item>Leer contactos</item>
+        <item>Modificar co</item>
+        <item>Leer registro de llamadas</item>
+        <item>Modificar registro de llamadas</item>
+        <item>Leer calendario</item>
+        <item>Modificar calendario</item>
+        <item>Ubicación</item>
+        <item>Publicar notificación</item>
+        <item>Ubicación</item>
+        <item>Llamada telefónica</item>
+        <item>Recibir SMS/MMS</item>
+        <item>Enviar SMS/MMS</item>
+        <item>Recibir SMS/MMS</item>
+        <item>Recibir SMS/MMS</item>
+        <item>Recibir SMS/MMS</item>
+        <item>Recibir SMS/MMS</item>
+        <item>Enviar SMS/MMS</item>
+        <item>Recibir SMS/MMS</item>
+        <item>Enviar SMS/MMS</item>
+        <item>Modificar ajustes</item>
+        <item>Dibuje en la parte superior</item>
+        <item>Notificaciones de acceso</item>
+        <item>Cámara</item>
+        <item>Grabar audio</item>
+        <item>Reproducir audio</item>
+        <item>Leer portapapeles</item>
+        <item>Moficiar portapapeles</item>
+        <item>Botones multimedia</item>
+        <item>Foco de Audio</item>
+        <item>Volumen Maestro</item>
+        <item>Volumen de la voz</item>
+        <item>Volumen del timbre</item>
+        <item>Volumen multimedia</item>
+        <item>Volumen de la alarma</item>
+        <item>Volumen de las notificaciones</item>
+        <item>Volumen del bluetooth</item>
+        <item>Mantener despierto</item>
+        <item>Localización</item>
+        <item>Localización</item>
+        <item>Cambio de Wifi</item>
+        <item>Cambio de bluetooth</item>
+        <item>Cambio de datos</item>
+        <item>Enviar MMS</item>
+        <item>Leer MMS</item>
+        <item>Escribir MMS</item>
+        <item>Auto iniciar</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Corto</item>
         <item>Medio</item>
         <item>Largo</item>
+    </string-array>
+    <string-array name="captioning_typeface_selector_titles">
+        <item>Por defecto</item>
+        <item>Sans-serif</item>
+        <item>Sans-serif condensed</item>
+        <item>Serif</item>
+        <item>Monospace</item>
+    </string-array>
+    <string-array name="captioning_font_size_selector_titles">
+        <item>Diminuto</item>
+        <item>Pequeño</item>
+        <item>Normal</item>
+        <item>Grande</item>
+        <item>Enorme</item>
+    </string-array>
+    <string-array name="captioning_edge_type_selector_titles">
+        <item>Ninguno</item>
+        <item>Línea exterior</item>
+        <item>Sombreado</item>
+    </string-array>
+    <string-array name="captioning_preset_selector_titles">
+        <item>Blanco sobre negro</item>
+        <item>Negro sobre blanco</item>
+        <item>Amarillo sobre negro</item>
+        <item>Amarillo sobre azul</item>
+        <item>Personalizado</item>
+    </string-array>
+    <string-array name="select_runtime_summaries">
+        <item>Usar Dalvik</item>
+        <item>Usar ART</item>
+        <item>Usar depuración ART</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>No comprobar</item>
@@ -216,21 +340,47 @@
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animación desactivada</item>
-        <item>Escala de animación 0,5x</item>
+        <item>Escala de animación 0.5x</item>
         <item>Escala de animación 1x</item>
-        <item>Escala de animación 1,5x</item>
+        <item>Escala de animación 1.5x</item>
         <item>Escala de animación 2x</item>
         <item>Escala de animación 5x</item>
         <item>Escala de animación 10x</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Animación desactivada</item>
-        <item>Escala de animación 0,5x</item>
+        <item>Escala de animación 0.5x</item>
         <item>Escala de animación 1x</item>
-        <item>Escala de animación 1,5x</item>
+        <item>Escala de animación 1.5x</item>
         <item>Escala de animación 2x</item>
         <item>Escala de animación 5x</item>
         <item>Escala de animación 10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Animación desactivada</item>
+        <item>Escala de animación 0.5x</item>
+        <item>Escala de animación 1x</item>
+        <item>Escala de animación 1.5x</item>
+        <item>Escala de animación 2x</item>
+        <item>Escala de animación 5x</item>
+        <item>Escala de animación 10x</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Ninguno</item>
+        <item>Logcat</item>
+        <item>Trazo (Graphics)</item>
+        <item>Pila de llamadas en glGetError</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Off</item>
+        <item>Dibujar región de recorte no rectangular en azul</item>
+        <item>Resaltar probado comandos de dibujo en verde</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Off</item>
+        <item>En la pantalla en forma de barras</item>
+        <item>En la pantalla en forma de líneas</item>
+        <item>En adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Límite estándar</item>
@@ -240,34 +390,56 @@
         <item>3 procesos</item>
         <item>4 procesos</item>
     </string-array>
-    <string-array name="vpn_types">
-        <item>PPTP</item>
-        <item>L2TP/IPSec PSK</item>
-        <item>L2TP/IPSec RSA</item>
-        <item>IPSec Xauth PSK</item>
-        <item>IPSec Xauth RSA</item>
-        <item>IPSec Hybrid RSA</item>
-    </string-array>
     <string-array name="vpn_types_long">
-        <item>Red privada virtual PPTP</item>
-        <item>Red privada virtual L2TP/IPSec con claves precompartidas</item>
-        <item>Red privada virtual L2TP/IPSec con certificados</item>
-        <item>Red privada virtual IPSec con claves precompartidas y autenticación XAuth</item>
-        <item>Red privada virtual IPSec con certificados y autenticación XAuth</item>
-        <item>Red privada virtual IPSec con certificados y autenticación híbrida</item>
+        <item>PPTP VPN</item>
+        <item>L2TP/IPSec con claves precompartidas</item>
+        <item>L2TP/IPSec con certificados</item>
+        <item>IPSec con claves pre-compartidas y autenticación XAuth</item>
+        <item>IPSec con certificados y autenticación XAuth</item>
+        <item>IPSec con certificados y autenticación híbrida</item>
     </string-array>
     <string-array name="vpn_states">
         <item>Desconectado</item>
-        <item>Iniciando...</item>
-        <item>Conectando...</item>
+        <item>Iniciando…</item>
+        <item>Conectando…</item>
         <item>Conectado</item>
         <item>Tiempo de espera superado</item>
         <item>Con error</item>
     </string-array>
+    <string-array name="user_content_ratings_entries">
+        <item>Ancestros</item>
+        <item>Humano</item>
+        <item>Neandertal</item>
+        <item>Chimpancé</item>
+        <item>Mono</item>
+    </string-array>
+    <string-array name="security_settings_premium_sms_values">
+        <item>Preguntar</item>
+        <item>No permitir</item>
+        <item>Permitir siempre</item>
+    </string-array>
+    <string-array name="multi_sim_entries">
+        <item>Suscripción 1</item>
+        <item>Suscripción 2</item>
+        <item>Suscripción 3</item>
+    </string-array>
+    <string-array name="button_light_timeout_entries">
+        <item>1 segundo</item>
+        <item>2 segundos</item>
+        <item>5 segundos</item>
+        <item>10 segundos</item>
+        <item>20 segundos</item>
+        <item>Siempre</item>
+    </string-array>
     <string-array name="haptic_feedback_level_entries">
-        <item>Suave</item>
-        <item>Media</item>
         <item>Fuerte</item>
+        <item>Media</item>
+        <item>Suave</item>
+    </string-array>
+    <string-array name="media_feedback_level_entries">
+        <item>Fuerte</item>
+        <item>Medio</item>
+        <item>Suave</item>
     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Gráfico</item>
@@ -289,18 +461,133 @@
         <item>8 segundos</item>
         <item>9 segundos</item>
     </string-array>
-    <string-array name="back_long_press_timeout">
+    <string-array name="mi1_led_color_entries">
+        <item>Azul</item>
+        <item>Rojo</item>
+        <item>Verde</item>
+        <item>Rosa</item>
+        <item>Violeta</item>
+        <item>Púrpura</item>
+    </string-array>
+    <string-array name="led_color_entries">
+        <item>Azul</item>
+        <item>Rojo</item>
+        <item>Amarillo</item>
+        <item>Verde</item>
+        <item>Cián</item>
+        <item>Blanco</item>
+        <item>Violeta</item>
+    </string-array>
+    <string-array name="screen_key_long_press_action">
+        <item>Ninguno</item>
+        <item>Lanzar panel</item>
+        <item>Lanzar asistente de voz</item>
+        <item>Lanzar Google Now</item>
+        <item>Cerrar aplicación actual</item>
+    </string-array>
+    <string-array name="screen_key_long_press_timeout">
         <item>0.5 segundos</item>
         <item>1 segundo</item>
         <item>1.5 segundos</item>
         <item>2 segundos</item>
     </string-array>
-    <string-array name="button_light_timeout_entries">
-        <item>1 segundo</item>
-        <item>2 segundos</item>
-        <item>5 segundos</item>
-        <item>10 segundos</item>
-        <item>20 segundos</item>
-        <item>Siempre</item>
+    <string-array name="wfd_status">
+        <item>Dispositivo conectado, creando sesión…</item>
+        <item>Sesión creada.</item>
+        <item>Termiando sesión…</item>
+        <item>Fallo de sesión.</item>
+        <item>Sesión fuera de tiempo, reintentándolo…</item>
+        <item>Dispositivo conectado</item>
+    </string-array>
+    <string-array name="msd_pc_system">
+        <item>Windows XP o versiones antiguas de Windows</item>
+        <item>Windows Vista o nuevas versiones de Windows</item>
+        <item>Mac OS</item>
+        <item>Linux</item>
+    </string-array>
+    <string-array name="msd_pc_system_install_start_summary">
+        <item>"Para Windows XP o versiones antiguas de Windows,
+los drivers necesitarán intalarse manualmente"</item>
+        <item>@string/msd_pc_system_install_start_summary_vista</item>
+        <item>"Para Mac OS,
+los drivers necesitarán intalarse manualmente"</item>
+        <item></item>
+    </string-array>
+    <string-array name="msd_pc_system_install_step_1_summary">
+        <item>"(Ignore el  Asistente de configuración)
+cuando esté conectado, el dispostivo de almacenamiento XIAOMI aparecerá en tu ordenador.
+ Abrir y seleccionar el Setup.exe para instalar"</item>
+        <item></item>
+        <item>"Dispostivo de almacenamiento XIAOMI aparecerá en tu ordenador.
+Abre y selecciona AndroidFileTransfer.dmg para instalar."</item>
+        <item></item>
+    </string-array>
+    <string-array name="msd_pc_system_install_step_2_summary">
+        <item>@string/msd_pc_system_install_step_2_summary_xp</item>
+        <item></item>
+        <item>Transferir archivos que quiera a otros dispositivos externos.</item>
+        <item></item>
+    </string-array>
+    <string-array name="msd_pc_system_install_finish_summary">
+        <item>@string/msd_pc_system_install_finish_summary_xp</item>
+        <item>@string/msd_pc_system_install_finish_summary_vista</item>
+        <item>"Si instalas estos drivers del
+teléfono se abrirán automáticamente cuando lo conecte al ordenador"</item>
+        <item></item>
+    </string-array>
+    <string-array name="screen_color_title">
+        <item>Cálido</item>
+        <item>Natural</item>
+        <item>Fresco</item>
+    </string-array>
+    <string-array name="screen_saturation_title">
+        <item>Brillante</item>
+        <item>Básico</item>
+    </string-array>
+    <string-array name="startup_hips_action">
+        <item>Permitir</item>
+        <item>Denegar</item>
+    </string-array>
+    <string-array name="change_security_lock_picker">
+        <item>Desbloqueo Facial</item>
+        <item>Patrón</item>
+        <item>PIN</item>
+        <item>Contraseña</item>
+    </string-array>
+    <string-array name="wifi_connect_type_entries">
+        <item>Conectar automáticamente</item>
+        <item>Conectar manualmente</item>
+        <item>Preguntar siempre</item>
+    </string-array>
+    <string-array name="slideshow_time_entries">
+        <item>5 minutos</item>
+        <item>15 minutos</item>
+        <item>30 minutos</item>
+        <item>1 hora</item>
+        <item>Ilimitado</item>
+    </string-array>
+    <string-array name="preferred_app_entries">
+        <item>Launcher</item>
+        <item>Teclado</item>
+        <item>Mensajes</item>
+        <item>Navegador</item>
+        <item>Cámara</item>
+        <item>Galería</item>
+        <item>Música</item>
+        <item>Email</item>
+    </string-array>
+    <string-array name="network_speed_slow_summary">
+        <item>La red es lenta debido a que hay congestión de la red</item>
+        <item>La red es lenta debido a que la señal es débil</item>
+        <item>Moviendo…</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>Almacenamiento interno</item>
+        <item>Almacenamiento externo</item>
+    </string-array>
+    <string-array name="miracast_policies">
+        <item>Baja calidad</item>
+        <item>Normal</item>
+        <item>Mejor calidad</item>
     </string-array>
 </resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Localización</string>
+    <string name="location_warning_title">Consentimiento de localización</string>
+    <string name="location_warning_message">Permitir al servicio de ubicación de AutoNavi recolectar datos de ubicación anónimos. Algunos datos pueden ser almacenados en el dispositivo. Podría procesarse incluso cuando no hay apps que se estuvieran ejecutando.</string>
+    <string name="agree">Acepto</string>
+    <string name="disagree">No acepto</string>
+</resources>

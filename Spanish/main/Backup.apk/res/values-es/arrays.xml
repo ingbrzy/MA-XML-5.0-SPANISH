@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="backup_dialog_content_type">
-        <item>Configuración Wi-Fi</item>
+        <item>Datos Wi-Fi</item>
         <item>Aplicaciones</item>
     </string-array>
     <string-array name="system_package_label">
-        <item>Browser</item>
-        <item>File explorer</item>
-        <item>Gallery</item>
-        <item>Permission manager</item>
-        <item>Camera</item>
-        <item>Network assistant</item>
-        <item>Weather Storage</item>
-        <item>Weather</item>
+        <item>Explorador</item>
+        <item>Galería</item>
+        <item>Gestor de permisos</item>
+        <item>Cámara</item>
+        <item>Monitor de red</item>
+        <item>Almacenamiento de clima</item>
+        <item>Clima</item>
     </string-array>
     <string-array name="system_data_label">
         <item>Contactos</item>
@@ -22,26 +21,26 @@
         <item>Ajustes de sistema</item>
         <item>Ajustes de Wi-Fi</item>
         <item>Posición de los iconos</item>
-        <item>Ajustes de alarmas</item>
+        <item>Ajustes de alarma</item>
         <item>Notas</item>
-        <item>DND</item>
-        <item>Cuenta personal</item>
+        <item>Firewall</item>
+        <item>Cuenta</item>
     </string-array>
     <string-array name="app_type_desc">
         <item>Datos</item>
-        <item>Aplicación</item>
-        <item>Aplicación y datos</item>
+        <item>Apps</item>
+        <item>Apps y datos</item>
     </string-array>
     <string-array name="cloud_data_label">
         <item>Contactos</item>
         <item>Registro de llamadas</item>
         <item>Mensajes</item>
-        <item>Configuración de Wi-Fi</item>
+        <item>Ajustes Wi-Fi</item>
         <item>Notas</item>
     </string-array>
     <string-array name="cloud_account_data">
         <item>Contactos</item>
-        <item>Ajustes de Wi-Fi</item>
+        <item>Ajustes Wi-Fi</item>
         <item>Notas</item>
     </string-array>
     <string-array name="cloud_sim_data">
