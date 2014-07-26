@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string-array name="pref_video_focusmode_entryvalues">
+        <item>auto</item>
+        <item>Enfoque continuo</item>
+    </string-array>
+    <string-array name="pref_camera_jpegquality_entryvalues">
+        <item>Alta</item>
+        <item>Normal</item>
+        <item>Baja</item>
+    </string-array>
+    <string-array name="pref_camera_focusmode_entryvalues">
+        <item>enfoque continuo</item>
+        <item>macro</item>
+        <item>manual</item>
+    </string-array>
+    <string-array name="pref_camera_video_flashmode_entryvalues">
+        <item>Linterna</item>
+        <item>off</item>
+    </string-array>
+    <string-array name="pref_camera_coloreffect_entryvalues">
+        <item>ninguno</item>
+        <item>mono</item>
+        <item>sepia</item>
+        <item>negativo</item>
+        <item>posterizar</item>
+        <item>agua</item>
+    </string-array>
+    <string-array name="pref_mtk_camera_contrast_entryvalues">
+        <item>bajo</item>
+        <item>medio</item>
+        <item>alto</item>
+    </string-array>
+    <string-array name="pref_mtk_camera_saturation_entryvalues">
+        <item>bajo</item>
+        <item>medio</item>
+        <item>alto</item>
+    </string-array>
+    <string-array name="pref_mtk_camera_sharpness_entryvalues">
+        <item>bajo</item>
+        <item>medio</item>
+        <item>alto</item>
+    </string-array>
+    <string-array name="pref_camera_scenemode_entryvalues">
+        <item>off</item>
+        <item>auto</item>
+        <item>retrato</item>
+        <item>paisaje</item>
+        <item>deporte</item>
+        <item>noche</item>
+        <item>retrato nocturno</item>
+        <item>playa</item>
+        <item>nieve</item>
+        <item>soleado</item>
+        <item>fuegos artificiales</item>
+        <item>iluminado</item>
+        <item>flores</item>
+    </string-array>
+    <string-array name="pref_camera_redeyereduction_entryvalues">
+        <item>auto</item>
+        <item>activado</item>
+        <item>desactivado</item>
+    </string-array>
+</resources>

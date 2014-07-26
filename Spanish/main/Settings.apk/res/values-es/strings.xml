@@ -973,7 +973,6 @@ Nota: las Apps con la debida autorización puede causar inestabilidad en el sist
     <string name="virus_scan_unknown_virus_name">Desconocido</string>
     <string name="virus_scan_is_cloud_scanning">Escaneo en la Nube…</string>
     <string name="virus_scan_clean_dialog_message">Limpiando...</string>
-
     <string name="yes">Sí</string>
     <string name="create">Crear</string>
     <string name="allow">Permitir</string>
