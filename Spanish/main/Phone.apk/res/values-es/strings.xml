@@ -655,8 +655,6 @@ Inténtelo de nuevo o llame al servicio de atención al cliente para obtener má
     <string name="default_preference_summary">&lt;Sin definir></string>
     <string name="display_name_summary">&lt;Igual que el nombre de usuario></string>
     <string name="optional_summary">&lt;Opcional></string>
-    <string name="default_port">5060</string>
-    <string name="default_transport">UDP</string>
     <string name="advanced_settings_show">▷ Pulse para mostrar todo</string>
     <string name="advanced_settings_hide">▽ Pulse para ocultar todo</string>
     <string name="empty_alert">Se requiere %s y no puede dejarse en blanco.</string>
@@ -669,9 +667,6 @@ Inténtelo de nuevo o llame al servicio de atención al cliente para obtener má
     <string name="no_volte">No es posible hacer una llamada IMS</string>
     <string name="sip_system_decide">Automático</string>
     <string name="sip_always_send_keepalive">Enviar siempre</string>
-
-    <string name="advanced_settings_container">configuración avanzada de contenedores</string>
-    <string name="auth_username">AuthUserName</string>
     <string name="ims_edit_title">Detalles de cuenta IMS</string>
     <string name="ims_accounts_title">Cuenta IMS</string>
     <string name="ims_domain_address_title">Servidor IMS</string>

@@ -579,7 +579,6 @@
     <string name="readmode_recommend">Vista recomendada</string>
     <string name="readmode_refresh">Actualizar</string>
     <string name="readmode_battery">Batería</string>
-    <string name="pref_ua_mione_value">4</string>
     <string name="dump_counters">Volcar contadores V8</string>
     <string name="dump_dom_tree">Volcar árbol DOM al archivo</string>
     <string name="dump_render_tree">Volcar árbol renderizado al ábrol</string>

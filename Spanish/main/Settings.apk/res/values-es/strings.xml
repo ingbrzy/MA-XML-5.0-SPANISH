@@ -1520,7 +1520,6 @@ Type PIN to pair with \"%1$s\". [Seguridad alta activada, por favor introduzca u
     <string name="wifi_status">Estado</string>
     <string name="wifi_speed">Velocidad de enlace</string>
     <string name="wifi_ip_address">Dirección IP</string>
-    <string name="wifi_ip_address_hint">192.168.1.128</string>
     <string name="wifi_eap_method">Método EAP</string>
     <string name="please_select_phase2">Autenticación de fase 2</string>
     <string name="wifi_eap_ca_cert">Certificado de CA</string>
@@ -1576,13 +1575,9 @@ La configuración del teléfono puede exigir una actividad de red significativa.
     <string name="wifi_ip_settings_invalid_dns">Introduce una dirección DNS válida.</string>
     <string name="wifi_ip_settings_invalid_network_prefix_length">Introduce un prefijo de red que tenga entre 0 y 32 caracteres.</string>
     <string name="wifi_dns1">DNS 1</string>
-    <string name="wifi_dns1_hint">8.8.8.8</string>
     <string name="wifi_dns2">DNS 2</string>
-    <string name="wifi_dns2_hint">8.8.4.4</string>
     <string name="wifi_gateway">Puerta de enlace</string>
-    <string name="wifi_gateway_hint">192.168.1.1</string>
     <string name="wifi_network_prefix_length">Longitud prefijo de red</string>
-    <string name="wifi_network_prefix_length_hint">24</string>
     <string name="wifi_p2p_settings_title">Wi-Fi Direct</string>
     <string name="wifi_p2p_device_info">Información del dispositivo</string>
     <string name="wifi_p2p_persist_network">Recordar esta conexión</string>
@@ -1696,7 +1691,6 @@ La configuración del teléfono puede exigir una actividad de red significativa.
     <string name="screensaver_settings_button">Ajustes</string>
     <string name="automatic_brightness">Brillo automático</string>
     <string name="title_font_size">Tamaño de fuente</string>
-    <string name="summary_font_size">%1$s</string>
     <string name="dialog_title_font_size">Tamaño de fuente</string>
     <string name="sim_lock_settings">Ajustes de bloqueo tarjeta SIM</string>
     <string name="sim_lock_settings_category">Bloqueo de tarjeta SIM</string>
@@ -2410,7 +2404,6 @@ If the device has multiple users, using this shortcut on the lock screen tempora
     <string name="battery_stats_wifi_running_label">Wi-Fi</string>
     <string name="battery_stats_wake_lock_label">Activa</string>
     <string name="battery_stats_phone_signal_label">Señal de red móvil</string>
-    <string name="battery_stats_last_duration">@string/menu_stats_last_unplugged</string>
     <string name="awake">Tiempo de actividad</string>
     <string name="wifi_on_time">Tiempo de conexión Wi-Fi</string>
     <string name="bluetooth_on_time">Tiempo de conexión Wi-Fi</string>
@@ -2650,7 +2643,6 @@ Pulsa en el botón para ir a los ajustes de la pantalla"</string>
 
 Toca "<b>Volver</b> para conectarte a otra red Wi-Fi.</string>
     <string name="time_zone_auto_stub">Seleccionar la Zona Horaria</string>
-    <string name="accessibility_sync_enabled">Sincronización habilitada</string>
     <string name="accessibility_sync_disabled">Sincronización inhabilitada</string>
     <string name="accessibility_sync_error">Error de sincronización.</string>
     <string name="sync_failed">Error de sincronización</string>
@@ -2923,7 +2915,6 @@ Para más información contacte con su administrador."</string>
 Una credencial de confianza instalada en su dispositivo está haciendo esto posible."</string>
     <string name="ssl_ca_cert_settings_button">Comprobar credenciales de confianza</string>
     <string name="tune_away_title">Tune Away</string>
-    <string name="tune_away_Default">Desactivado</string>
     <string name="tune_away_enabled">¡TuneAway activado!</string>
     <string name="tune_away_disabled">¡TuneAway desactivado!</string>
     <string name="priority_sub_title">Prioridad de suscripción</string>
