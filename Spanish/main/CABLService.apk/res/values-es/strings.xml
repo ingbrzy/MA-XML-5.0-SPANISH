@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Retroiluminación</string>
+    <string name="cabl_settings_title">Configuración de la retroiluminación</string>
+    <string name="cabl_enable_title">Activar retroiluminación</string>
+    <string name="cabl_enable_summary_on">La retroiluminación se ajustará basándose en el contenido de la pantalla</string>
+    <string name="cabl_enable_summary_off">La retroiluminación no se ajustará basándose en el contenido de la pantalla</string>
+    <string name="cabl_levels_title">Niveles de calidad visual</string>
+    <string name="cabl_levels_summary">Un nivel bajo significa ahorrar más batería, pero podría causar que la pantalla sea demasiado tenue.</string>
+    <string name="cabl_level_default">Auto</string>
+    <string name="cabl_info_default">Desconocido</string>
+    <string name="cabl_version_title">Versión CABL</string>
+</resources>

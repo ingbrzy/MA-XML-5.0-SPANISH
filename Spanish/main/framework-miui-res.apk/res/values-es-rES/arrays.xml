@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string-array name="alarm_in_future">
+        <item>Alarma en menos de un minuto</item>
+        <item>Alarma en %1$s</item>
+        <item>Alarma en %2$s</item>
+        <item>Alarma en %1$s %2$s</item>
+        <item>Alarma en %3$s</item>
+        <item>Alarma en %1$s %3$s</item>
+        <item>Alarma en %2$s %3$s</item>
+        <item>Alarma en %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Nombre</item>
+        <item>Nick</item>
+        <item>Teléfono</item>
+        <item>E-mail</item>
+        <item>Empresa</item>
+        <item>IM</item>
+        <item>Teléfono SIP</item>
+        <item>Cumpleaños</item>
+        <item>Web</item>
+        <item>Dirección</item>
+        <item>Nota</item>
+    </string-array>
+</resources>

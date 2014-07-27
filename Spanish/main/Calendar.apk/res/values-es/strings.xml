@@ -141,9 +141,6 @@
     <string name="preferences_show_week_num_title">Mostrar número de semana</string>
     <string name="preferences_about_title">Acerca de</string>
     <string name="preferences_build_version">Versión de la compilación</string>
-    <string name="prefDefault_alerts_vibrateWhen">never</string>
-    <string name="prefDefault_alerts_vibrate_true">always</string>
-    <string name="prefDefault_alerts_vibrate_false">nunca</string>
     <string name="prefDialogTitle_vibrateWhen">Vibrar</string>
     <string name="gadget_title">Calendario</string>
     <string name="gadget_no_events">No hay eventos programados</string>
@@ -272,7 +269,6 @@
     <string name="birthday_notification_text_three_days_later">3 para el cumpleaños de (%3$s)</string>
     <string name="birthday_notification_age_term" />
     <string name="birthday_notification_type_term_lunar" />
-    <string name="birthday_event_title">@string/birthday_notification_title_today</string>
     <string name="birthday_event_description">¡Hoy es el cumpleaños de %1$s!</string>
     <string name="birthday_event_description_detail_leap" />
     <string name="birthday_event_description_detail_smart" />

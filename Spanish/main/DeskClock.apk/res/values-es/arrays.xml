@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="alarm_in_furture">
+        <item>Sonará en menos de un minuto</item>
+        <item>Sonará en %1$s</item>
+        <item>Sonará en %2$s</item>
+        <item>Sonará en %1$s %2$s</item>
+        <item>Sonará en %3$s</item>
+        <item>Sonará en %1$s %3$s</item>
+        <item>Sonará en %2$s %3$s</item>
+        <item>Sonará en %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="days">
+        <item>Ayer</item>
+        <item>Hoy</item>
+        <item>Mañana</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Una vez</item>
+        <item>Diaria</item>
+        <item>Dias de trabajo</item>
+        <item>Lunes a viernes</item>
+        <item>Personalizado</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Una vez</item>
+        <item>Diario</item>
+        <item>Lun. a Vie.</item>
+        <item>Personalizado</item>
+    </string-array>
     <string-array name="alarm_set">
         <item>La alarma sonará en menos de un minuto.</item>
         <item>La alarma sonará en %1$s.</item>
@@ -10,61 +38,28 @@
         <item>La alarma sonará en %2$s y %3$s.</item>
         <item>La alarma sonará en %1$s, %2$s y %3$s.</item>
     </string-array>
-    <string-array name="alarm_repeat_type">
-        <item>Una vez</item>
-        <item>Diaria</item>
-        <item>Días laborales</item>
-        <item>Lunes a viernes</item>
-        <item>Personalizada</item>
-    </string-array>	
+    <string-array name="snooze_duration_entries">
+        <item>1 minuto</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>15 minutos</item>
+        <item>20 minutos</item>
+        <item>25 minutos</item>
+        <item>30 minutos</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>Desactivado</item>
+        <item>1 minuto</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>15 minutos</item>
+        <item>20 minutos</item>
+        <item>25 minutos</item>
+        <item>30 minutos</item>
+    </string-array>
     <string-array name="volume_button_setting_entries">
-        <item>No hacer nada</item>
-        <item>Posponer alarma</item>
-        <item>Descartar alarma</item>
-    </string-array>
-    <string-array name="volume_button_setting_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
-    <string-array name="alarm_in_furture">
-        <item>Sonará en menos de un minuto</item>
-        <item>Sonará en %1$s</item>
-        <item>Sonará en %2$s</item>
-        <item>Sonará en %1$s y %2$s</item>
-        <item>Sonará en %3$s</item>
-        <item>Sonará en %1$s y %3$s</item>
-        <item>Sonará en %2$s y %3$s</item>
-        <item>Sonará en %1$s, %2$s y %3$s</item>
-    </string-array>
-    <string-array name="days">
-        <item>Ayer</item>
-        <item>Hoy</item>
-        <item>Mañana</item>
-    </string-array>
-    <string-array name="alarm_duration_values">
-        <item>1</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>20</item>
-        <item>25</item>
-        <item>30</item>
-    </string-array>
-    <string-array name="alarm_count_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>-1</item>
-    </string-array>
-    <string-array name="alarm_count_entries">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>Off</item>
+        <item>Nada</item>
+        <item>Posponer</item>
+        <item>Descartar</item>
     </string-array>
 </resources>

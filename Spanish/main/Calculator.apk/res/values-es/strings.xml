@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="standard">básica</string>
+    <string name="scientific">cientifica</string>
+    <string name="switch_to_scientific_pad">cambiar a teclado científico</string>
+    <string name="switch_to_standard_pad">cambiar a teclado básico</string>
     <string name="app_name">Calculadora</string>
     <string name="error">Error</string>
     <string name="digit0">0</string>
@@ -13,7 +17,7 @@
     <string name="digit8">8</string>
     <string name="digit9">9</string>
     <string name="del">DEL</string>
-    <string name="clear">C</string>
+    <string name="clear">CE</string>
     <string name="div">÷</string>
     <string name="mul">×</string>
     <string name="plus">+</string>
@@ -22,19 +26,46 @@
     <string name="equal">=</string>
     <string name="enter">↓</string>
     <string name="sin">sin</string>
+    <string name="sin_mathematical_value">sin</string>
     <string name="cos">cos</string>
+    <string name="cos_mathematical_value">cos</string>
     <string name="tan">tan</string>
+    <string name="tan_mathematical_value">tan</string>
     <string name="pi">π</string>
     <string name="e">e</string>
+    <string name="e_mathematical_value">e</string>
     <string name="ln">ln</string>
+    <string name="ln_mathematical_value">ln</string>
     <string name="lg">log</string>
+    <string name="lg_mathematical_value">lg</string>
     <string name="leftParen">(</string>
     <string name="rightParen">)</string>
     <string name="sqrt">√</string>
     <string name="power">^</string>
     <string name="factorial">!</string>
-    <string name="basic">Panel de funciones básicas</string>
-    <string name="advanced">Panel de funciones avanzadas</string>
+    <string name="basic">Panel básico</string>
+    <string name="advanced">Panel avanzado</string>
     <string name="clear_history">Borrar historial</string>
     <string name="text_copied_toast">Texto copiado.</string>
+    <string name="leftParenDesc">paréntisis izquierdo</string>
+    <string name="rightParenDesc">paréntisis derecho</string>
+    <string name="factorialDesc">factorial</string>
+    <string name="lnDesc">logaritmo natural</string>
+    <string name="lgDesc">logaritmo</string>
+    <string name="sqrtDesc">raíz cuadrada</string>
+    <string name="divDesc">dividir</string>
+    <string name="mulDesc">multiplicar</string>
+    <string name="plusDesc">plus</string>
+    <string name="minusDesc">minus</string>
+    <string name="dotDesc">punto</string>
+    <string name="powerDesc">encendido</string>
+    <string name="delDesc">eliminar</string>
+    <string name="clearDesc">borrar</string>
+    <string name="tanDesc">tangente</string>
+    <string name="sinDesc">seno</string>
+    <string name="cosDesc">coseno</string>
+    <string name="eDesc">Número aural</string>
+    <string name="piDesc">pi</string>
+    <string name="equalDesc">igual</string>
+    <string name="equal_on_history">=</string>
 </resources>
