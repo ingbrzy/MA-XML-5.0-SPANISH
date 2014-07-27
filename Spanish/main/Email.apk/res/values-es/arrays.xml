@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Responder</item>
+        <item>Responder a todos</item>
+        <item>Reenviar</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Sin errores</item>
+        <item>Sin conexión</item>
+        <item>Error al iniciar sesión</item>
+        <item>Error de seguridad</item>
+        <item>Error al sincronizar</item>
+        <item>Error interno</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Sistema</item>
+        <item>Uso frecuente</item>
+        <item>Todas las carpetas</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Más reciente</item>
+        <item>Más antigua</item>
+        <item>Lista de conversaciones</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Mostrar conversación más reciente después de eliminar</item>
+        <item>Mostrar conversación más antigua después de eliminar</item>
+        <item>Mostrar lista de conversaciones después de eliminar</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Mostrar solo archivar</item>
+        <item>Mostrar solo eliminar</item>
+        <item>Mostrar archivar y eliminar</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Mostrar solo archivar</item>
+        <item>Mostrar solo eliminar</item>
+        <item>Mostrar archivar y eliminar</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Texto muy pequeño</item>
+        <item>Texto pequeño</item>
+        <item>Texto normal</item>
+        <item>Texto grande</item>
+        <item>Texto enorme</item>
+    </string-array>
+</resources>
