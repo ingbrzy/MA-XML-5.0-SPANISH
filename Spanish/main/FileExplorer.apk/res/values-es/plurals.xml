@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_files_confirm">
+        <item quantity="other">Borrar %1$d archivos</item>
+        <item quantity="zero">Borrar %1$d archivos</item>
+        <item quantity="one">Borrar %1$d archivo</item>
+        <item quantity="two">Borrar %1$d archivos</item>
+        <item quantity="few">%1$Borrar %1$d archivos</item>
+        <item quantity="many">Borrar %1$d archivos</item>
+    </plurals>
+    <plurals name="delete_folders_confirm">
+        <item quantity="other">" y %1$d carpetas?"</item>
+        <item quantity="zero">" y %1$d carpetas?"</item>
+        <item quantity="one">" y %1$d carpeta?"</item>
+        <item quantity="two">" y %1$d carpetas?"</item>
+        <item quantity="few">" y %1$d carpetas?"</item>
+        <item quantity="many">" y %1$d carpetas?"</item>
+    </plurals>
+    <plurals name="ui_bar_txt_download_progress">
+        <item quantity="other">%1$d archivos quedan por descargar</item>
+        <item quantity="zero">%1$d archivos quedan por descargar</item>
+        <item quantity="one">%1$d archivo queda por descargar</item>
+        <item quantity="two">%1$d archivos quedan por descargar</item>
+        <item quantity="few">%1$d archivos quedan por descargar</item>
+        <item quantity="many">%1$d archivos quedan por descargar</item>
+    </plurals>
+    <plurals name="ui_bar_txt_upload_progress">
+        <item quantity="other">%1$d archivos quedan por subir</item>
+        <item quantity="zero">%1$d archivos quedan por subir</item>
+        <item quantity="one">%1$d archivo queda por subir</item>
+        <item quantity="two">%1$d archivos quedan por subir</item>
+        <item quantity="few">%1$d archivos quedan por subir</item>
+        <item quantity="many">%1$d archivos quedan por subir</item>
+    </plurals>
+</resources>

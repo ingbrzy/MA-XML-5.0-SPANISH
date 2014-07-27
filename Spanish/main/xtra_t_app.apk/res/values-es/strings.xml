@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="IZat_MENU_TEXT">Aceleración de ubicación</string>
+    <string name="IZat_SUB_TITLE_TEXT">Usar la aceleración por hardware para la ubicación</string>
+    <string name="POPUP_BOX_TITLE">Consentimiento de ubicación</string>
+    <string name="POPUP_BOX_TEXT">Para activar la aceleración del hardware, permite a IZat que recoja sus datos de ubicación. IZat almacenará datos en su dispositivo y operará cuando no haya apps activadas.</string>
+    <string name="POLICY_LINK">&lt;a href=\"http://xt.qsp.qualcomm.com/privacy/privacy_policy.html\">Términos y política de privacidad&lt;/a></string>
+    <string name="IZAT_AGREE">Estoy de acuerdo</string>
+    <string name="IZAT_DISAGREE">No estoy de acuerdo</string>
+    <string name="XT_APP_TITLE">Qualcomm IZat</string>
+</resources>

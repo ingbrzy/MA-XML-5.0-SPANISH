@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_summary_manage_sim_messages">Gestionar mensajes almacenados en la tarjeta UIM</string>
+    <string name="pref_title_manage_sim_messages">Gestionar mensajes de su tarjeta UIM</string>
+    <string name="confirm_delete_all_SIM_messages">Todos los mensajes de su tarjeta UIM serán borrados.</string>
+    <string name="confirm_delete_SIM_message">Este mensaje de la tarjeta UIM serán eliminados.</string>
+    <string name="sim_manage_messages_title">Mensaje de texto de la tarjeta UIM</string>
+    <string name="sim_empty">Sin mensajes en la tarjeta UIM.</string>
+    <string name="sim_full_title">Tarjeta UIM llena</string>
+    <string name="save_to_sim">Salvar en la tarjeta UIM</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Shell</string>
+    <string name="bugreport_finished_title">Reporte de bugs</string>
+    <string name="bugreport_finished_text">Pulse para compartir su reporte de errores (bugs)</string>
+    <string name="bugreport_confirm">Los informes de errores contienen datos de varios archivos de registro del sistema, incluyendo la información personal y privada. Comparte los informes de error de apps solamente con personas de confianza.</string>
+    <string name="bugreport_confirm_repeat">Mostrar este mensaje la próxima vez</string>
+</resources>

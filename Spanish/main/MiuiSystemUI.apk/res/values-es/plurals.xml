@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="status_bar_accessibility_recent_apps">
-        <item quantity="other">%d aplicaciones recientes</item>
-        <item quantity="one">1 aplicación reciente</item>
+        <item quantity="other">%d apps recientes</item>
+        <item quantity="one">1 app reciente</item>
     </plurals>
 </resources>

@@ -1,23 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="widget_sizes">
-        <item>home_edit_box_area_1_1</item>
-        <item>home_edit_box_area_1_2</item>
-        <item>home_edit_box_area_1_3</item>
-        <item>home_edit_box_area_1_4</item>
-        <item>home_edit_box_area_2_1</item>
-        <item>home_edit_box_area_2_2</item>
-        <item>home_edit_box_area_2_3</item>
-        <item>home_edit_box_area_2_4</item>
-        <item>home_edit_box_area_3_1</item>
-        <item>home_edit_box_area_3_2</item>
-        <item>home_edit_box_area_3_3</item>
-        <item>home_edit_box_area_3_4</item>
-        <item>home_edit_box_area_4_1</item>
-        <item>home_edit_box_area_4_2</item>
-        <item>home_edit_box_area_4_3</item>
-        <item>home_edit_box_area_4_4</item>
-    </string-array>
     <string-array name="transformation_entries">
         <item>Clásico</item>
         <item>Clásico (sin rebote)</item>
@@ -26,73 +8,49 @@
         <item>Páginas</item>
         <item>Cascada</item>
         <item>Rotación</item>
-        <item>Cubo 3D</item>
-    </string-array>
-    <string-array name="transformation_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>5</item>
-        <item>7</item>
-        <item>8</item>
-        <item>4</item>
+        <item>Cubo</item>
     </string-array>
     <string-array name="wallpaper_scroll_entries">
-        <item>Según tema</item>
+        <item>Tema principal</item>
         <item>Centro</item>
         <item>Izquierda</item>
         <item>Derecha</item>
     </string-array>
-    <string-array name="wallpaper_scroll_values">
-        <item>byTheme</item>
-        <item>center</item>
-        <item>left</item>
-        <item>right</item>
-    </string-array>
-    <string-array name="cell_layout_size_entries">
-        <item>4x4</item>
-        <item>4x5</item>
-    </string-array>
-    <string-array name="cell_layout_size_values">
-        <item>4x4</item>
-        <item>4x5</item>
+    <string-array name="gadget_weather_theme_type_entries">
+        <item>Principal</item>
+        <item>Clásico</item>
     </string-array>
     <string-array name="gadget_weather_image">
         <item>Despejado</item>
-        <item>Nublado</item>
-        <item>Frío y húmedo</item>
-        <item>Nublado</item>
-        <item>Lluvia torrencial</item>
+        <item>Nuboso</item>
+        <item>Calimoso</item>
+        <item>Neblinoso</item>
+        <item>Tormentas de lluvia fuerte</item>
+        <item>Tormentas de lluvia</item>
+        <item>Chaparrón fuerte</item>
         <item>Tormenta</item>
-        <item>Temporal de lluvia</item>
-        <item>Tempestad</item>
+        <item>Chubascos</item>
+        <item>Diluvio</item>
         <item>Lluvia</item>
-        <item>Lluvia fuerte</item>
-        <item>Lluvia moderada</item>
         <item>Llovizna</item>
         <item>Aguanieve</item>
-        <item>Ventisca</item>
-        <item>Lluvia con nieve</item>
-        <item>Nieve</item>
-        <item>Nieve ligera</item>
-        <item>Nevando</item>
-        <item>Tormenta de arena fuerte</item>
+        <item>Tormenta de nieve</item>
+        <item>Nevada intermitente</item>
+        <item>Nevada intensa</item>
+        <item>Nevada</item>
+        <item>Nevada ligera</item>
+        <item>Fuerte tormenta de arena</item>
         <item>Tormenta de arena</item>
-        <item>Polvoriento y húmedo</item>
-        <item>Jansa</item>
-        <item>Granizada</item>
+        <item>Tormentas de area ligeras</item>
+        <item>Tormneta de arena</item>
+        <item>Granizo</item>
+        <item>Polvo</item>
+        <item>Neblina</item>
     </string-array>
     <string-array name="editing_mode_entries">
-        <item>Limpiar pantalla Home</item>
+        <item>Ordenar</item>
         <item>Widgets</item>
-        <item>Cambiar Fondo</item>
+        <item>Fondos</item>
         <item>Transiciones</item>
     </string-array>
-    <string-array name="editing_mode_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-    </string-array>	
 </resources>

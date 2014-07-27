@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="needPuk">Su tarjeta USIM está bloqueada por PUK. Introduzca el código PUK para desbloquearla.</string>
+    <string name="needPuk2">Introduzca el código PUK 2 para desbloquear la USIM.</string>
+    <string name="permdesc_readSms">Permite a la aplicación leer mensajes SMS almacenados en su teléfono o tarjeta USIM. Aplicaciones malintencionadas podrían leer sus mensajes confidenciales.</string>
+    <string name="permdesc_writeSms">Permite a la aplicación escribir mensajes SMS almacenados en su teléfono o tarjeta USIM. Aplicaciones malintencionadas podrían borrar sus mensajes confidenciales.</string>
+    <string name="lockscreen_missing_sim_message_short">Sin tarjeta USIM.</string>
+    <string name="lockscreen_missing_sim_message">Sin tarjeta USIM en el teléfono.</string>
+    <string name="lockscreen_missing_sim_instructions">Por favor inserte una tarjeta USIM.</string>
+    <string name="lockscreen_missing_sim_instructions_long">No hay tarjeta USIM o esta no es legible. Por favor inserte una tarjeta USIM.</string>
+    <string name="lockscreen_permanent_disabled_sim_instructions">"Su tarjeta USIM está deshabilitada.
+ Por favor contacte con su compañía para obtener otra tarjeta USIM."</string>
+    <string name="lockscreen_sim_puk_locked_message">Tarjeta USIM bloqueada por PUK.</string>
+    <string name="lockscreen_sim_locked_message">Tarjeta USIM bloqueada.</string>
+    <string name="lockscreen_sim_unlock_progress_dialog_message">Desbloqueando tarjeta USIM…</string>
+    <string name="sim_removed_title">Tarjeta USIM quitada</string>
+    <string name="sim_removed_message">La red móvil no estará disponible hasta que reinicie con una tarjeta USIM válida.</string>
+    <string name="sim_added_title">Tarjeta USIM añadida</string>
+</resources>

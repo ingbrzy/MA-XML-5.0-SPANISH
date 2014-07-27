@@ -10,6 +10,5 @@
     <string name="duration">Duración:</string>
     <string name="data_transmitted">Enviado:</string>
     <string name="data_received">Recibido:</string>
-    <string name="blank_value">--</string>
     <string name="data_value_format">%1$s bytes / %2$s paquetes</string>
 </resources>

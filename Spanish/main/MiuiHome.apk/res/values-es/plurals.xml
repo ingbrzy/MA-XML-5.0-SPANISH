@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="uninstall_dialog_title_format">
-        <item quantity="other">Desinstalar %1$s y %2$d apps adicionales?</item>
-        <item quantity="one">Desinstalar \"%s\"</item>
-        <item quantity="two">Desinstalar \"%s\" y 1 app adicional?</item>
+        <item quantity="other">¿Desinstalar %1$s y %2$d apps más?</item>
+        <item quantity="one">¿Desinstalar %s?</item>
+        <item quantity="two">¿Desinstalar %s y 1 app más?</item>
     </plurals>
     <plurals name="uninstall_result_succeeded">
-        <item quantity="other">%1$ apps desinstaladas</item>
+        <item quantity="other">%1$d apps desinstaladas</item>
         <item quantity="one">App desinstalada</item>
     </plurals>
     <plurals name="uninstall_result_failed">
-        <item quantity="other">"No se pudo desinstalar %1$s y %2$d apps adicionales"</item>
-        <item quantity="one">"No se pudo desinstalar \"%s\""</item>
-        <item quantity="two">"No se pudo desinstalar \"%s\" y 1 app adicional"</item>
+        <item quantity="other">No es posible desinstalar %1$s y %2$d apps más</item>
+        <item quantity="one">No es posible desinstalar %s</item>
+        <item quantity="two">No es posible desinstalar %s y 1 app más</item>
     </plurals>
 </resources>

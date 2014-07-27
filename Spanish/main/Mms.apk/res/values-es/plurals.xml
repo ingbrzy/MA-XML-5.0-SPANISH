@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">%1$s conversaciones se borrarán.</item>
-        <item quantity="one">Una conversación se borrará.</item>
+        <item quantity="other">¿Eliminar las %1$s conversaciones seleccionadas?</item>
+        <item quantity="one">¿Eliminar esta conversación?</item>
     </plurals>
     <plurals name="slide_duration">
-        <item quantity="other">%s segundos</item>
-        <item quantity="one">%s segundos</item>
-        <item quantity="few">%s segundos</item>
+        <item quantity="other">%s segs</item>
+        <item quantity="one">%s segs</item>
+        <item quantity="few">%s segs</item>
     </plurals>
     <plurals name="search_results_title">
         <item quantity="other">%1$s resultados para \"%2$s\"</item>
@@ -15,5 +15,9 @@
     </plurals>
     <plurals name="recipient_count">
         <item quantity="other">%1$s personas</item>
+    </plurals>
+    <plurals name="message_count">
+        <item quantity="other">%1$s mensajes</item>
+        <item quantity="one">%1$s mensaje</item>
     </plurals>
 </resources>
