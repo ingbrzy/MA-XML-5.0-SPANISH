@@ -1,18 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="calendar_storage">Almacenamiento de calendario</string>
-    <string name="upgrade_msg">Actualizando la base de datos del calendario.</string>
+    <string name="upgrade_msg">Actualizando base de datos del calendario.</string>
     <string name="calendar_default_name">Predeterminado</string>
     <string name="calendar_info">Información de calendario</string>
     <string name="calendar_info_error">Error</string>
-    <string name="calendar_info_no_calendars">No hay calendarios.</string>
+    <string name="calendar_info_no_calendars">Sin calendarios</string>
     <string name="calendar_info_events">Eventos: %1$d</string>
-    <string name="calendar_info_events_dirty">Eventos: %1$d; no guardados: %2$d</string>
+    <string name="calendar_info_events_dirty">Eventos: %1$d, No guardados: %2$d</string>
     <string name="provider_label">Calendario</string>
     <string name="debug_tool_delete_button">Borrar ahora</string>
     <string name="debug_tool_start_button">Iniciar</string>
-    <string name="debug_tool_message">Va a realizar una copia de su base de datos de calendario en la memoria de su dispositivo para su envio via email, recuerde que este archivo puede ser leído por otra aplicación.</string>
+    <string name="debug_tool_message">Va a realizar 1) copia de su base de datos de calendario en la memoria de su dispositivo para su envio, 2) via email. Recuerde que este archivo puede ser leído por otra aplicación.</string>
     <string name="debug_tool_email_sender_picker">Elegir programa para enviar el archivo</string>
     <string name="debug_tool_email_subject">Base de datos adjuntado</string>
     <string name="debug_tool_email_body">Adjunto mi base de datos de calendario con todas mis citas y mi información personal. Por favor, tenga cuidado.</string>
+    <string name="holiday_update_title">Datos de días laborables necesita conectarse a la red y actualizarse</string>
+    <string name="holiday_update_summary">Pulse para comprobar actualizaciones</string>
+    <string name="holiday_data_updating">Actualizando...</string>
+    <string name="holiday_data_update_failed">Compruebe errores de actualización e inténtelo de nuevo más tarde.</string>
+    <string name="holiday_data_update_succeed">Compruebe la actualización completa</string>
+    <string name="holiday_data_no_network">Sin red, vuelva a intentarlo más tarde</string>
 </resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="simContacts_emptyLoading">Cargando contactos de la UIM...</string>
+    <string name="simContacts_title">Contactos de la UIM</string>
+    <string name="noContactsHelpText">"No tiene contactos para mostrar.
+
+Para añadir contactos, pulse "<font fgcolor="#ffffffff"><b>Menu</b></font>" y pulse:
+ 
+"<li><font fgcolor="#ffffffff"><b>"Añadir cuentas o configurar una cuenta con contactos que pueda sincr con el teléfono
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Crear nuevo contacto desde el principio
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Importar/Exportar contactos desde su UIM o desde su SD
+"</b></font></li>"
+"</string>
+    <string name="noContactsHelpTextWithSync">"No tiene contactos para mostrar. (Si acaba de añadir una cuenta, podría llevar unos minutos para mostrar los contactos.)
+
+Para añadir contactos, pulse "<font fgcolor="#ffffffff"><b>Menú</b></font>" y pulse:
+ 
+"<li><font fgcolor="#ffffffff"><b>"Añadir cuentas o configurar una cuenta con contactos que pueda sincr en el teléfono
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Mostrar opciones para cambiar contactos cuando estén visibles
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Crear nuevo contacto desde el principio
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Importar/Exportar contactos desde su UIM o desde su SD
+"</b></font></li>"
+"</string>
+    <string name="import_from_sim">Importar desde UIM</string>
+    <string name="sim_no_contact">Sin contactos en su UIM</string>
+    <string name="sim_indexed_contact_not_exist">Posición %1$d no válida en su UIM, entre %2$d y %3$d</string>
+    <string name="sim_contact_search_error">Ocurre un error cuando busca contactos en su UIM</string>
+    <string name="account_sim">Solamente guardados en la UIM</string>
+    <string name="display_sim_contacts">Mostrar contactos UIM</string>
+    <string name="export_to_sim">Exportar a la UIM</string>
+    <string name="sim_card_no_free_space_title">Tarjeta UIM llena</string>
+    <string name="sim_card_no_free_space_message">La capacidad de su USIM está llena, no es posible importar contactos. Por favor elimine espacio de su USIM y vuelva a intentarlo.</string>
+    <string name="sim_contacts">Contactos UIM</string>
+    <string name="export_sim_contacts_dialog_message">Su UIM puede almacenar %d contactos, ¿Proceder?</string>
+    <string name="export_sim_contact_finish">Exportado a la UIM completado</string>
+    <string name="sim_export_loading">Leyendo información de su UIM (puede llevar un minuto)...</string>
+</resources>
