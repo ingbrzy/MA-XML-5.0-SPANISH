@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Personal</item>
+        <item>Trabajo</item>
+        <item>Otra</item>
+        <item>Personalizar</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Trabajo</item>
+        <item>Otra</item>
+        <item>Personalizada</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Casa</item>
+        <item>Móvil</item>
+        <item>Trabajo</item>
+        <item>Fax del trabajo</item>
+        <item>Fax personal</item>
+        <item>Buscapersonas</item>
+        <item>Otro</item>
+        <item>Personalizada</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Personal</item>
+        <item>Trabajo</item>
+        <item>Otra</item>
+        <item>Personalizada</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Tratando acceder a localización</item>
+        <item>Tratando acceder a localización</item>
+        <item>Tratando acceder a localización</item>
+        <item>Tratando usar vibración</item>
+        <item>Tratando leer contactos</item>
+        <item>Tratando modificar contactos</item>
+        <item>Tratando leer registro de llamadas</item>
+        <item>Tratando modificar registro de llamadas</item>
+        <item>Tratando leer calendario</item>
+        <item>Tratando modificar calendario</item>
+        <item>Tratando acceder a localización</item>
+        <item>Tratando publicar notificación</item>
+        <item>Tratando acceder localización</item>
+        <item>Tratando hacer una llamada</item>
+        <item>Tratando leer SMS</item>
+        <item>Tratando escribir/modificar SMS</item>
+        <item>Tratando recibir SMS</item>
+        <item>Tratando recibir SMS</item>
+        <item>Tratando recibir MMS</item>
+        <item>Tratando recibir SMS</item>
+        <item>Tratando enviar SMS</item>
+        <item>Tratando leer SMS</item>
+        <item>Tratando escribir/modificar SMS</item>
+        <item>Tratando modificar ajustes</item>
+        <item>Tratando de dibujar en la parte superior</item>
+        <item>Tratando acceder a notificaciones</item>
+        <item>Tratando acceder a Cámara</item>
+        <item>Tratando grabar audio</item>
+        <item>Tratando reproducir audio</item>
+        <item>Tratando leer portapapeles</item>
+        <item>Tratando modificar portapapeles</item>
+        <item>Intentando usar los botones multimedia</item>
+        <item>Intentando usar el audio</item>
+        <item>Intentando usar el volumen maestro</item>
+        <item>Intentando usar el volumen de las llamadas</item>
+        <item>Intentando usar el volumen del timbre</item>
+        <item>Intentando usar el volumen multimedia</item>
+        <item>Intentando usar el volumen de la alarma</item>
+        <item>Intentando usar el volumen de las notificaciones</item>
+        <item>Intentando usar el volumen del bluetooth</item>
+        <item>Intentando mantener el dispositivo encendido</item>
+        <item>Intentando acceder a la localización</item>
+        <item>Intentando acceder a la localización</item>
+        <item>Tratando de apagar/encender Wi-Fi</item>
+        <item>Tratando de apagar/encender bluetooth</item>
+        <item>Tratando de apagar/encender datos móviles</item>
+        <item>Tratando de enviar MMS</item>
+        <item>Tratando de leer MMS</item>
+        <item>Tratando de escribir MMS</item>
+        <item>Tratando de iniciar en el arranque</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Personal</item>
+        <item>Trabajo</item>
+        <item>Otras</item>
+        <item>Personalizada</item>
+    </string-array>
+</resources>
