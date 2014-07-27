@@ -119,7 +119,6 @@ Para activar esta función diríjase a: Ajustes > Ajustes Generales > Botones"</
     <string name="new_years_day" />
     <string name="no_sim">No se detectó ninguna SIM</string>
     <string name="partys_day" />
-    <string name="passwordIncorrect">@android:string/passwordIncorrect</string>
     <string name="payphone">Payphone</string>
     <string name="peace_day" />
     <string name="perm_auto_backup">Auto backup</string>
@@ -236,9 +235,6 @@ Para activar esta función diríjase a: Ajustes > Ajustes Generales > Botones"</
     <string name="yellow_page_sms_send_failed">Envío de mensaje de texto fallido</string>
     <string name="yellow_page_sms_sending">Enviando…</string>
     <string name="yellow_page_sms_disabled_in_privacy_mode">No se puede enviar mensajes en modo invitado</string>
-    <string name="android_grant_permissions_header_text">@android:string/grant_permissions_header_text</string>
-    <string name="android_deny">@android:string/deny</string>
-    <string name="android_allow">@android:string/allow</string>
     <string name="grant_permissions_apps">Solicitud de acceso a las apps</string>
     <string name="grant_permissions_account">Cuentas</string>
     <string name="hksar_establishment_day" />
