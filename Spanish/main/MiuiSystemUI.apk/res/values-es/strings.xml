@@ -2,7 +2,6 @@
 <resources>
     <string name="config_statusBarComponent">com.android.systemui.statusbar.phone.PhoneStatusBar</string>
     <string name="config_systemBarComponent">com.android.systemui.statusbar.tablet.TabletStatusBar</string>
-    <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
     <string name="status_bar_date_formatter">%2$s</string>
     <string name="oldman_status_bar_time_format">HH:mm</string>
     <string name="oldman_status_bar_time_format_24">HH:mm</string>

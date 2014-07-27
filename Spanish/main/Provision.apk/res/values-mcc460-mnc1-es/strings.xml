@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sim_card_detection_dialog_message">Detecatando tarjeta USIM. Por favor espere.</string>
+    <string name="sim_card_detection_label">Detección tarjeta USIM</string>
+    <string name="sim_card_detection_info">No podemos configurar la cuenta Xiaomi sin una tarjeta USIM. Necesita una tarjeta USIM para disfrutar de algunos servicios como la sincronización de cuentas, seguimiento del teléfono, etc.</string>
+    <string name="sim_card_detection_status_absent">¡No se ha detectado una tarjeta USIM!</string>
+</resources>

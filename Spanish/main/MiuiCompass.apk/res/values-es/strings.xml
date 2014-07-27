@@ -1,10 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_label">Brújula</string>
-  <string name="cannot_get_location">No se puede obtener su ubicación</string>
-  <string name="getting_location">Obteniendo ubicación...</string>
-  <string name="location_east">E</string>
-  <string name="location_north">N</string>
-  <string name="location_south">S</string>
-  <string name="location_west">O</string>
+    <string name="app_label">Brújula</string>
+    <string name="getting_location">Calibrando…</string>
+    <string name="location_north">NO</string>
+    <string name="location_south">SU</string>
+    <string name="location_east">ES</string>
+    <string name="location_west">OE</string>
+    <string name="menu_calibrate">Calibrar brújula</string>
+    <string name="menu_calibrate_altitude">Calibrar altitud</string>
+    <string name="calibrate_success">Calibrada</string>
+    <string name="calibrate_failed_no_location">La calibración falló</string>
+    <string name="calibrate_failed_timeout">La calibración falló: no se pudo conectar con el servidor</string>
+    <string name="pressure_title">Presión</string>
+    <string name="altitude_title">Altitud</string>
+    <string name="dialog_title_no_network">"No se pudo conectar a la red"</string>
+    <string name="dialog_calibrat_altitude">Calibrando</string>
+    <string name="latitude">LAT</string>
+    <string name="longitude">LON</string>
+    <string name="direction_north">N</string>
+    <string name="direction_south">S</string>
+    <string name="direction_east">E</string>
+    <string name="direction_west">O</string>
+    <string name="direction_north_east">NE</string>
+    <string name="direction_north_west">NO</string>
+    <string name="direction_south_east">SE</string>
+    <string name="direction_south_west">SO</string>
+    <string name="guide_toast">Para calibrar la brújula, mueve el teléfono como se indica en la foto de arriba</string>
 </resources>

@@ -74,7 +74,6 @@
     <string name="default_text_encoding">Latin-1</string>
     <string name="lock_pattern_view_aspect">square</string>
     <string name="icu_abbrev_wday_month_day_no_year">eeeMMMMd</string>
-    <string name="system_ui_date_pattern">@string/icu_abbrev_wday_month_day_no_year</string>
     <string name="byteShort">B</string>
     <string name="kilobyteShort">KB</string>
     <string name="megabyteShort">MB</string>

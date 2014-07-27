@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="Parse_error_dlg_text">Se ha producido un problema al analizar el paquete.</string>
+    <string name="caller_app">Solicitante: %1$s</string>
+    <string name="safe_guard_support">Soporte técnico ofrecido por %1$s</string>
+    <string name="safe_relative">Guardar permisos relativos</string>
+    <string name="privacy_relative">Permisos relativos privados</string>
+    <string name="other_relative">Otros permisos</string>
+    <string name="ad_relative">Publicidad</string>
+    <string name="ad_block_button_title">Bloquear publicidad</string>
+    <string name="adware_title">Publicidad</string>
+    <string name="adware_hint">Estos plugins son usados por desarrolladores de terceras partes para mostrar avisos en su dispositivo</string>
+    <string name="adware_count">Contiene %d plugins</string>
+    <string name="perm_notice">Alerta de Seguridad</string>
+    <string name="trust_switch_dialog_msg">MIUI no le pedirá confirmación de ningún tipo de seguridad en las operaciones relacionadas con la privacidad de esta aplicación.</string>
+    <string name="auto_startup_dialog_msg">MIUI permitirá la puesta en marcha de la app de forma automática, sin preguntar.</string>
+    <string name="low_risk_perms">Permisos con riesgo-bajo</string>
+    <string name="high_risk_perms">Permisos con riesgo-alto</string>
+    <string name="perm_privacy_app_finish">Finalizar</string>
+    <string name="perm_privacy_app_launch">Ejecutar</string>
+    <string name="perm_privacy_app_installed">¡Instalación completada!</string>
+    <string name="perm_sysopt_boost_auto_start">Permisos de auto-arranque</string>
+    <string name="perm_sysopt_boost_auto_start_summary">¡La app se iniciará automáticamente!</string>
+    <string name="perm_privacy_app_trust">Confío en esta app</string>
+    <string name="perm_privacy_app_trust_summary">MIUI monitorizará esta app</string>
+    <string name="perm_action_accept">Permitir</string>
+    <string name="perm_action_prompt">Preguntar</string>
+    <string name="perm_action_reject">Denegar</string>
+    <string name="unknown_installer">Herramientas del PC no identificadas</string>
+    <string name="install_failed_system_incompatible">Esta app no es comparible con el sistema MIUI</string>
+    <string name="virus_scan_install"><u>Continuar con la instalación</u></string>
+    <string name="virus_scan_is_virus">Esta app contiene un virus.</string>
+    <string name="virus_scan_is_risk">App de riesgo, no continuar con la instalación.</string>
+    <string name="virus_scan_clear">Eliminiar</string>
+    <string name="virus_scan_caller_unknown">Desconocido</string>
     <string name="app_name">Instalador de paquetes</string>
     <string name="install">Instalar</string>
     <string name="done">Listo</string>
@@ -8,48 +41,47 @@
     <string name="unknown">Desconocida</string>
     <string name="installing">Instalando…</string>
     <string name="install_done">Aplicación instalada</string>
-    <string name="install_confirm_question">¿Quieres instalar esta aplicación?</string>
-    <string name="install_failed">La aplicación no está instalada.</string>
+    <string name="install_confirm_question">¿Quiere instalar esta aplicación?</string>
+    <string name="install_failed">La aplicación no está instalada</string>
     <string name="install_failed_invalid_apk">El paquete parece estar corrupto.</string>
     <string name="install_failed_inconsistent_certificates">Un paquete con el mismo nombre ya esta instalado.</string>
     <string name="install_failed_older_sdk">El paquete sólo funciona en versiones más recientes de Android.</string>
     <string name="install_failed_cpu_abi_incompatible">La aplicación no es compatible con la CPU de este dispositivo.</string>
-    <string name="install_failed_file_not_found">El pquete especificado fue borrado antes de que la instalación fuera completada.</string>
+    <string name="install_failed_file_not_found">El paquete especificado fue borrado antes de que la instalación fuera completada.</string>
     <string name="install_failed_verify_failed">El paquete no ha pasado la verificación y no puede ser instalado.</string>
-    <string name="install_failed_verify_timeout">Un error ocurrió al tratar de verificar el paquete. Por favor trate de instalarlo de nuevo.</string>
+    <string name="install_failed_verify_timeout">Ocurrió un error al tratar de verificar el paquete. Por favor trate de instalarlo de nuevo.</string>
     <string name="install_failed_msg">No se ha podido instalar %1$s en este teléfono.</string>
     <string name="launch">Abrir</string>
     <string name="unknown_apps_dlg_title">Instalación bloqueada</string>
-    <string name="unknown_apps_dlg_text">Por motivos de seguridad, tu teléfono se ha configurado para bloquear la instalación de aplicaciones que no se hayan obtenido de Android Market. Puede modificar esta configuracion en Ajustes->Seguridad->Fuentes desconocidas</string>
+    <string name="unknown_apps_dlg_text">"Por motivos de seguridad, tu teléfono se ha configurado para bloquear la instalación de aplicaciones que no se hayan obtenido de Android Market.
+
+Puede modificar esta configuracion en Ajustes > Seguridad y privacidad > Origenes desconocidos."</string>
     <string name="ok">Aceptar</string>
     <string name="settings">Configuración</string>
-    <string name="allow_source_dlg_title">Permitir una nueva fuenta de aplicaciones?</string>
-    <string name="allow_source_dlg_text">"%1$s quiere instalar otras aplicaciones.
+    <string name="allow_source_dlg_title">¿Permitir una nueva fuente de aplicaciones?</string>
+    <string name="allow_source_dlg_text">"%1$s quiere instalar otras apps.
 
 Permitir esto ahora y en el futuro?"</string>
-    <string name="manage_applications">Administrar aplicaciones</string>
-    <string name="dlg_app_replacement_title">Sustituir aplicación</string>
-    <string name="dlg_app_replacement_statement">La aplicación que quieres instalar sustituirá a otra aplicación. Se guardarán todos los datos de usuarios anteriores.</string>
-    <string name="dlg_sys_app_replacement_statement">Es una aplicación del sistema. ¿Deseas sustituirla de todos modos? Se guardarán todos los datos de usuario anteriores.</string>
+    <string name="manage_applications">Administrar apps</string>
+    <string name="dlg_app_replacement_title">Sustituir app</string>
+    <string name="dlg_app_replacement_statement">"La app que quiere instalar sustituirá a otra aplicación.
+
+Se guardarán todos los datos de usuarios anteriores."</string>
+    <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) se reemplazará por la versión actual (%3$s). El contenido del usuario será guardado.
+¿Seguro que quiere instalarlo?"</string>
+    <string name="dlg_sys_app_replacement_statement">"Es una app del sistema. ¿Desea sustituirla de todos modos?
+
+Se guardarán todos los datos de usuario anteriores."</string>
     <string name="lift_ban">Quitar bloqueo</string>
-    <string name="out_of_space_dlg_title">Sin espacio</string>
-    <string name="out_of_space_dlg_text">No se ha podido desinstalar %1$s. Libera espacio e inténtalo de nuevo.</string>
-    <string name="dlg_ok">Aceptar</string>
+    <string name="out_of_space_dlg_title">Sin espacio disponible</string>
+    <string name="out_of_space_dlg_text">No se ha podido instalar %1$s. Libera espacio e inténtalo de nuevo.</string>
+    <string name="dlg_ok">OK</string>
     <string name="app_not_found_dlg_title">No se ha encontrado la aplicación.</string>
     <string name="app_not_found_dlg_text">No se ha encontrado la aplicación en la lista de aplicaciones instaladas.</string>
-    <string name="perm_privacy_app_finish">Finalizar</string>
-    <string name="perm_privacy_app_launch">Ejecutar</string>
-    <string name="perm_privacy_app_installed">Instalación exitosa!</string>
-    <string name="perm_sysopt_boost_auto_start">Permisos de inicio automático</string>
-    <string name="perm_sysopt_boost_auto_start_summary">La aplicación se ejecutará automáticamente!</string>
-    <string name="perm_privacy_app_trust">Confio en esta aplicación</string>
-    <string name="perm_privacy_app_trust_summary">MIUI monitoreará esta aplicación</string>
-    <string name="perm_action_accept">Permitir</string>
-    <string name="perm_action_prompt">Preguntar</string>
-    <string name="perm_action_reject">Denegar</string>	
     <string name="uninstall_application_title">Desinstalar aplicación</string>
     <string name="uninstall_update_title">Desinstalar actualización</string>
     <string name="uninstall_activity_text">%1$s es parte de la siguiente aplicación:</string>
+    <string name="uninstall_confirm_question">¿Quiere desinstarlar la aplicación?</string>
     <string name="uninstall_application_text">Esta aplicación se desinstalará.</string>
     <string name="uninstall_update_text">La actualización de la aplicación se desinstalará. Aún puedes utilizar la versión de fábrica de la aplicación.</string>
     <string name="uninstalling">Desinstalando…</string>
@@ -57,9 +89,7 @@ Permitir esto ahora y en el futuro?"</string>
     <string name="uninstall_failed">La desinstalación no se ha realizado correctamente.</string>
     <string name="uninstall_failed_device_policy_manager">No es posible desinstalar: este paquete es parte des dispositivo del administrador.</string>
     <string name="manage_device_administrators">Gestionar dispositivos del administrador</string>
-    <string name="uninstall_failed_msg">No se ha podido desinstalar %1$s.</string>
-    <string name="uninstall_failed_retained_app_msg">La aplicación modificada por el operador no puede ser desinstalada</string>
+    <string name="uninstall_failed_msg">No se ha podido desinstalar %1$s</string>
+    <string name="uninstall_failed_retained_app_msg">Estas apps han sido modificadas y no pueden ser desinstaldas de esta manera.</string>
     <string name="Parse_error_dlg_title">Error de análisis</string>
-    <string name="Parse_error_dlg_text">Se ha producido un problema al analizar el paquete.</string>
-    <string name="caller_app">Invocado desde:%1$s</string>
 </resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sim_card_detection_dialog_message">Detectando tarjeta UIM. Por favor espere.</string>
+    <string name="sim_card_detection_label">Detección tarjeta UIM</string>
+    <string name="sim_card_detection_info">No podemos configurar la cuenta Xiaomi sin una tarjeta UIM. Necesita una tarjeta UIM para disfrutar de los servicios de sincronización de cuentas, seguimiento de teléfono, etc.</string>
+    <string name="sim_card_detection_status_absent">No se ha detectado una tarjeta UIM!</string>
+</resources>

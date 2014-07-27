@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ajustes SVI</string>
+    <string name="svi_settings_title">Ventana de ajustes SVI</string>
+    <string name="svi_enable_title">Activar ventana SVI</string>
+    <string name="svi_enable_summary_on">Mejorar la visión basada en las condiciones ambientales</string>
+    <string name="svi_enable_summary_off">La experiencia de visión no se verá reforzada por las condiciones ambientales</string>
+    <string name="svi_info_default">Desconocido</string>
+    <string name="svi_version_title">Versión SVI</string>
+</resources>
