@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="channel_tabs">
+        <item>Lo+</item>
+        <item>Posición</item>
+        <item>Nuevo</item>
+    </string-array>
+    <string-array name="channel_featured_tabs">
+        <item>Preferido</item>
+        <item>Posición</item>
+        <item>Nuevo</item>
+    </string-array>
+    <string-array name="series_detail_tabs">
+        <item>Episodio</item>
+        <item>Sumario</item>
+    </string-array>
+    <string-array name="addon_list_tabs">
+        <item>Todos especiales</item>
+        <item>Mis especiales</item>
+    </string-array>
+</resources>
