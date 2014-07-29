@@ -14,7 +14,7 @@
   <string name="button_next">Siguiente</string>
   <string name="button_pre">Atrás</string>
   <string name="can_not_find_explorer">No se encuentra el explorador de archivos, ¿la aplicación está instalada?</string>
-  <string name="can_not_send_this_file">¡Error al enviar el archivo!</string>
+  <string name="can_not_send_this_file">¡No es posible enviar este archivo!</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_receive">Cancelar</string>
   <string name="cancel_send">Cancelar</string>
@@ -164,7 +164,7 @@
   <string name="send_to">Enviar a:</string>
   <string name="send_uncompleted">Transferencia incompleta</string>
   <string name="sent">Enviado</string>
-  <string name="settings_auto_pair_sender_summary">Empareja el sonido con el emisor/receptor</string>
+  <string name="settings_auto_pair_sender_summary">Empareja el sonido entre el emisor/receptor</string>
   <string name="settings_auto_pair_sender_title">Emparejamiento con el remitente</string>
   <string name="settings_connect">Ajustes de conexión</string>
   <string name="settings_label">Ajustes de Transfer</string>
@@ -205,13 +205,13 @@
   <string name="voice_match">Autoemparejamiento rápido</string>
   <string name="wait_for_upload">Esperando a que finalice la subida</string>
   <string name="wait_for_upload_to_download">Esperando a que finalice la descarga, por favor, espere.</string>
-  <string name="wait_for_upload_to_restore">Esperando a que termine la restauración para subirla a MiDrive, por favor, espere</string>
+  <string name="wait_for_upload_to_restore">Esperando a que termine la restauración para subir a MiDrive, por favor, espere</string>
   <string name="wait_login">Accediendo</string>
   <string name="wait_net">Esperando servidor</string>
   <string name="wait_sdcard">Esperando por la tarjeta SD</string>
   <string name="wait_wifi">Esperando Wi-Fi</string>
-  <string name="wait_wifi_to_download">Esperando conexión Wi-Fi para descargar archivos autmaticamente</string>
-  <string name="wait_wifi_to_upload">Esperando conexión Wi-Fi para subir y compartir archivos automaticamente</string>
+  <string name="wait_wifi_to_download">Esperando conexión Wi-Fi para descargar archivos automáticamente</string>
+  <string name="wait_wifi_to_upload">Esperando conexión Wi-Fi para subir y compartir archivos automáticamente</string>
   <string name="waiting_receive">Esperando recepción</string>
   <string name="waitting">Esperando...</string>
   <string name="wanna_receive">Recibir archivo</string>
