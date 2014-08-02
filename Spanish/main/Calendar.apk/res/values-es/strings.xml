@@ -272,13 +272,13 @@
     <string name="birthday_event_description">¡Hoy es el cumpleaños de %1$s!</string>
     <string name="birthday_event_description_detail_leap" />
     <string name="birthday_event_description_detail_smart" />
-    <string name="jump_date">Jump</string>
-    <string name="jump_date_full">Jump to date</string>
+    <string name="jump_date">Saltar</string>
+    <string name="jump_date_full">Saltar a la fecha</string>
     <string name="miui_chinese_week_range_single" />
     <string name="miui_chinese_week_range_double" />
-    <string name="miui_menu_create_event">New</string>
+    <string name="miui_menu_create_event">Nuevo</string>
     <string name="preferences_category_general_title">General</string>
-    <string name="preferences_category_account_title">Account</string>
+    <string name="preferences_category_account_title">Cuenta</string>
     <string name="work_day_indication" />
     <string name="rest_day_indication" />
     <string name="more_string">+%1$s</string>
