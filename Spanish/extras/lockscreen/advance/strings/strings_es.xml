@@ -1,5 +1,5 @@
 <resources>
-    <string name="date_format">MM/dd EEEE</string>
-    <string name="emergency_call">Emergency call</string>
-    <string name="unknown_number">Unknown number</string>
+    <string name="date_format">dd/MM EEEE</string>
+    <string name="emergency_call">Llamada de emergencia</string>
+    <string name="unknown_number">Número desconocido</string>
 </resources>
