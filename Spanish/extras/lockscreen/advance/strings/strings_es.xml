@@ -1,4 +1,5 @@
-<strings>
-    <string name="short_date_format" value="dd/MM EEEE" />
-    <string name="long_date_format" value="dd/MM/yyyy" />
-</strings>
+<resources>
+    <string name="date_format">MM/dd EEEE</string>
+    <string name="emergency_call">Emergency call</string>
+    <string name="unknown_number">Unknown number</string>
+</resources>
