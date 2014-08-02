@@ -155,7 +155,7 @@ y deje de usarlo durante un momento"</string>
     <string name="accessibility_review_thumbnail">Foto más reciente</string>
     <string name="accessibility_zoom_control">Control de zoom</string>
     <string name="accessibility_camera_picker">Opción de cámara trasera y delantera</string>
-    <string name="accessibilit_camera_video_switch_picker_and_state">Alternador de cámara y vídeocmámara, ahora está en</string>
+    <string name="accessibilit_camera_video_switch_picker_and_state">Alternador de cámara y vídeocámara, ahora está en</string>
     <string name="accessibility_camera_flashmode">Siempre en modo flash</string>
     <string name="accessibility_camera_auto_flashmode">Modo auto-flash</string>
     <string name="accessibility_camera_flash_closemode">Sin flash</string>
