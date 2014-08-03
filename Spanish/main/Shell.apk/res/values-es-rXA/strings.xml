@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Shell</string>
+    <string name="bugreport_finished_title">Informe de fallu capturáu</string>
+    <string name="bugreport_finished_text">"Toca pa compartir l'informe de fallu"</string>
+    <string name="bugreport_confirm">Los informes de fallos contienen datos de los distintos ficheros de rexistru del sistema, incluyida información personal y privada. Comparte los informes de fallos namái con aplicaciones y usuarios nos que confíes.</string>
+    <string name="bugreport_confirm_repeat">Amosar esti mensaxe la próxima vegada</string>
+</resources>

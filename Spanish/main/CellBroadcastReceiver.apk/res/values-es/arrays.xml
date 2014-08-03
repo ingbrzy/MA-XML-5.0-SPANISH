@@ -11,6 +11,6 @@
         <item>Una vez</item>
         <item>Cada 2 minutos</item>
         <item>Cada 15 minutos</item>
-        <item>Off</item>
+        <item>Desactivado</item>
     </string-array>
 </resources>

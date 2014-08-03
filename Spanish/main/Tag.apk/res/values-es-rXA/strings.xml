@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Etiquetes</string>
+    <string name="title_scanned_tag">Etiqueta nueva almacenada</string>
+    <string name="title_existing_tag">Etiqueta</string>
+    <string name="tag_unknown">"Triba d'etiqueta desconocida"</string>
+    <string name="tag_empty">Etiqueta balera</string>
+    <string name="button_done">Fecho</string>
+    <string name="action_text">Testu %s</string>
+    <string name="action_call">Llamada %s</string>
+    <string name="empty_tag_prompt">Esta etiqueta ta balera.</string>
+    <string name="import_vcard">Importar ^1</string>
+    <string name="mime_display_name">Datos dende etiqueta NFC</string>
+    <string name="vcard_title">Info de contautu pa ^1</string>
+</resources>

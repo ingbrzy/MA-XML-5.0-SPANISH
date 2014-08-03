@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="clear_keyguard_wallpaper">Limpiar</string>
+    <string name="wallpaper_accessibility_name">Fondo de pantalla %1$d de %2$d</string>
+    <string name="announce_selection">%1$s seleccionado</string>
+    <string name="wallpaper_delete">Eliminar</string>
+    <string name="pick_image">Elegir imagen</string>
+    <string name="pick_wallpaper">Fondos de pantalla</string>
+    <string name="activity_not_found">La aplicación no está instalada.</string>
+    <string name="crop_wallpaper">Recortar fondo de pantalla</string>
+    <string name="wallpaper_instructions">Establecer fondo de pantalla</string>
+    <string name="wallpaper_load_fail">No se puede cargar esta imagen como fondo de pantalla</string>
+</resources>

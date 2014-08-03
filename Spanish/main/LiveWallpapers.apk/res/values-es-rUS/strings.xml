@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">Fondos de pantalla animados Android</string>
+    <string name="wallpaper_walkaround">Ver a través</string>
+    <string name="wallpaper_walkaround_author">Google</string>
+    <string name="wallpaper_walkaround_desc">Observa a través del dispositivo y camina sin correr el riesgo de sufrir accidentes.</string>
+    <string name="wallpaper_grass">Pasto</string>
+    <string name="wallpaper_grass_author">Google</string>
+    <string name="wallpaper_grass_desc">Hojas de pasto serpentean suavemente frente a un cielo diurno o nocturno.</string>
+    <string name="wallpaper_galaxy">Galaxia</string>
+    <string name="wallpaper_galaxy_author">Google</string>
+    <string name="wallpaper_galaxy_desc">Una galaxia compuesta por estrellas que giran lentamente.</string>
+    <string name="wallpaper_fall">Agua</string>
+    <string name="wallpaper_fall_author">Google</string>
+    <string name="wallpaper_fall_desc">Las hojas secas caen&lt;br> Al lago que se mueve debajo:&lt;br> Fondo líquido Zen</string>
+    <string name="wallpaper_clock">Reloj polar</string>
+    <string name="wallpaper_clock_author">Google</string>
+    <string name="wallpaper_clock_desc">Muestra la fecha y la hora como arcos en dirección horaria: mes, día, hora, minuto y segundo.</string>
+    <string name="wallpaper_nexus">Nexos</string>
+    <string name="wallpaper_nexus_author">Google</string>
+    <string name="wallpaper_nexus_desc">Un vistazo a la red neural.</string>
+    <string name="clock_settings">Parámetros de configuración del reloj polar</string>
+    <string name="show_seconds">Mostrar segundos</string>
+    <string name="variable_line_width">Cambiar la circunferencia del anillo</string>
+    <string name="palette">Paleta de colores</string>
+    <string name="palette_gray">Hierro</string>
+    <string name="palette_violet">Medianoche</string>
+    <string name="palette_matrix">Pantalla verde</string>
+    <string name="palette_white_c">Oso polar (dinámico)</string>
+    <string name="palette_black_c">Agujero negro (dynamic)</string>
+    <string name="palette_halloween">Pastel de calabaza</string>
+    <string name="palette_zenburn">Ensalada de frutas alienígena</string>
+    <string name="palette_oceanic">Láser azul</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Curiapantalles de semeyes</string>
+    <string name="table_screensaver_name">Tabla de semeyes</string>
+    <string name="flipper_screensaver_name">Marcu de semeyes</string>
+    <string name="posts_album_name">"Semeyes d'espublizaciones"</string>
+    <string name="unknown_album_name">Álbum ensin nome</string>
+    <string name="stock_photo_album_name">"Semeyes d'archivu"</string>
+    <string name="local_source_name">Semeyes del preséu</string>
+    <string name="need_to_configure">"Nun s'esbilló nenguna semeya."</string>
+    <string name="photodream_select_all">Esbillar too</string>
+    <string name="photodream_select_none">Desmarcalo too</string>
+    <string name="no_photos">Nun hai semeyes nel preséu.</string>
+</resources>

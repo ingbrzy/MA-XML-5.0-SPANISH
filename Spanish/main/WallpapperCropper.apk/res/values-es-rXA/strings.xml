@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="clear_keyguard_wallpaper">Llimpiar</string>
+    <string name="wallpaper_accessibility_name">Fondu de pantalla %1$d de %2$d</string>
+    <string name="announce_selection">%1$s esbilláu</string>
+    <string name="wallpaper_delete">Desaniciar</string>
+    <string name="pick_image">Esbillar imaxe</string>
+    <string name="pick_wallpaper">Fondos de pantalla</string>
+    <string name="activity_not_found">"L'aplicación nun ta instalada."</string>
+    <string name="crop_wallpaper">Recortar el fondu de pantalla</string>
+    <string name="wallpaper_instructions">Afitar fondu de pantalla</string>
+    <string name="wallpaper_load_fail">Nun pudo cargase la imaxe como fondu de pantalla</string>
+</resources>

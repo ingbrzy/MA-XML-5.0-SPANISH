@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="install_new_cert_message">Pues instalar certificaos dende un ficheru PKCS#12 con estensión %1$s o %2$s allugáu nel almacenamientu esternu.</string>
+    <string name="app_name">Llaveru</string>
+    <string name="title_no_certs">"Nun s'atoparon certificaos"</string>
+    <string name="title_select_cert">Esbillar certificáu</string>
+    <string name="requesting_application">"L'aplicación %s solicitó un certificáu. Al seleicionar un certificáu, l'aplicación podrá usar esta identidá colos sirvidores agora y nel futuru."</string>
+    <string name="requesting_server">"L'aplicación identificó al sirvidor que solicita'l certificáu como %s, pero namái dexes que l'aplicación acceda al certificáu si confíes nella."</string>
+    <string name="install_new_cert_button_label">Instalar</string>
+    <string name="allow_button">Permitir</string>
+    <string name="deny_button">Refugar</string>
+</resources>

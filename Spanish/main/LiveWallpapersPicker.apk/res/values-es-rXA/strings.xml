@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Seleutor de fondu de pantalla animáu</string>
+    <string name="live_wallpaper_picker_title">Esbillar fondu de pantalla animáu</string>
+    <string name="live_wallpaper_picker_label">Fondos animaos</string>
+    <string name="live_wallpaper_preview_title">Vista previa de fondos animaos</string>
+    <string name="configure_wallpaper">Axustes…</string>
+    <string name="wallpaper_instructions">Afitar fondu de pantalla</string>
+    <string name="live_wallpaper_empty">Nun hai fondos animaos.</string>
+    <string name="set_live_wallpaper">Afitar fondu de pantalla</string>
+    <string name="wallpaper_title_and_author">%1$s por %2$s</string>
+    <string name="live_wallpaper_loading">Cargando fondu de pantalla…</string>
+    <string name="wallpaper_cancel">Encaboxar</string>
+</resources>

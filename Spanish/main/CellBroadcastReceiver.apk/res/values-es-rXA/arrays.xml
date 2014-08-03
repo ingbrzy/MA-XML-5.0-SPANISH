@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alert_sound_duration_entries">
+        <item>2 segundos</item>
+        <item>4 segundos</item>
+        <item>6 segundos</item>
+        <item>8 segundos</item>
+        <item>10 segundos</item>
+    </string-array>
+    <string-array name="alert_reminder_interval_entries">
+        <item>Una vegada</item>
+        <item>Cada 2 minutos</item>
+        <item>Cada 15 minutos</item>
+        <item>Desactiváu</item>
+    </string-array>
+    <string-array name="alert_reminder_interval_values">
+        <item>1</item>
+        <item>2</item>
+        <item>15</item>
+        <item>0</item>
+    </string-array>
+</resources>
