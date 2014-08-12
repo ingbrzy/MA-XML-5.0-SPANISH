@@ -6,7 +6,7 @@
     <string name="camera_disabled">La cámara se ha inhabilitado</string>
     <string name="camera_label">Cámara</string>
     <string name="video_camera_label">Videocámara</string>
-    <string name="wait">Eespere…</string>
+    <string name="wait">Espere…</string>
     <string name="no_storage">Inserte una SD para poder usar la cámara</string>
     <string name="not_enough_space">El almacenamiento interno está lleno</string>
     <string name="preparing_sd">Preparando almacenamiento interno…</string>
@@ -16,7 +16,7 @@
     <string name="confirm_change_mode_title">¿Cambiar modo?</string>
     <string name="confirm_change_to_expert_mode_message">¿Cambiar a modo profesional?</string>
     <string name="confirm_change_to_simple_mode_message">¿Cambiar a modo simple?</string>
-    <string name="confirm_location_message">La cámara puede memorizar su localización, ¿Quiere activarlo?</string>
+    <string name="confirm_location_message">La cámara puede memorizar su localización, ¿quiere activarlo?</string>
     <string name="save">Guardar</string>
     <string name="no_save">No guardar</string>
     <string name="review_cancel">CANCELAR</string>
