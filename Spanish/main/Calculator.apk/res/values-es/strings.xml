@@ -43,8 +43,8 @@
     <string name="sqrt">√</string>
     <string name="power">^</string>
     <string name="factorial">!</string>
-    <string name="basic">Panel básico</string>
-    <string name="advanced">Panel avanzado</string>
+    <string name="basic">Modo básico</string>
+    <string name="advanced">Modo avanzado</string>
     <string name="clear_history">Borrar historial</string>
     <string name="text_copied_toast">Texto copiado.</string>
     <string name="leftParenDesc">paréntisis izquierdo</string>
@@ -55,8 +55,8 @@
     <string name="sqrtDesc">raíz cuadrada</string>
     <string name="divDesc">dividir</string>
     <string name="mulDesc">multiplicar</string>
-    <string name="plusDesc">plus</string>
-    <string name="minusDesc">minus</string>
+    <string name="plusDesc">suma</string>
+    <string name="minusDesc">resta</string>
     <string name="dotDesc">punto</string>
     <string name="powerDesc">encendido</string>
     <string name="delDesc">eliminar</string>
