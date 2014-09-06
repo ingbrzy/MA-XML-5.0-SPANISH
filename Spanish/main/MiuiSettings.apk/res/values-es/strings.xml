@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="miui_settings">Ajustes LG</string>
+    <string name="operation">Operación</string>
+    <string name="gesture">Gestos</string>
+    <string name="mipop">MiPop</string>
+    <string name="display">Pantalla</string>
+    <string name="display_settings">Ajustes de pantalla</string>
+    <string name="connect">Conectar</string>
+    <string name="usb_settings">Ajustes de USB</string>
+    <string name="author_info">Información del autor</string>
+    <string name="author">Portado por gtbluesky, Traducida por Stenka.</string>
+    <string name="author_summary">"Gracias por usar la ROM!
+Si tienes alguna sugerencia, por favor pulsa aquí para ver mi perfil de Weibo"</string>
+    <string name="software_info">Información del software</string>
+    <string name="software">Versión del software</string>
+    <string name="software_version">"V1.2"</string>
+</resources>
