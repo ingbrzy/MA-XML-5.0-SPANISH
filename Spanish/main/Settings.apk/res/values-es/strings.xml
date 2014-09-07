@@ -394,7 +394,7 @@ El dispositivo está configurado para cambiar a esta configuración cuando la ba
     <string name="perm_mian_name">Permisos</string>
     <string name="perm_app_name">Permisos</string>
     <string name="perm_manage_tab_title">Permisos</string>
-    <string name="app_manage_tab_title">Apps</string>
+    <string name="app_manage_tab_title">Aplicaciones</string>
     <string name="app_log_tab_title">Registro de permisos</string>
     <string name="perm_copyright">Desarrollado po LBE Privacy Guard</string>
     <string name="perm_version">Versión: %1$s</string>
@@ -2579,9 +2579,9 @@ Pulsa en el botón para ir a los ajustes de la pantalla"</string>
     <string name="credentials_configure_lock_screen_hint">Para poder usar el almacenamiento de credenciales, debes establecer una contraseña o un PIN para la pantalla de bloqueo.</string>
     <string name="emergency_tone_title">Tono de emergencia</string>
     <string name="emergency_tone_summary">Establecer comportamiento al realizar una llamada de emergencia</string>
-    <string name="privacy_settings">Backup y reseteo</string>
-    <string name="privacy_settings_title">Backup y reseteo</string>
-    <string name="backup_section_title">Backup y restauración</string>
+    <string name="privacy_settings">Copia de seguridad</string>
+    <string name="privacy_settings_title">Copias de seguridad</string>
+    <string name="backup_section_title">Copia y restauración</string>
     <string name="personal_data_section_title">Datos personales</string>
     <string name="backup_data_title">Almacenar mis datos</string>
     <string name="backup_data_summary">Hacer copia de seguridad en los servidores de Google de los datos de aplicaciones, contraseñas Wi-Fi y otros ajustes personales</string>
