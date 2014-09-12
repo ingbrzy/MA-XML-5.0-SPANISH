@@ -243,7 +243,7 @@ Lea el mensaje enviado por su proveedor de red para obtener más información"</
     <string name="traffic_saving_button_sorted_chose_simcard">Elegir top</string>
     <string name="traffic_saving_msg_today">Datos ahorrados hoy:</string>
     <string name="traffic_saving_msg_month">Total datos este mes:</string>
-    <string name="traffic_saving_msg_not_started">Ahorro de datos está apagado</string>
+    <string name="traffic_saving_msg_not_started">Ahorro de datos off</string>
     <string name="traffic_saving_history_title">Historial</string>
     <string name="traffic_saving_history_total_traffic">Datos ahorrados</string>
     <string name="traffic_saving_history_total_rate">Porcentaje</string>
