@@ -8,7 +8,7 @@
     <string name="main_button_idel_traffic">Sin picos</string>
     <string name="main_toolbar_firewall">Restringir</string>
     <string name="main_toolbar_statistic">Estadísticas</string>
-    <string name="main_toolbar_saving">Saver</string>
+    <string name="main_toolbar_saving">Ahorro</string>
     <string name="main_toolbar_purchase">Top-up</string>
     <string name="main_button_usage_adjust">Establezca uso de datos móviles</string>
     <string name="main_button_usage_adjusting">Cambiar…</string>
@@ -251,16 +251,16 @@ Lea el mensaje enviado por su proveedor de red para obtener más información"</
     <string name="traffic_saving_history_total_money">Total ahorrado</string>
     <string name="traffic_saving_history_total_money_unit">EUR</string>
     <string name="traffic_saving_history_total_month">"Ahorrado este mes: "</string>
-    <string name="traffic_saving_history_total_month_default">Avg monthly savings:</string>
+    <string name="traffic_saving_history_total_month_default">Media de ahorro:</string>
     <string name="traffic_saving_history_total_month_value">"Escuchar &lt;font color='#45c487'>&lt;b>&lt;big>%1$s&lt;/big>&lt;/b>&lt;/font> canciones / Chatear durante &lt;font color='#45c487'>&lt;b>&lt;big>%2$s&lt;/big>&lt;/b>&lt;/font> horas / Leer &lt;font color='#45c487'>&lt;b>&lt;big>%3$s&lt;/big>&lt;/b>&lt;/font> artículos"</string>
-    <string name="traffic_saving_history_total_month_value_default">"Escuchar &lt;font color='#45c487'>&lt;b>&lt;big>18&lt;/big>&lt;/b>&lt;/font> canciones / Chat for &lt;font color='#45c487'>&lt;b>&lt;big>10&lt;/big>&lt;/b>&lt;/font> horas / Leer &lt;font color='#45c487'>&lt;b>&lt;big>86&lt;/big>&lt;/b>&lt;/font> artículos"</string>
+    <string name="traffic_saving_history_total_month_value_default">"Escuchar &lt;font color='#45c487'>&lt;b>&lt;big>18&lt;/big>&lt;/b>&lt;/font> canciones / Chatear durante &lt;font color='#45c487'>&lt;b>&lt;big>10&lt;/big>&lt;/b>&lt;/font> horas / Leer &lt;font color='#45c487'>&lt;b>&lt;big>86&lt;/big>&lt;/b>&lt;/font> artículos"</string>
     <string name="pref_traffic_saving_title">Ajustes del ahorro de datos</string>
     <string name="pref_traffic_saving_switch">Reducir consumo de datos</string>
     <string name="pref_traffic_saving_switch_hint">Usar proxy para comprimir los datos</string>
     <string name="pref_traffic_saving_notify_switch">Mostrar en la barra de notificaciones</string>
     <string name="pref_traffic_saving_notify_switch_hint">Mostrar el ahorro de datos en la barra de notificaciones</string>
     <string name="pref_traffic_saving_whitelist">Excepciones</string>
-    <string name="pref_traffic_saving_whitelist_hint">Lift data restrictions for a select group of apps</string>
+    <string name="pref_traffic_saving_whitelist_hint">Restricciones de datos para un grupo de aplicaciones</string>
     <string name="pref_traffic_saving_issue">FAQ</string>
     <string name="pref_traffic_saving_issue_content">"&lt;b> 1. ¿Activar la app para ahorrar datos afectará a mi privacidad? &lt;/b>&lt;br />&lt;br />No. Tus datos se mantendrán privados y no serán compartidos con terceros. &lt;br />&lt;br />&lt;br />&lt;b> ¿Porqué lo esta funcionando el ahorro de datos? &lt;/b>&lt;br />&lt;br /> El ahorro de datos solo funciona cuando utiliza la red de su proveedor para almacenar o enviar contenido."</string>
     <string name="traffic_saving_whitelist_btn_add_app">Añadir</string>
