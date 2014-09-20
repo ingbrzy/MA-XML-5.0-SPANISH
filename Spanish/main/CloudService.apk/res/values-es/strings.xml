@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Sincronizar con Mi Cloud</string>
-    <string name="sync_item_sms_title">Sincronizar SMS</string>
-    <string name="sync_item_sms_summary">Se sincronizarán sus mensajes de texto.</string>
-    <string name="sub_sync_item_sms_title_wifi_only">Sincronizar MMS: Solo por Wi-Fi</string>
-    <string name="sub_sync_item_sms_summary">Se recomienda activar, de otro modo incrementará el tráfico de datos.</string>
-    <string name="pref_title_sync_my_profile_title">Sincronizar mi perfil</string>
+    <string name="find_device_noise_title">Sonido de localización</string>
+    <string name="find_device_stop_noise">Pulse OK para silenciar</string>
+    <string name="pref_summary_sync_display_photo_on_wifi_only">Ahorro de datos (podría hacerle ahorrar su dinero)</string>
     <string name="pref_title_sync_contacts_title">Sincronizar contactos</string>
     <string name="pref_title_sync_display_photo_on_wifi_only">Mostrar fotografías: sólo por Wi-Fi</string>
-    <string name="pref_summary_sync_display_photo_on_wifi_only">Ahorro de datos (podría hacerle ahorrar su dinero)</string>
-    <string name="find_device_stop_noise">Pulse OK para silenciar</string>
-    <string name="find_device_noise_title">Sonido de localización</string>
-    <string name="sync_item_calllog_title">Sincronizar registro de llamadas</string>
+    <string name="pref_title_sync_my_profile_title">Sincronizar mi perfil</string>
+    <string name="sub_sync_item_sms_summary">Se recomienda activar, de otro modo incrementará el tráfico de datos.</string>
+    <string name="sub_sync_item_sms_title_wifi_only">Sincronizar MMS: Solo por Wi-Fi</string>
     <string name="sync_item_calllog_summary">Sincronizar grabaciones de llamadas hechas y recibidas con este dispositivo</string>
+    <string name="sync_item_calllog_title">Sincronizar registro de llamadas</string>
+    <string name="sync_item_sms_summary">Se sincronizarán sus mensajes de texto.</string>
+    <string name="sync_item_sms_title">Sincronizar SMS</string>
 </resources>
