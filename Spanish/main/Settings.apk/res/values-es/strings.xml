@@ -2006,7 +2006,7 @@ Para eliminar la música, las imágenes y otros datos de usuario, debes borrar l
     <string name="activity_not_found">App no instalada en tu dispositivo.</string>
     <string name="manageapplications_settings_title">Administrar aplicaciones</string>
     <string name="manageapplications_settings_summary">Administrar y eliminar apps instaladas</string>
-    <string name="applications_settings">Apps</string>
+    <string name="applications_settings">Aplicaciones</string>
     <string name="applications_settings_summary">Administrar apps y configurar accesos directos de inicio rápido</string>
     <string name="applications_settings_header">Ajustes de</string>
     <string name="install_applications">Orígenes desconocidos</string>
@@ -2363,7 +2363,7 @@ If the device has multiple users, using this shortcut on the lock screen tempora
     <string name="accessibility_service_no_apps_message">TalkBack ofrece mensajes de voz para ayudar a los usuarios ciegos y de baja visión. ¿Quiere instalarla de forma gratuita desde el Android Market?</string>
     <string name="accessibility_service_default_description">Sin descripción.</string>
     <string name="settings_button">Ajustes</string>
-    <string name="print_settings">Imprimiendo</string>
+    <string name="print_settings">Impresoras</string>
     <string name="print_settings_title">Servicios de impresión</string>
     <string name="print_service_security_warning_title">¿Usar %1$s?</string>
     <string name="print_service_security_warning_summary">Su documento puede pasar a través de uno o más servidores de camino a la impresora.</string>
@@ -2462,8 +2462,8 @@ Pulsa en el botón para ir a los ajustes de la pantalla"</string>
     <string name="menu_stats_refresh">Actualizar</string>
     <string name="process_kernel_label">Android OS</string>
     <string name="process_mediaserver_label">Servidor multimedia</string>
-    <string name="process_stats_summary_title">Estadísiticas de proceso</string>
-    <string name="process_stats_summary">Estadísticas Geeky sobre los procesos en ejecución</string>
+    <string name="process_stats_summary_title">Estadísticas de proceso</string>
+    <string name="process_stats_summary">Estadísticas sobre los procesos en ejecución</string>
     <string name="app_memory_use">Uso de memoria</string>
     <string name="process_stats_total_duration">%1$s apps de %2$s</string>
     <string name="process_stats_type_background">Fondo</string>
@@ -3076,8 +3076,8 @@ Cualquier usuario puede aceptar los permisos de una aplicación actualizada en n
     <string name="device_memory">RAM</string>
     <string name="device_internal_memory">Memoria interna</string>
     <string name="device_sd_memory">Tarjeta SD</string>
-    <string name="device_cpu2_info">Dual-Core</string>
-    <string name="device_cpu4_info">Quad-Core</string>
+    <string name="device_cpu2_info">Dual-Core </string>
+    <string name="device_cpu4_info">Quad-Core </string>
     <string name="available_size">%s disponible</string>
     <string name="total_size">%s total</string>
     <string name="memory_title">Disponible %1$s\u0009\u0009Total: %2$s</string>
