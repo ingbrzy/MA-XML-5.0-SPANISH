@@ -3,7 +3,11 @@
     <string name="miui_settings">Ajustes LG</string>
     <string name="operation">Operación</string>
     <string name="gesture">Gestos</string>
+    <string name="virtual_key">Botones virtuales</string>
     <string name="mipop">MiPop</string>
+    <string name="navigation_bar">Barra de navegación</string>
+    <string name="navigation_bar_on">Barra de navegación ON</string>
+    <string name="navigation_bar_off">Barra de navegación OFF</string>
     <string name="display">Pantalla</string>
     <string name="display_settings">Ajustes de pantalla</string>
     <string name="connect">Conexion</string>
@@ -15,4 +19,10 @@ Si tienes alguna sugerencia, por favor pulsa aquí para ver mi perfil de Weibo"<
     <string name="software_info">Información del software</string>
     <string name="software">Versión del software</string>
     <string name="software_version">"V1.2"</string>
+    <string name="on_screen_title">¿Quiere activar la barra de navegación?</string>
+    <string name="on_screen_message">Al presionar en Aceptar el teléfono se reiniciará para aplicar los cambios.</string>
+    <string name="off_screen_title">¿Quiere desactivar la barra de navegación?</string>
+    <string name="off_screen_message">Por favor active MIPop antes de desactivar la barra de navegación, pulse aceptar para desactivar la barra y el teléfono se reiniciará.</string>
+    <string name="ok">Aceptar</string>
+    <string name="cancel">Cancelar</string>
 </resources>
