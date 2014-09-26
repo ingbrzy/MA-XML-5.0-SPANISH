@@ -14,7 +14,7 @@
     <string name="accessibility_time_picker_minute">Minuto</string>
     <string name="accessibility_time_picker_second">Segundo</string>
     <string name="account">Cuenta</string>
-    <string name="account_prifix">Cuenta:</string>
+    <string name="account_prifix">"Cuenta: "</string>
     <string name="action">Acceder</string>
     <string name="actionbar_share">Compartir</string>
     <string name="actionbar_web_search">Buscador web</string>
@@ -148,6 +148,7 @@
     <string name="delete_bookmark">desmarcar</string>
     <string name="delete_bookmark_warning">¿Eliminar marcador \"%s\"?</string>
     <string name="delete_folder">Eliminar carpeta</string>
+    <string name="delete_homepage">Eliminar página de inicio</string>
     <string name="delete_multi_bookmarks_alert_title">¿Borrar %1$s elemento(s)?</string>
     <string name="dialog_geolocation_reject">Rechazar</string>
     <string name="dialog_geolocation_share">Aceptar</string>
@@ -307,8 +308,8 @@
     <string name="pref_accessibility_title">Accesibilidad</string>
     <string name="pref_accessibility_url_shortcut_enter_summary">Al ingresar en la barra de direcciones, las combinaciones de letras habituales se pueden introducir de una vez</string>
     <string name="pref_accessibility_url_shortcut_enter_title">Introducir URL directa</string>
-    <string name="pref_adblock_counts">publicidad total bloqueada: %d</string>
-    <string name="pref_adblock_title">Pubclidad</string>
+    <string name="pref_adblock_counts">Publicidad total bloqueada: %d</string>
+    <string name="pref_adblock_title">Bloqueo de publicidad</string>
     <string name="pref_autofill_enabled">Formularios autocompletados</string>
     <string name="pref_autofill_enabled_summary">Rellenar formularios web con un sólo toque</string>
     <string name="pref_autofill_profile_editor">Texto para autocompletar</string>

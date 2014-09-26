@@ -3565,8 +3565,8 @@ Enlace de descarga:http://miui.com/mac"</string>
     <string name="change_security_lock">Probar otras formas de bloquear</string>
     <string name="sync_wifi_only">Solamente por Wi-Fi</string>
     <string name="line_breaking_title">Optimización de texto de párrafo</string>
-    <string name="line_breaking_summary">Optimize paragraph line breaking</string>
-    <string name="nfc_se_route_title">Posición del elemento secure</string>
+    <string name="line_breaking_summary">Optimiza los saltos de línea del texto en pantalla</string>
+    <string name="nfc_se_route_title">Posición del elemento seguro</string>
     <string name="se_route_ese">Elemento seguro incorporado</string>
     <string name="se_route_uicc">Elementos de seguridad en la SIM</string>
     <string name="current_use_uicc_se">Usando elementos de seguridad en la SIM</string>
