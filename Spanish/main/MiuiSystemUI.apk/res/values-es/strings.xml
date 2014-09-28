@@ -148,7 +148,7 @@ d.M.yyyy"</string>
     <string name="call_status_ringing">Sonando</string>
     <string name="reject_call">Rechazando llamada</string>
     <string name="status_bar_style_settings">Notificaciones</string>
-    <string name="status_bar_and_notification_bar">Notificationes y barra de estado</string>
+    <string name="status_bar_and_notification_bar">Notificaciones y barra de estado</string>
     <string name="settings_toggle_layout_style">Estilo de controles</string>
     <string name="settings_toggle_layout_style_compact">Compacto</string>
     <string name="settings_toggle_layout_style_single_page">Detallado</string>
@@ -319,4 +319,7 @@ d.M.yyyy"</string>
     <string name="screen_button_disabled_message">Funciones de botones en la pantalla inferior desactivados. Puede reactivarlos pulsando \"Home\" y \"Power\" simultáneamente.</string>
     <string name="screen_button_enabled_message">Botones de navegación activados.</string>
     <item type="string" name="APKTOOL_DUMMY_013b">false</item>
+    <string name="settings_statusbar_style">Estilo barra de estado</string>
+    <string name="center_clock_title">Reloj centrado</string>
+    <string name="center_clock_summary">El reloj se mostrará en el centro de la barra de estado después de marcar esta opción.</string>
 </resources>
